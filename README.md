@@ -1,11 +1,11 @@
 # 国内开源镜像站点汇总 
 ## 一、站点版
 ### （一）、企业站
-1. 网易：http://mirrors.163.com/
-1. 搜狐：http://mirrors.sohu.com/（Ubuntu旧发行版同步被冻结，不同步Ubuntu新发行版，Ubuntu源同步正常）
-1. 阿里云：http://mirrors.aliyun.com/（部分镜像同步延迟超过1天）
-1. 腾讯Bugly：http://android-mirror.bugly.qq.com:8080/（仅针对APP开发的软件，手动同步，限流）
-1. 新浪：http://mirrors.sina.cn/，http://mirrors.sina.com/（目前只收录CentOS，2015年3月上线）
+1. 网易：[http://mirrors.163.com/](http://mirrors.163.com/)
+1. 搜狐：[http://mirrors.sohu.com/](http://mirrors.sohu.com/)（Ubuntu旧发行版同步被冻结，不同步Ubuntu新发行版，Ubuntu源同步正常）
+1. 阿里云：[http://mirrors.aliyun.com/](http://mirrors.aliyun.com/)（部分镜像同步延迟超过1天）
+1. 腾讯Bugly：[http://android-mirror.bugly.qq.com:8080/](http://android-mirror.bugly.qq.com:8080/)（仅针对APP开发的软件，手动同步，限流）
+1. 新浪：[http://mirrors.sina.cn/](http://mirrors.sina.cn/)，[http://mirrors.sina.com/](http://mirrors.sina.com/)（目前只收录CentOS，2015年3月上线）
 
 ### （二）、教育站
 1. 中国科技大学：https://mirrors.ustc.edu.cn/（当前已用容量估计：21.32T）
