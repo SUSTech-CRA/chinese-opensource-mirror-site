@@ -50,7 +50,7 @@
 ### （三）、其他
 1. 首都在线科技股份有限公司（英文名Capital Online Data Service）：[http://mirrors.yun-idc.com/](http://mirrors.yun-idc.com/)
 2. 中国电信天翼云：[http://mirrors.ctyun.cn/](http://mirrors.ctyun.cn/)
-3. 常州贝特康姆软件技术有限公司(公云PubYun)：[http://centos.bitcomm.cn/](http://centos.bitcomm.cn/)，[http://mirrors.pubyun.com/](http://mirrors.pubyun.com/)h（当前已用容量估计：2.3T）
+3. 常州贝特康姆软件技术有限公司(公云PubYun)：[http://centos.bitcomm.cn/](http://centos.bitcomm.cn/)，[http://mirrors.pubyun.com/](http://mirrors.pubyun.com/)（当前已用容量估计：2.3T）
 4. 海波网络镜像：[http://mirrors.hypo.cn/](http://mirrors.hypo.cn/)（当前已用容量估计：1.68T，部分镜像同步延迟超过3天）
 5. 开源镜像文件搜索：[http://mirrors.org.cn/](http://mirrors.org.cn/)（只能搜索和浏览，不能下载）
 6. Linux运维派：[http://mirrors.skyshe.cn/](http://mirrors.skyshe.cn/)（使用阿里云服务器，界面使用浙江大学的模板，首页维护，内容可访问）
@@ -69,24 +69,24 @@
 18. cn99(常州贝特康姆旗下)：[http://mirrors.cn99.com/](http://mirrors.cn99.com/)
 
 ### （四）、确认关闭的镜像站
-1. 北京航空航天大学：http://mirror.buaa.edu.cn/，http://mirror.buaabt.cn/（2012年建立，2014年关闭。镜像站关闭后不久，未来花园BT关闭。）
-2. 青岛大学：http://mirror.qdu.edu.cn/，https://mirror.osqdu.org/（2009年建立，2012年关闭，OSQDU主要管理人员无法继续维护）
-3. 炼数成金Apache镜像：http://apache.dataguru.cn/（2016年关闭）
-4. 猫扑Apache镜像：http://labs.mop.com/apache-mirror/（2016年关闭）
-5. 人人网Apache镜像：http://labs.renren.com/apache-mirror/（2016年关闭）
-6. 开源中国社区：http://mirrors.oss.org.cn/，http://mirrors.oschina.net/（2015年关闭）
-7. 希网网络cn99：http://ubuntu.cn99.com/（域名CNAME跳转到网易镜像,2016年9月重建）
-8. 华中科技大学启明学院：http://mirrors.hustunique.com/（域名跳转到清华镜像）
-9. ZMX - IT技术交流论坛：http://mirrors.itzmx.com/（域名跳转到清华镜像）
-10. 中国科学院：http://www.opencas.org/mirrors/（2016年5月关闭）
-11. 电子科技大学LUG镜像：http://mirrors.uestc.xyz/（2016年4月关闭）
-12. 北京邮电大学：ftp://ftp.bupt.edu.cn/pub/mirror/（2016年9月关闭，清空FTP）
-13. 西南大学：http://mirrors.linuxstory.org/，http://mirrors.swu.edu.cn/（2016年6月关闭,2016年9月重建）
-14. 电子科技大学星辰工作室：http://mirrors.stuhome.net/（2016年8月关闭）
-15. noc.im：http://mirrors.noc.im/（2016年8月关闭）
-16. LUPA：http://mirror.lupaworld.com/（2016年停止同步，无实质内容）
-17. 远景：http://mirror.pcbeta.com/（2016年6月关闭）
-18. 山东理工大学：http://ruby.sdutlinux.org/（2016年9月关闭）
+1. 北京航空航天大学：[http://mirror.buaa.edu.cn/](http://mirror.buaa.edu.cn/)，[http://mirror.buaabt.cn/](http://mirror.buaabt.cn/)（2012年建立，2014年关闭。镜像站关闭后不久，未来花园BT关闭。）
+2. 青岛大学：[http://mirror.qdu.edu.cn/](http://mirror.qdu.edu.cn/)，[https://mirror.osqdu.org/](https://mirror.osqdu.org/)（2009年建立，2012年关闭，OSQDU主要管理人员无法继续维护）
+3. 炼数成金Apache镜像：[http://apache.dataguru.cn/](http://apache.dataguru.cn/)（2016年关闭）
+4. 猫扑Apache镜像：[http://labs.mop.com/apache-mirror/](http://labs.mop.com/apache-mirror/)（2016年关闭）
+5. 人人网Apache镜像：[http://labs.renren.com/apache-mirror/](http://labs.renren.com/apache-mirror/)（2016年关闭）
+6. 开源中国社区：[http://mirrors.oss.org.cn/](http://mirrors.oss.org.cn/)，[http://mirrors.oschina.net/](http://mirrors.oschina.net/)（2015年关闭）
+7. 希网网络cn99：[http://ubuntu.cn99.com/](http://ubuntu.cn99.com/)（域名CNAME跳转到网易镜像,2016年9月重建）
+8. 华中科技大学启明学院：[http://mirrors.hustunique.com/](http://mirrors.hustunique.com/)（域名跳转到清华镜像）
+9. ZMX - IT技术交流论坛：[http://mirrors.itzmx.com/](http://mirrors.itzmx.com/)（域名跳转到清华镜像）
+10. 中国科学院：[http://www.opencas.org/mirrors/](http://www.opencas.org/mirrors/)（2016年5月关闭）
+11. 电子科技大学LUG镜像：[http://mirrors.uestc.xyz/](http://mirrors.uestc.xyz/)（2016年4月关闭）
+12. 北京邮电大学：[ftp://ftp.bupt.edu.cn/pub/mirror/](ftp://ftp.bupt.edu.cn/pub/mirror/)（2016年9月关闭，清空FTP）
+13. 西南大学：[http://mirrors.linuxstory.org/](http://mirrors.linuxstory.org/)，[http://mirrors.swu.edu.cn/](http://mirrors.swu.edu.cn/)（2016年6月关闭,2016年9月重建）
+14. 电子科技大学星辰工作室：[http://mirrors.stuhome.net/](http://mirrors.stuhome.net/)（2016年8月关闭）
+15. noc.im：[http://mirrors.noc.im/](http://mirrors.noc.im/)（2016年8月关闭）
+16. LUPA：[http://mirror.lupaworld.com/](http://mirror.lupaworld.com/)（2016年停止同步，无实质内容）
+17. 远景：[http://mirror.pcbeta.com/](http://mirror.pcbeta.com/)（2016年6月关闭）
+18. 山东理工大学：[http://ruby.sdutlinux.org/](http://ruby.sdutlinux.org/)（2016年9月关闭）
 
 
 
