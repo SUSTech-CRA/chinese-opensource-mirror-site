@@ -195,11 +195,11 @@ DaoCloud：https://hub.daocloud.io/
 * Debian：http://ftp.cn.debian.org/<-->http://debian.ustc.edu.cn/中国科学技术大学
 
 
-五、镜像站搭建参考
-1.搭建开源镜像站-FPs，http://fangpeishi.github.io/build_opensource_mirror.html
-2.科大开源软件镜像是怎样炼成的，http://blog.renren.com/blog/350643946/912702930，http://blog.163.com/huangjiayao_1992/blog/static/2527169220138411412404/
-3.北京交通大学同步脚本，https://github.com/ideal/mirror
-4.中国科学院同步脚本，https://github.com/opencas/mirrors
-5.浙江大学同步脚本，https://github.com/zjulug，https://github.com/ZJU-NewMirrors
-6.重庆邮电大学同步脚本，https://github.com/CQUPTMirror
-7.兰州大学同步脚本，https://github.com/LZUOSS/Mirror
+## 五、镜像站搭建参考
+1.　搭建开源镜像站-FPs，http://fangpeishi.github.io/build_opensource_mirror.html
+2.　科大开源软件镜像是怎样炼成的，http://blog.renren.com/blog/350643946/912702930，http://blog.163.com/huangjiayao_1992/blog/static/2527169220138411412404/
+3.　北京交通大学同步脚本，https://github.com/ideal/mirror
+4.　中国科学院同步脚本，https://github.com/opencas/mirrors
+5.　浙江大学同步脚本，https://github.com/zjulug，https://github.com/ZJU-NewMirrors
+6.　重庆邮电大学同步脚本，https://github.com/CQUPTMirror
+7.　兰州大学同步脚本，https://github.com/LZUOSS/Mirror
