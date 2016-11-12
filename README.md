@@ -93,7 +93,7 @@
 ## 二、软件版
 ###（一）、操作系统类
 1. Ubuntu
- * 网易：http://mirrors.163.com/ubuntu-releases/
+ * 网易：[http://mirrors.163.com/ubuntu-releases/](http://mirrors.163.com/ubuntu-releases/)
  * 首都在线科技股份有限公司：http://mirrors.yun-idc.com/ubuntu-releases/
  * 阿里云：http://mirrors.aliyun.com/ubuntu-releases/
 
@@ -140,17 +140,17 @@
 
 2. 安卓SDK
  * 大连东软信息学院：http://mirrors.neusoft.edu.cn/android/repository/
- * 腾讯：http://android-mirror.bugly.qq.com:8080/android/repository/（限流）
- * 郑州大学：http://mirrors.zzu.edu.cn/android/repository/（2016年4月停止同步，2016年10月重新同步）
- * 南洋理工学院：http://mirror.nyist.edu.cn/android/repository/（停止同步）
+ * 腾讯：[http://android-mirror.bugly.qq.com:8080/android/repository/](http://android-mirror.bugly.qq.com:8080/android/repository/)（限流）
+ * 郑州大学：[http://mirrors.zzu.edu.cn/android/repository/](http://mirrors.zzu.edu.cn/android/repository/)（2016年4月停止同步，2016年10月重新同步）
+ * 南洋理工学院：[http://mirror.nyist.edu.cn/android/repository/](http://mirror.nyist.edu.cn/android/repository/)（停止同步）
 
 3. 安卓源码AOSP
  * 清华大学：https://mirrors.tuna.tsinghua.edu.cn/help/AOSP/
  * 中国科技大学：https://lug.ustc.edu.cn/wiki/mirrors/help/aosp
- * 东北大学：http://mirror.neu.edu.cn/android/（东北大学采用旧版本的脚本抓AOSP，2016年1月之后不再同步，不推荐使用这个镜像）
+ * 东北大学：[http://mirror.neu.edu.cn/android/](http://mirror.neu.edu.cn/android/)（东北大学采用旧版本的脚本抓AOSP，2016年1月之后不再同步，不推荐使用这个镜像）
 
 4. Xcode
- * 腾讯：http://android-mirror.bugly.qq.com:8080/Xcode/（更新速度较慢，建议直接从官网下载）
+ * 腾讯：[http://android-mirror.bugly.qq.com:8080/Xcode/](http://android-mirror.bugly.qq.com:8080/Xcode/)（更新速度较慢，建议直接从官网下载）
 
 5. Docker Hub
  * 网易蜂巢：https://c.163.com/hub#/m/home/
@@ -169,7 +169,7 @@
 * Gentoo：https://www.gentoo.org/downloads/mirrors/#CN
 * Ubuntu CD：https://launchpad.net/ubuntu/+cdmirrors
 * Ubuntu软件源：https://launchpad.net/ubuntu/+archivemirrors
-* Debian：https://www.debian.org/mirror/list.en.html，http://mirror.debian.org/status.html，http://ftp.debian.org/debian/README.mirrors.html
+* Debian：[https://www.debian.org/mirror/list.en.html](https://www.debian.org/mirror/list.en.html)，[http://mirror.debian.org/status.html](http://mirror.debian.org/status.html)，[http://ftp.debian.org/debian/README.mirrors.html](http://ftp.debian.org/debian/README.mirrors.html)
 * Linux Mint：https://linuxmint.com/mirrors.php
 * Fedora Linux/Fedora EPEL：https://admin.fedoraproject.org/mirrormanager/mirrors
 * openSUSE：http://mirrors.opensuse.org/
@@ -198,7 +198,7 @@
 
 ## 五、镜像站搭建参考
 1. 搭建开源镜像站-FPs，http://fangpeishi.github.io/build_opensource_mirror.html
-2. 科大开源软件镜像是怎样炼成的，http://blog.renren.com/blog/350643946/912702930，http://blog.163.com/huangjiayao_1992/blog/static/2527169220138411412404/
+2. 科大开源软件镜像是怎样炼成的，[http://blog.renren.com/blog/350643946/912702930](http://blog.renren.com/blog/350643946/912702930)，[http://blog.163.com/huangjiayao_1992/blog/static/2527169220138411412404/](http://blog.163.com/huangjiayao_1992/blog/static/2527169220138411412404/)
 3. 北京交通大学同步脚本，https://github.com/ideal/mirror
 4. 中国科学院同步脚本，https://github.com/opencas/mirrors
 5. 浙江大学同步脚本，https://github.com/zjulug，https://github.com/ZJU-NewMirrors
