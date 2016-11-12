@@ -111,55 +111,55 @@
 
 ### （二）、服务器类
 1. Tomcat、Apache
-中国互联网络信息中心：http://mirrors.cnnic.cn/apache/
-北京理工大学：http://mirror.bit.edu.cn/apache/
+ * 中国互联网络信息中心：http://mirrors.cnnic.cn/apache/
+ * 北京理工大学：http://mirror.bit.edu.cn/apache/
 
 2. MySQL
-北京理工大学：http://mirror.bit.edu.cn/mysql/Downloads/
-中国电信天翼云：http://mirrors.ctyun.cn/Mysql/
+ * 北京理工大学：http://mirror.bit.edu.cn/mysql/Downloads/
+ * 中国电信天翼云：http://mirrors.ctyun.cn/Mysql/
 
 3. PostgreSQL
-浙江大学：http://mirrors.zju.edu.cn/postgresql/
+ * 浙江大学：http://mirrors.zju.edu.cn/postgresql/
 
 4. MariaDB
-中国电信天翼云：http://mirrors.ctyun.cn/MariaDB/
+ * 中国电信天翼云：http://mirrors.ctyun.cn/MariaDB/
 
 5. mongodb
-阿里云：http://mirrors.aliyun.com/mongodb/
-清华大学：https://mirrors.tuna.tsinghua.edu.cn/mongodb/
+ * 阿里云：http://mirrors.aliyun.com/mongodb/
+ * 清华大学：https://mirrors.tuna.tsinghua.edu.cn/mongodb/
 
 6. VideoLAN
-大连东软信息学院：http://mirrors.neusoft.edu.cn/videolan/
-中国科技大学：http://mirrors.ustc.edu.cn/videolan-ftp/
+ * 大连东软信息学院：http://mirrors.neusoft.edu.cn/videolan/
+ * 中国科技大学：http://mirrors.ustc.edu.cn/videolan-ftp/
 
 ### （三）、开发工具类
 1. eclipse
-中国科技大学：http://mirrors.ustc.edu.cn/eclipse/
-东北大学：http://mirror.neu.edu.cn/eclipse/
+ * 中国科技大学：http://mirrors.ustc.edu.cn/eclipse/
+ * 东北大学：http://mirror.neu.edu.cn/eclipse/
 
 2. 安卓SDK
-大连东软信息学院：http://mirrors.neusoft.edu.cn/android/repository/
-腾讯：http://android-mirror.bugly.qq.com:8080/android/repository/（限流）
-郑州大学：http://mirrors.zzu.edu.cn/android/repository/（2016年4月停止同步，2016年10月重新同步）
-南洋理工学院：http://mirror.nyist.edu.cn/android/repository/（停止同步）
+ * 大连东软信息学院：http://mirrors.neusoft.edu.cn/android/repository/
+ * 腾讯：http://android-mirror.bugly.qq.com:8080/android/repository/（限流）
+ * 郑州大学：http://mirrors.zzu.edu.cn/android/repository/（2016年4月停止同步，2016年10月重新同步）
+ * 南洋理工学院：http://mirror.nyist.edu.cn/android/repository/（停止同步）
 
 3. 安卓源码AOSP
-清华大学：https://mirrors.tuna.tsinghua.edu.cn/help/AOSP/
-中国科技大学：https://lug.ustc.edu.cn/wiki/mirrors/help/aosp
-东北大学：http://mirror.neu.edu.cn/android/（东北大学采用旧版本的脚本抓AOSP，2016年1月之后不再同步，不推荐使用这个镜像）
+ * 清华大学：https://mirrors.tuna.tsinghua.edu.cn/help/AOSP/
+ * 中国科技大学：https://lug.ustc.edu.cn/wiki/mirrors/help/aosp
+ * 东北大学：http://mirror.neu.edu.cn/android/（东北大学采用旧版本的脚本抓AOSP，2016年1月之后不再同步，不推荐使用这个镜像）
 
 4. Xcode
-腾讯：http://android-mirror.bugly.qq.com:8080/Xcode/（更新速度较慢，建议直接从官网下载）
+ * 腾讯：http://android-mirror.bugly.qq.com:8080/Xcode/（更新速度较慢，建议直接从官网下载）
 
 5. Docker Hub
-网易蜂巢：https://c.163.com/hub#/m/home/
-灵雀云：https://hub.alauda.cn/
-DaoCloud：https://hub.daocloud.io/
-时速云：https://hub.tenxcloud.com/
+ * 网易蜂巢：https://c.163.com/hub#/m/home/
+ * 灵雀云：https://hub.alauda.cn/
+ * DaoCloud：https://hub.daocloud.io/
+ * 时速云：https://hub.tenxcloud.com/
 
 6. GitLab-CE
-清华大学：https://mirror.tuna.tsinghua.edu.cn/help/gitlab-ce/
-浙江大学：https://bbs.gitlab.cc/topic/15
+ * 清华大学：https://mirror.tuna.tsinghua.edu.cn/help/gitlab-ce/
+ * 浙江大学：https://bbs.gitlab.cc/topic/15
 
 
 ## 三、官方镜像列表状态地址
@@ -196,10 +196,10 @@ DaoCloud：https://hub.daocloud.io/
 
 
 ## 五、镜像站搭建参考
-1.　搭建开源镜像站-FPs，http://fangpeishi.github.io/build_opensource_mirror.html
-2.　科大开源软件镜像是怎样炼成的，http://blog.renren.com/blog/350643946/912702930，http://blog.163.com/huangjiayao_1992/blog/static/2527169220138411412404/
-3.　北京交通大学同步脚本，https://github.com/ideal/mirror
-4.　中国科学院同步脚本，https://github.com/opencas/mirrors
-5.　浙江大学同步脚本，https://github.com/zjulug，https://github.com/ZJU-NewMirrors
-6.　重庆邮电大学同步脚本，https://github.com/CQUPTMirror
-7.　兰州大学同步脚本，https://github.com/LZUOSS/Mirror
+1. 搭建开源镜像站-FPs，http://fangpeishi.github.io/build_opensource_mirror.html
+2. 科大开源软件镜像是怎样炼成的，http://blog.renren.com/blog/350643946/912702930，http://blog.163.com/huangjiayao_1992/blog/static/2527169220138411412404/
+3. 北京交通大学同步脚本，https://github.com/ideal/mirror
+4. 中国科学院同步脚本，https://github.com/opencas/mirrors
+5. 浙江大学同步脚本，https://github.com/zjulug，https://github.com/ZJU-NewMirrors
+6. 重庆邮电大学同步脚本，https://github.com/CQUPTMirror
+7. 兰州大学同步脚本，https://github.com/LZUOSS/Mirror
