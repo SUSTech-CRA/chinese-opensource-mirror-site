@@ -92,22 +92,22 @@
 ## 二、软件版
 ###（一）、操作系统类
 1. Ubuntu
-网易：http://mirrors.163.com/ubuntu-releases/
-首都在线科技股份有限公司：http://mirrors.yun-idc.com/ubuntu-releases/
-阿里云：http://mirrors.aliyun.com/ubuntu-releases/
+ * 网易：http://mirrors.163.com/ubuntu-releases/
+ * 首都在线科技股份有限公司：http://mirrors.yun-idc.com/ubuntu-releases/
+ * 阿里云：http://mirrors.aliyun.com/ubuntu-releases/
 
 2. Centos
-网易：http://mirrors.163.com/centos/
-搜狐：http://mirrors.sohu.com/centos/
-阿里云：http://mirrors.aliyun.com/centos/
+ * 网易：http://mirrors.163.com/centos/
+ * 搜狐：http://mirrors.sohu.com/centos/
+ * 阿里云：http://mirrors.aliyun.com/centos/
 
 3. 树莓派Raspbian
-搜狐：http://mirrors.sohu.com/raspbian/
-中国科技大学：http://mirrors.ustc.edu.cn/raspbian/
-浙江大学：http://mirrors.zju.edu.cn/raspbian/
-重庆大学：https://b.mirrors.lanunion.org/Raspbian/
-郑州大学：http://mirrors.zzu.edu.cn/raspbian/
-吉林大学：http://mirrors.jlu.edu.cn/raspbian/
+ * 搜狐：http://mirrors.sohu.com/raspbian/
+ * 中国科技大学：http://mirrors.ustc.edu.cn/raspbian/
+ * 浙江大学：http://mirrors.zju.edu.cn/raspbian/
+ * 重庆大学：https://b.mirrors.lanunion.org/Raspbian/
+ * 郑州大学：http://mirrors.zzu.edu.cn/raspbian/
+ * 吉林大学：http://mirrors.jlu.edu.cn/raspbian/
 
 ### （二）、服务器类
 1. Tomcat、Apache
