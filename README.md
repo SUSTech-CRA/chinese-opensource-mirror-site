@@ -8,43 +8,43 @@
 1. 新浪：http://mirrors.sina.cn/，http://mirrors.sina.com/（目前只收录CentOS，2015年3月上线）
 
 ### （二）、教育站
-1.中国科技大学：https://mirrors.ustc.edu.cn/（当前已用容量估计：21.32T）
-2.清华大学：https://mirrors.tuna.tsinghua.edu.cn/（当前已用容量估计：9.8T）
-3.吉林大学：http://mirrors.jlu.edu.cn/（当前已用容量估计：5.67T）
-4.北京交通大学：http://mirror.bjtu.edu.cn/cn/
-5.北京理工大学：http://mirror.bit.edu.cn/web/
-6.兰州大学：http://mirror.lzu.edu.cn/
-7.上海交通大学：http://ftp.sjtu.edu.cn/html/resources.xml，ftp://ftp.sjtu.edu.cn/（部分移动运营商出口状况不佳，无法访问）
-8.大连东软信息学院：http://mirrors.neusoft.edu.cn/（当前已用容量估计：2.5T）
-9.东北大学：http://mirror.neu.edu.cn/
-10.哈尔滨工业大学：http://run.hit.edu.cn/html/（部分联通运营商出口状况不佳，无法访问）
-11.中国地质大学：http://mirrors.cug.edu.cn/（当前已用容量估计：2.3T）
-12.浙江大学：http://mirrors.zju.edu.cn/
-13.厦门大学：http://mirrors.xmu.edu.cn/
-14.中山大学：http://mirror.sysu.edu.cn/
-15.重庆大学：http://mirrors.cqu.edu.cn/（当前已用容量估计：3.93T）
-16.北京化工大学：http://ubuntu.buct.edu.cn/（Android SDK镜像仅供校内使用，当前已用容量估计：1.72T）
-17.南阳理工学院：http://mirror.nyist.edu.cn/
-18.中科院高能物理研究所：http://mirror.ihep.ac.cn/，http://mir-cern.ihep.ac.cn/
-19.电子科技大学凝聚网络安全工作室：http://mirrors.cnssuestc.org/（这个镜像不稳定）
-20.西北农林科技大学：http://mirrors.nwsuaf.edu.cn/（只收录CentOS镜像，当前已用容量估计：140GB）
-21.郑州大学：https://mirrors.zzu.edu.cn/
-22.南京信息工程大学：http://mirrors.duohuo.org/
-23.华中科技大学：http://mirror.hust.edu.cn/（当前已用容量估计：4.83T）
-24.重庆邮电大学：http://mirrors.cqupt.edu.cn/（当前已用容量估计：1.68T）
-25.大连理工大学：http://mirror.dlut.edu.cn/
-26.江苏广播电视大学：http://mirrors.jstvu.edu.cn/
-27.山东女子学院：http://mirrors.sdwu.edu.cn/
-28.西南大学：http://mirrors.nwsuaf.edu.cn/
-29.西安交通大学：http://mirrors.xjtu.edu.cn/
-30.西安电子科技大学：http://linux.xidian.edu.cn/，http://xdlinux.info/（镜像仅供校内使用）
-31.南开大学：http://ftp.nankai.edu.cn/（镜像仅供校内使用）
-32.天津大学：http://mirror.tju.edu.cn（镜像仅供校内使用，另一域名为zyrj.org）
-33.南京师范大学：http://mirrors.njnu.edu.cn/（镜像仅供校内使用）
-34.电子科技大学：http://ubuntu.uestc.edu.cn/（镜像调整）
-35.中央音乐学院：http://fundawang.lcuc.org.cn/（镜像仅供校内使用）
-36.云南大学：http://archive.ubuntu.mirrors.opensource.ynu.edu.cn/（收录ubuntu软件源）,http://pypi.opensource.ynu.edu.cn/（收录pypi）
-37.上海科技大学：https://mirrors.geekpie.org/
+1. 中国科技大学：https://mirrors.ustc.edu.cn/（当前已用容量估计：21.32T）
+2. 清华大学：https://mirrors.tuna.tsinghua.edu.cn/（当前已用容量估计：9.8T）
+3. 吉林大学：http://mirrors.jlu.edu.cn/（当前已用容量估计：5.67T）
+4. 北京交通大学：http://mirror.bjtu.edu.cn/cn/
+5. 北京理工大学：http://mirror.bit.edu.cn/web/
+6. 兰州大学：http://mirror.lzu.edu.cn/
+7. 上海交通大学：http://ftp.sjtu.edu.cn/html/resources.xml，ftp://ftp.sjtu.edu.cn/（部分移动运营商出口状况不佳，无法访问）
+8. 大连东软信息学院：http://mirrors.neusoft.edu.cn/（当前已用容量估计：2.5T）
+9. 东北大学：http://mirror.neu.edu.cn/
+10. 哈尔滨工业大学：http://run.hit.edu.cn/html/（部分联通运营商出口状况不佳，无法访问）
+11. 中国地质大学：http://mirrors.cug.edu.cn/（当前已用容量估计：2.3T）
+12. 浙江大学：http://mirrors.zju.edu.cn/
+13. 厦门大学：http://mirrors.xmu.edu.cn/
+14. 中山大学：http://mirror.sysu.edu.cn/
+15. 重庆大学：http://mirrors.cqu.edu.cn/（当前已用容量估计：3.93T）
+16. 北京化工大学：http://ubuntu.buct.edu.cn/（Android SDK镜像仅供校内使用，当前已用容量估计：1.72T）
+17. 南阳理工学院：http://mirror.nyist.edu.cn/
+18. 中科院高能物理研究所：http://mirror.ihep.ac.cn/，http://mir-cern.ihep.ac.cn/
+19. 电子科技大学凝聚网络安全工作室：http://mirrors.cnssuestc.org/（这个镜像不稳定）
+20. 西北农林科技大学：http://mirrors.nwsuaf.edu.cn/（只收录CentOS镜像，当前已用容量估计：140GB）
+21. 郑州大学：https://mirrors.zzu.edu.cn/
+22. 南京信息工程大学：http://mirrors.duohuo.org/
+23. 华中科技大学：http://mirror.hust.edu.cn/（当前已用容量估计：4.83T）
+24. 重庆邮电大学：http://mirrors.cqupt.edu.cn/（当前已用容量估计：1.68T）
+25. 大连理工大学：http://mirror.dlut.edu.cn/
+26. 江苏广播电视大学：http://mirrors.jstvu.edu.cn/
+27. 山东女子学院：http://mirrors.sdwu.edu.cn/
+28. 西南大学：http://mirrors.nwsuaf.edu.cn/
+29. 西安交通大学：http://mirrors.xjtu.edu.cn/
+30. 西安电子科技大学：http://linux.xidian.edu.cn/，http://xdlinux.info/（镜像仅供校内使用）
+31. 南开大学：http://ftp.nankai.edu.cn/（镜像仅供校内使用）
+32. 天津大学：http://mirror.tju.edu.cn（镜像仅供校内使用，另一域名为zyrj.org）
+33. 南京师范大学：http://mirrors.njnu.edu.cn/（镜像仅供校内使用）
+34. 电子科技大学：http://ubuntu.uestc.edu.cn/（镜像调整）
+35. 中央音乐学院：http://fundawang.lcuc.org.cn/（镜像仅供校内使用）
+36. 云南大学：http://archive.ubuntu.mirrors.opensource.ynu.edu.cn/（收录ubuntu软件源）,http://pypi.opensource.ynu.edu.cn/（收录pypi）
+37. 上海科技大学：https://mirrors.geekpie.org/
 
 
 ### （三）、其他
