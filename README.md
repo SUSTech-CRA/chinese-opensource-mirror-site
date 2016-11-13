@@ -98,40 +98,40 @@
  * 阿里云：[http://mirrors.aliyun.com/ubuntu-releases/](http://mirrors.aliyun.com/ubuntu-releases/)
 
 2. Centos
- * 网易：http://mirrors.163.com/centos/
- * 搜狐：http://mirrors.sohu.com/centos/
- * 阿里云：http://mirrors.aliyun.com/centos/
+ * 网易：[http://mirrors.163.com/centos/](http://mirrors.163.com/centos/)
+ * 搜狐：[http://mirrors.sohu.com/centos/](http://mirrors.sohu.com/centos/)
+ * 阿里云：[http://mirrors.aliyun.com/centos/](http://mirrors.aliyun.com/centos/)
 
 3. 树莓派Raspbian
- * 搜狐：http://mirrors.sohu.com/raspbian/
- * 中国科技大学：http://mirrors.ustc.edu.cn/raspbian/
- * 浙江大学：http://mirrors.zju.edu.cn/raspbian/
- * 重庆大学：https://b.mirrors.lanunion.org/Raspbian/
- * 郑州大学：http://mirrors.zzu.edu.cn/raspbian/
- * 吉林大学：http://mirrors.jlu.edu.cn/raspbian/
+ * 搜狐：[http://mirrors.sohu.com/raspbian/](http://mirrors.sohu.com/raspbian/)
+ * 中国科技大学：[http://mirrors.ustc.edu.cn/raspbian/](http://mirrors.ustc.edu.cn/raspbian/)
+ * 浙江大学：[http://mirrors.zju.edu.cn/raspbian/](http://mirrors.zju.edu.cn/raspbian/)
+ * 重庆大学：[https://b.mirrors.lanunion.org/Raspbian/](https://b.mirrors.lanunion.org/Raspbian/)
+ * 郑州大学：[http://mirrors.zzu.edu.cn/raspbian/](http://mirrors.zzu.edu.cn/raspbian/)
+ * 吉林大学：[http://mirrors.jlu.edu.cn/raspbian/](http://mirrors.jlu.edu.cn/raspbian/)
 
 ### （二）、服务器类
 1. Tomcat、Apache
- * 中国互联网络信息中心：http://mirrors.cnnic.cn/apache/
- * 北京理工大学：http://mirror.bit.edu.cn/apache/
+ * 中国互联网络信息中心：[http://mirrors.cnnic.cn/apache/](http://mirrors.cnnic.cn/apache/)
+ * 北京理工大学：[http://mirror.bit.edu.cn/apache/](http://mirror.bit.edu.cn/apache/)
 
 2. MySQL
- * 北京理工大学：http://mirror.bit.edu.cn/mysql/Downloads/
- * 中国电信天翼云：http://mirrors.ctyun.cn/Mysql/
+ * 北京理工大学：[http://mirror.bit.edu.cn/mysql/Downloads/](http://mirror.bit.edu.cn/mysql/Downloads/)
+ * 中国电信天翼云：[http://mirrors.ctyun.cn/Mysql/](http://mirrors.ctyun.cn/Mysql/)
 
 3. PostgreSQL
- * 浙江大学：http://mirrors.zju.edu.cn/postgresql/
+ * 浙江大学：[http://mirrors.zju.edu.cn/postgresql/](http://mirrors.zju.edu.cn/postgresql/)
 
 4. MariaDB
- * 中国电信天翼云：http://mirrors.ctyun.cn/MariaDB/
+ * 中国电信天翼云：[http://mirrors.ctyun.cn/MariaDB/](http://mirrors.ctyun.cn/MariaDB/)
 
 5. mongodb
- * 阿里云：http://mirrors.aliyun.com/mongodb/
- * 清华大学：https://mirrors.tuna.tsinghua.edu.cn/mongodb/
+ * 阿里云：[http://mirrors.aliyun.com/mongodb/](http://mirrors.aliyun.com/mongodb/)
+ * 清华大学：[https://mirrors.tuna.tsinghua.edu.cn/mongodb/](https://mirrors.tuna.tsinghua.edu.cn/mongodb/)
 
 6. VideoLAN
- * 大连东软信息学院：http://mirrors.neusoft.edu.cn/videolan/
- * 中国科技大学：http://mirrors.ustc.edu.cn/videolan-ftp/
+ * 大连东软信息学院：[http://mirrors.neusoft.edu.cn/videolan/](http://mirrors.neusoft.edu.cn/videolan/)
+ * 中国科技大学：[http://mirrors.ustc.edu.cn/videolan-ftp/](http://mirrors.ustc.edu.cn/videolan-ftp/)
 
 ### （三）、开发工具类
 1. eclipse
