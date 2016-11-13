@@ -135,59 +135,59 @@
 
 ### （三）、开发工具类
 1. eclipse
- * 中国科技大学：http://mirrors.ustc.edu.cn/eclipse/
- * 东北大学：http://mirror.neu.edu.cn/eclipse/
+ * 中国科技大学：[http://mirrors.ustc.edu.cn/eclipse/](http://mirrors.ustc.edu.cn/eclipse/)
+ * 东北大学：[http://mirror.neu.edu.cn/eclipse/](http://mirror.neu.edu.cn/eclipse/)
 
 2. 安卓SDK
- * 大连东软信息学院：http://mirrors.neusoft.edu.cn/android/repository/
+ * 大连东软信息学院：[http://mirrors.neusoft.edu.cn/android/repository/](http://mirrors.neusoft.edu.cn/android/repository/)
  * 腾讯：[http://android-mirror.bugly.qq.com:8080/android/repository/](http://android-mirror.bugly.qq.com:8080/android/repository/)（限流）
  * 郑州大学：[http://mirrors.zzu.edu.cn/android/repository/](http://mirrors.zzu.edu.cn/android/repository/)（2016年4月停止同步，2016年10月重新同步）
  * 南洋理工学院：[http://mirror.nyist.edu.cn/android/repository/](http://mirror.nyist.edu.cn/android/repository/)（停止同步）
 
 3. 安卓源码AOSP
- * 清华大学：https://mirrors.tuna.tsinghua.edu.cn/help/AOSP/
- * 中国科技大学：https://lug.ustc.edu.cn/wiki/mirrors/help/aosp
+ * 清华大学：[https://mirrors.tuna.tsinghua.edu.cn/help/AOSP/](https://mirrors.tuna.tsinghua.edu.cn/help/AOSP/)
+ * 中国科技大学：[https://lug.ustc.edu.cn/wiki/mirrors/help/aosp](https://lug.ustc.edu.cn/wiki/mirrors/help/aosp)
  * 东北大学：[http://mirror.neu.edu.cn/android/](http://mirror.neu.edu.cn/android/)（东北大学采用旧版本的脚本抓AOSP，2016年1月之后不再同步，不推荐使用这个镜像）
 
 4. Xcode
  * 腾讯：[http://android-mirror.bugly.qq.com:8080/Xcode/](http://android-mirror.bugly.qq.com:8080/Xcode/)（更新速度较慢，建议直接从官网下载）
 
 5. Docker Hub
- * 网易蜂巢：https://c.163.com/hub#/m/home/
- * 灵雀云：https://hub.alauda.cn/
- * DaoCloud：https://hub.daocloud.io/
- * 时速云：https://hub.tenxcloud.com/
+ * 网易蜂巢：[https://c.163.com/hub#/m/home/](https://c.163.com/hub#/m/home/)
+ * 灵雀云：[https://hub.alauda.cn/](https://hub.alauda.cn/)
+ * DaoCloud：[https://hub.daocloud.io/](https://hub.daocloud.io/)
+ * 时速云：[https://hub.tenxcloud.com/](https://hub.tenxcloud.com/)
 
 6. GitLab-CE
- * 清华大学：https://mirror.tuna.tsinghua.edu.cn/help/gitlab-ce/
- * 浙江大学：https://bbs.gitlab.cc/topic/15
+ * 清华大学：[https://mirror.tuna.tsinghua.edu.cn/help/gitlab-ce/](https://mirror.tuna.tsinghua.edu.cn/help/gitlab-ce/)
+ * 浙江大学：[https://bbs.gitlab.cc/topic/15](https://bbs.gitlab.cc/topic/15)
 
 
 ## 三、官方镜像列表状态地址
-* CentOS：http://mirror-status.centos.org/#cn
-* Archlinux：https://www.archlinux.org/mirrors/status/
-* Gentoo：https://www.gentoo.org/downloads/mirrors/#CN
-* Ubuntu CD：https://launchpad.net/ubuntu/+cdmirrors
-* Ubuntu软件源：https://launchpad.net/ubuntu/+archivemirrors
+* CentOS：[http://mirror-status.centos.org/#cn](http://mirror-status.centos.org/#cn)
+* Archlinux：[https://www.archlinux.org/mirrors/status/](https://www.archlinux.org/mirrors/status/)
+* Gentoo：[https://www.gentoo.org/downloads/mirrors/#CN](https://www.gentoo.org/downloads/mirrors/#CN)
+* Ubuntu CD：[https://launchpad.net/ubuntu/+cdmirrors](https://launchpad.net/ubuntu/+cdmirrors)
+* Ubuntu软件源：[https://launchpad.net/ubuntu/+archivemirrors](https://launchpad.net/ubuntu/+archivemirrors)
 * Debian：[https://www.debian.org/mirror/list.en.html](https://www.debian.org/mirror/list.en.html)，[http://mirror.debian.org/status.html](http://mirror.debian.org/status.html)，[http://ftp.debian.org/debian/README.mirrors.html](http://ftp.debian.org/debian/README.mirrors.html)
-* Linux Mint：https://linuxmint.com/mirrors.php
-* Fedora Linux/Fedora EPEL：https://admin.fedoraproject.org/mirrormanager/mirrors
-* openSUSE：http://mirrors.opensuse.org/
-* PackMan：http://packman.links2linux.org/mirrors
-* FreeBSD：http://www.freebsd.org/doc/handbook/mirrors-ftp.html
-* Apache：http://www.apache.org/mirrors/#cn
-* Cygwin：https://www.cygwin.com/mirrors.html
-* CRAN：https://cran.r-project.org/mirrors.html
-* CTAN：http://www.ctan.org/mirrors/，http://www.ctan.org/mirrors/mirmon#cn
-* Ruby：https://www.ruby-lang.org/en/downloads/mirrors/
-* 树莓派Raspbian：http://www.raspbian.org/RaspbianMirrors
-* 深度操作系统deepin：https://www.deepin.org/mirror.html
-* Scientific Linux：https://www.scientificlinux.org/downloads/sl-mirrors/
-* Sabayon Linux：http://www.sabayon.org/download/
-* MySQL：http://dev.mysql.com/downloads/mirrors/
-* KNOPPIX：http://www.knopper.net/knoppix-mirrors/
-* QT：http://download.qt.io/static/mirrorlist/
-* VideoLAN：http://www.videolan.org/videolan/mirrors.html
+* Linux Mint：[https://linuxmint.com/mirrors.php](https://linuxmint.com/mirrors.php)
+* Fedora Linux/Fedora EPEL：[https://admin.fedoraproject.org/mirrormanager/mirrors](https://admin.fedoraproject.org/mirrormanager/mirrors)
+* openSUSE：[http://mirrors.opensuse.org/](http://mirrors.opensuse.org/)
+* PackMan：[http://packman.links2linux.org/mirrors](http://packman.links2linux.org/mirrors)
+* FreeBSD：[http://www.freebsd.org/doc/handbook/mirrors-ftp.html](http://www.freebsd.org/doc/handbook/mirrors-ftp.html)
+* Apache：[http://www.apache.org/mirrors/#cn](http://www.apache.org/mirrors/#cn)
+* Cygwin：[https://www.cygwin.com/mirrors.html](https://www.cygwin.com/mirrors.html)
+* CRAN：[https://cran.r-project.org/mirrors.html](https://cran.r-project.org/mirrors.html)
+* CTAN：[http://www.ctan.org/mirrors/](http://www.ctan.org/mirrors/)，[http://www.ctan.org/mirrors/mirmon#cn](http://www.ctan.org/mirrors/mirmon#cn)
+* Ruby：[https://www.ruby-lang.org/en/downloads/mirrors/](https://www.ruby-lang.org/en/downloads/mirrors/)
+* 树莓派Raspbian：[http://www.raspbian.org/RaspbianMirrors](http://www.raspbian.org/RaspbianMirrors)
+* 深度操作系统deepin：[https://www.deepin.org/mirror.html](https://www.deepin.org/mirror.html)
+* Scientific Linux：[https://www.scientificlinux.org/downloads/sl-mirrors/](https://www.scientificlinux.org/downloads/sl-mirrors/)
+* Sabayon Linux：[http://www.sabayon.org/download/](http://www.sabayon.org/download/)
+* MySQL：[http://dev.mysql.com/downloads/mirrors/](http://dev.mysql.com/downloads/mirrors/)
+* KNOPPIX：[http://www.knopper.net/knoppix-mirrors/](http://www.knopper.net/knoppix-mirrors/)
+* QT：[http://download.qt.io/static/mirrorlist/](http://download.qt.io/static/mirrorlist/)
+* VideoLAN：[http://www.videolan.org/videolan/mirrors.html](http://www.videolan.org/videolan/mirrors.html)
 
 
 ## 四、几个官方cn子域解析
@@ -197,10 +197,10 @@
 
 
 ## 五、镜像站搭建参考
-1. 搭建开源镜像站-FPs，http://fangpeishi.github.io/build_opensource_mirror.html
+1. 搭建开源镜像站-FPs，[http://fangpeishi.github.io/build_opensource_mirror.html](http://fangpeishi.github.io/build_opensource_mirror.html)
 2. 科大开源软件镜像是怎样炼成的，[http://blog.renren.com/blog/350643946/912702930](http://blog.renren.com/blog/350643946/912702930)，[http://blog.163.com/huangjiayao_1992/blog/static/2527169220138411412404/](http://blog.163.com/huangjiayao_1992/blog/static/2527169220138411412404/)
-3. 北京交通大学同步脚本，https://github.com/ideal/mirror
-4. 中国科学院同步脚本，https://github.com/opencas/mirrors
-5. 浙江大学同步脚本，https://github.com/zjulug，https://github.com/ZJU-NewMirrors
-6. 重庆邮电大学同步脚本，https://github.com/CQUPTMirror
-7. 兰州大学同步脚本，https://github.com/LZUOSS/Mirror
+3. 北京交通大学同步脚本，[https://github.com/ideal/mirror](https://github.com/ideal/mirror)
+4. 中国科学院同步脚本，[https://github.com/opencas/mirrors](https://github.com/opencas/mirrors)
+5. 浙江大学同步脚本，[https://github.com/zjulug](https://github.com/zjulug)，[https://github.com/ZJU-NewMirrors](https://github.com/ZJU-NewMirrors)
+6. 重庆邮电大学同步脚本，[https://github.com/CQUPTMirror](https://github.com/CQUPTMirror)
+7. 兰州大学同步脚本，[https://github.com/LZUOSS/Mirror](https://github.com/LZUOSS/Mirror)
