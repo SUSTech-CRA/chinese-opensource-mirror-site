@@ -94,8 +94,8 @@
 ###（一）、操作系统类
 1. Ubuntu
  * 网易：[http://mirrors.163.com/ubuntu-releases/](http://mirrors.163.com/ubuntu-releases/)
- * 首都在线科技股份有限公司：http://mirrors.yun-idc.com/ubuntu-releases/
- * 阿里云：http://mirrors.aliyun.com/ubuntu-releases/
+ * 首都在线科技股份有限公司：[http://mirrors.yun-idc.com/ubuntu-releases/](http://mirrors.yun-idc.com/ubuntu-releases/)
+ * 阿里云：[http://mirrors.aliyun.com/ubuntu-releases/](http://mirrors.aliyun.com/ubuntu-releases/)
 
 2. Centos
  * 网易：http://mirrors.163.com/centos/
