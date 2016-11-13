@@ -5,7 +5,7 @@
 1. 搜狐：[http://mirrors.sohu.com/](http://mirrors.sohu.com/)（Ubuntu旧发行版同步被冻结，不同步Ubuntu新发行版，Ubuntu源同步正常）
 1. 阿里云：[http://mirrors.aliyun.com/](http://mirrors.aliyun.com/)（部分镜像同步延迟超过1天）
 1. 腾讯Bugly：[http://android-mirror.bugly.qq.com:8080/](http://android-mirror.bugly.qq.com:8080/)（仅针对APP开发的软件，手动同步，限流）
-1. 新浪：[http://mirrors.sina.cn/](http://mirrors.sina.cn/)，[http://mirrors.sina.com/](http://mirrors.sina.com/)（目前只收录CentOS，2015年3月上线）
+1. 新浪：[http://mirrors.sina.cn/](http://mirrors.sina.cn/)，[http://mirrors.sina.com/](http://mirrors.sina.com/)（只收录CentOS，2015年3月上线）
 
 ### （二）、教育站
 1. 中国科技大学：[https://mirrors.ustc.edu.cn/](https://mirrors.ustc.edu.cn/)（当前已用容量估计：21.32T）
@@ -204,3 +204,12 @@
 5. 浙江大学同步脚本，[https://github.com/zjulug](https://github.com/zjulug)，[https://github.com/ZJU-NewMirrors](https://github.com/ZJU-NewMirrors)
 6. 重庆邮电大学同步脚本，[https://github.com/CQUPTMirror](https://github.com/CQUPTMirror)
 7. 兰州大学同步脚本，[https://github.com/LZUOSS/Mirror](https://github.com/LZUOSS/Mirror)
+
+## 六、镜像站异动情况
+ * 2016-11-13:新浪镜像站全网无法访问，由[17ce](http://www.17ce.com/site/http/201611_026c9958e669fab697baa0520bbaf652.html) 提供测试结果
+ * 2016-11-13:北京交通大学镜像首页访问出现403Forbidden
+ * 2016-11-13:哈尔滨工业大学镜像目录被清空
+ * 2016-11-13:中国地质大学镜像站全网无法访问，由[17ce](http://www.17ce.com/site/http/201611_2efa53aec3a780c57af46371b02ffeab.html)提供测试结果
+ * 2016-11-13:北京化工大学镜像站全网无法访问，由[17ce](http://www.17ce.com/site/http/201611_39d1dd7415483b5256fc6dfe9481bcc5.html)提供测试结果
+ * 2016-11-13:云南大学pypi镜像地址无法访问
+ * 2016-11-13:Linux运维派镜像首页访问出现404
