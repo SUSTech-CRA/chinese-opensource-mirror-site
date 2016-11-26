@@ -174,7 +174,7 @@
 * Fedora Linux/Fedora EPEL：[https://admin.fedoraproject.org/mirrormanager/mirrors](https://admin.fedoraproject.org/mirrormanager/mirrors)
 * openSUSE：[http://mirrors.opensuse.org/](http://mirrors.opensuse.org/)
 * PackMan：[http://packman.links2linux.org/mirrors](http://packman.links2linux.org/mirrors)
-* FreeBSD：[http://www.freebsd.org/doc/handbook/mirrors-ftp.html](http://www.freebsd.org/doc/handbook/mirrors-ftp.html)
+* FreeBSD：[https://www.freebsd.org/doc/handbook/mirrors-ftp.html#mirrors-cn-ftp](https://www.freebsd.org/doc/handbook/mirrors-ftp.html#mirrors-cn-ftp)
 * Apache：[http://www.apache.org/mirrors/#cn](http://www.apache.org/mirrors/#cn)
 * Cygwin：[https://www.cygwin.com/mirrors.html](https://www.cygwin.com/mirrors.html)
 * CRAN：[https://cran.r-project.org/mirrors.html](https://cran.r-project.org/mirrors.html)
