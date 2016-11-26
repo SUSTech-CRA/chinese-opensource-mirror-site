@@ -5,7 +5,7 @@
 1. 搜狐：[http://mirrors.sohu.com/](http://mirrors.sohu.com/)（Ubuntu旧发行版同步被冻结，不同步Ubuntu新发行版，Ubuntu源同步正常）
 1. 阿里云：[http://mirrors.aliyun.com/](http://mirrors.aliyun.com/)（部分镜像同步延迟超过1天）
 1. 腾讯Bugly：[http://android-mirror.bugly.qq.com:8080/](http://android-mirror.bugly.qq.com:8080/)（仅针对APP开发的软件，手动同步，限流）
-1. 新浪：[http://mirrors.sina.cn/](http://mirrors.sina.cn/)，[http://mirrors.sina.com/](http://mirrors.sina.com/)（只收录CentOS，2015年3月上线）
+1. 首都在线科技股份有限公司（英文名Capital Online Data Service）：[http://mirrors.yun-idc.com/](http://mirrors.yun-idc.com/)
 
 ### （二）、教育站
 1. 中国科技大学：[https://mirrors.ustc.edu.cn/](https://mirrors.ustc.edu.cn/)（当前已用容量估计：21.32T）
@@ -48,21 +48,20 @@
 
 
 ### （三）、其他
-1. 首都在线科技股份有限公司（英文名Capital Online Data Service）：[http://mirrors.yun-idc.com/](http://mirrors.yun-idc.com/)
-2. 中国电信天翼云：[http://mirrors.ctyun.cn/](http://mirrors.ctyun.cn/)
-3. 常州贝特康姆软件技术有限公司(公云PubYun)：[http://centos.bitcomm.cn/](http://centos.bitcomm.cn/)，[http://mirrors.pubyun.com/](http://mirrors.pubyun.com/)（当前已用容量估计：2.3T）
-4. 海波网络镜像：[http://mirrors.hypo.cn/](http://mirrors.hypo.cn/)（当前已用容量估计：1.68T，部分镜像同步延迟超过3天）
-5. 开源镜像文件搜索：[http://mirrors.org.cn/](http://mirrors.org.cn/)（只能搜索和浏览，不能下载）
-6. Linux运维派：[http://mirrors.skyshe.cn/](http://mirrors.skyshe.cn/)（使用阿里云服务器，界面使用浙江大学的模板，首页维护，内容可访问）
-7. 北京鹏博士宽带：[http://mirrors.btte.net/](http://mirrors.btte.net/)（只收录CentOS）
-8. 中国互联网络信息中心：[http://mirrors.cnnic.cn/](http://mirrors.cnnic.cn/)（只收录Apache镜像，当前已用容量估计：120GB）
-9. Fayea工作室：[http://apache.fayea.com/](http://apache.fayea.com/)（只收录Apache镜像，当前已用容量估计：120GB）
-10. 豆瓣pypi：[http://pypi.douban.com/](http://pypi.douban.com/)，[https://pypi.doubanio.com/](https://pypi.doubanio.com/)
-11. v2ex的pypi：[http://pypi.v2ex.com/](http://pypi.v2ex.com/)（部分地区长城宽带用户会强制跳转到https出现访问异常）
-12. 淘宝NPM：[https://npm.taobao.org/](https://npm.taobao.org/)
-13. Ruby China的RubyGems：[https://gems.ruby-china.org/](https://gems.ruby-china.org/)
-14. 开源中国Maven仓库镜像：[http://maven.oschina.net/](http://maven.oschina.net/)（2013年上线，20160415至今处于挂了的状态，建议使用ibiblio的镜像）
-15. 阿里云Maven仓库镜像：[http://maven.aliyun.com/nexus/](http://maven.aliyun.com/nexus/)
+1. 中国电信天翼云：[http://mirrors.ctyun.cn/](http://mirrors.ctyun.cn/)
+2. 常州贝特康姆软件技术有限公司(公云PubYun)：[http://centos.bitcomm.cn/](http://centos.bitcomm.cn/)，[http://mirrors.pubyun.com/](http://mirrors.pubyun.com/)（当前已用容量估计：2.3T）
+3. 海波网络镜像：[http://mirrors.hypo.cn/](http://mirrors.hypo.cn/)（当前已用容量估计：1.68T，部分镜像同步延迟超过3天）
+4. 开源镜像文件搜索：[http://mirrors.org.cn/](http://mirrors.org.cn/)（只能搜索和浏览，不能下载）
+5. Linux运维派：[http://mirrors.skyshe.cn/](http://mirrors.skyshe.cn/)（使用阿里云服务器，界面使用浙江大学的模板，首页维护，内容可访问）
+6. 北京鹏博士宽带：[http://mirrors.btte.net/](http://mirrors.btte.net/)（只收录CentOS）
+7. 中国互联网络信息中心：[http://mirrors.cnnic.cn/](http://mirrors.cnnic.cn/)（只收录Apache镜像，当前已用容量估计：120GB）
+8. Fayea工作室：[http://apache.fayea.com/](http://apache.fayea.com/)（只收录Apache镜像，当前已用容量估计：120GB）
+9. 豆瓣pypi：[http://pypi.douban.com/](http://pypi.douban.com/)，[https://pypi.doubanio.com/](https://pypi.doubanio.com/)
+10. v2ex的pypi：[http://pypi.v2ex.com/](http://pypi.v2ex.com/)（部分地区长城宽带用户会强制跳转到https出现访问异常）
+11. 淘宝NPM：[https://npm.taobao.org/](https://npm.taobao.org/)
+12. Ruby China的RubyGems：[https://gems.ruby-china.org/](https://gems.ruby-china.org/)
+13. 开源中国Maven仓库镜像：[http://maven.oschina.net/](http://maven.oschina.net/)（2013年上线，20160415至今处于挂了的状态，建议使用ibiblio的镜像）
+14. 阿里云Maven仓库镜像：[http://maven.aliyun.com/nexus/](http://maven.aliyun.com/nexus/)
 15. LinuxEye：[http://mirrors.linuxeye.com/](http://mirrors.linuxeye.com/)
 16. 移动云镜像站：[http://mirrors.bclinux.org/](http://mirrors.bclinux.org/)
 17. Cloud-Stack镜像站：[http://mirrors.cloudstack-china.com/](http://mirrors.cloudstack-china.com/)
@@ -87,6 +86,7 @@
 16. LUPA：[http://mirror.lupaworld.com/](http://mirror.lupaworld.com/)（2016年停止同步，无实质内容）
 17. 远景：[http://mirror.pcbeta.com/](http://mirror.pcbeta.com/)（2016年6月关闭）
 18. 山东理工大学：[http://ruby.sdutlinux.org/](http://ruby.sdutlinux.org/)（2016年9月关闭）
+1. 新浪：[http://mirrors.sina.cn/](http://mirrors.sina.cn/)，[http://mirrors.sina.com/](http://mirrors.sina.com/)（只收录CentOS，2015年3月上线，2016年10月关闭）
 
 
 
@@ -213,3 +213,5 @@
  * 2016-11-13:北京化工大学镜像站全网无法访问，由[17ce](http://www.17ce.com/site/http/201611_39d1dd7415483b5256fc6dfe9481bcc5.html)提供测试结果
  * 2016-11-13:云南大学pypi镜像地址无法访问
  * 2016-11-13:Linux运维派镜像首页访问出现404
+ * 2016-11-26:新浪镜像站截至目前已经失联51天，移至关闭列表
+ * 2016-11-26:首都在线移至企业站列表，首都在线是国内的一家主机商，有国内节点和海外节点
