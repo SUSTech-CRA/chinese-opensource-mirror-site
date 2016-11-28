@@ -157,6 +157,7 @@
  * 灵雀云：[https://hub.alauda.cn/](https://hub.alauda.cn/)
  * DaoCloud：[https://hub.daocloud.io/](https://hub.daocloud.io/)
  * 时速云：[https://hub.tenxcloud.com/](https://hub.tenxcloud.com/)
+ * 阿里云：[https://dev.aliyun.com/search.html](https://dev.aliyun.com/search.html)
 
 6. GitLab-CE
  * 清华大学：[https://mirror.tuna.tsinghua.edu.cn/help/gitlab-ce/](https://mirror.tuna.tsinghua.edu.cn/help/gitlab-ce/)
