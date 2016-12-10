@@ -11,7 +11,7 @@
 1. 中国科技大学：[https://mirrors.ustc.edu.cn/](https://mirrors.ustc.edu.cn/)（当前已用容量估计：21.32T）
 2. 清华大学：[https://mirrors.tuna.tsinghua.edu.cn/](https://mirrors.tuna.tsinghua.edu.cn/)（（当前已用容量估计：9.8T）
 3. 吉林大学：[http://mirrors.jlu.edu.cn/](http://mirrors.jlu.edu.cn/)（当前已用容量估计：5.67T）
-4. 北京交通大学：[http://mirror.bjtu.edu.cn/cn/](http://mirror.bjtu.edu.cn/cn/)
+4. 北京交通大学：[http://mirror.bjtu.edu.cn/](http://mirror.bjtu.edu.cn/)
 5. 北京理工大学：[http://mirror.bit.edu.cn/web/](http://mirror.bit.edu.cn/web/)
 6. 兰州大学：[http://mirror.lzu.edu.cn/](http://mirror.lzu.edu.cn/)
 7. 上海交通大学：[http://ftp.sjtu.edu.cn/](http://ftp.sjtu.edu.cn/)，[ftp://ftp.sjtu.edu.cn/](ftp://ftp.sjtu.edu.cn/)（部分移动运营商出口状况不佳，无法访问）
