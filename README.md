@@ -35,7 +35,6 @@
 25. 大连理工大学：[http://mirror.dlut.edu.cn/](http://mirror.dlut.edu.cn/)
 26. 江苏广播电视大学：[http://mirrors.jstvu.edu.cn/](http://mirrors.jstvu.edu.cn/)
 27. 山东女子学院：[http://mirrors.sdwu.edu.cn/](http://mirrors.sdwu.edu.cn/)
-28. 西南大学：[http://mirrors.nwsuaf.edu.cn/](http://mirrors.nwsuaf.edu.cn/)
 29. 西安交通大学：[http://mirrors.xjtu.edu.cn/](http://mirrors.xjtu.edu.cn/)
 30. 西安电子科技大学：[http://linux.xidian.edu.cn/](http://linux.xidian.edu.cn/)，[http://xdlinux.info/](http://xdlinux.info/)（镜像仅供校内使用）
 31. 南开大学：[http://ftp.nankai.edu.cn/](http://ftp.nankai.edu.cn/)（镜像仅供校内使用）
@@ -80,7 +79,7 @@
 10. 中国科学院：[http://www.opencas.org/mirrors/](http://www.opencas.org/mirrors/)（2016年5月关闭）
 11. 电子科技大学LUG镜像：[http://mirrors.uestc.xyz/](http://mirrors.uestc.xyz/)（2016年4月关闭）
 12. 北京邮电大学：[ftp://ftp.bupt.edu.cn/pub/mirror/](ftp://ftp.bupt.edu.cn/pub/mirror/)（2016年9月关闭，清空FTP）
-13. 西南大学：[http://mirrors.linuxstory.org/](http://mirrors.linuxstory.org/)，[http://mirrors.swu.edu.cn/](http://mirrors.swu.edu.cn/)（2016年6月关闭,2016年9月重建）
+13. 西南大学：[http://mirrors.linuxstory.org/](http://mirrors.linuxstory.org/)，[http://mirrors.swu.edu.cn/](http://mirrors.swu.edu.cn/)（2016年6月关闭）
 14. 电子科技大学星辰工作室：[http://mirrors.stuhome.net/](http://mirrors.stuhome.net/)（2016年8月关闭）
 15. noc.im：[http://mirrors.noc.im/](http://mirrors.noc.im/)（2016年8月关闭）
 16. LUPA：[http://mirror.lupaworld.com/](http://mirror.lupaworld.com/)（2016年停止同步，无实质内容）
