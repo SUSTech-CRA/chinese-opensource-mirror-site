@@ -17,7 +17,6 @@
 7. 上海交通大学：[http://ftp.sjtu.edu.cn/](http://ftp.sjtu.edu.cn/)，[ftp://ftp.sjtu.edu.cn/](ftp://ftp.sjtu.edu.cn/)（部分移动运营商出口状况不佳，无法访问）
 8. 大连东软信息学院：[http://mirrors.neusoft.edu.cn/](http://mirrors.neusoft.edu.cn/)（当前已用容量估计：2.5T）
 9. 东北大学：[http://mirror.neu.edu.cn/](http://mirror.neu.edu.cn/)
-10. 哈尔滨工业大学：[http://run.hit.edu.cn/html/](http://run.hit.edu.cn/html/)（部分联通运营商出口状况不佳，无法访问）
 11. 中国地质大学：[http://mirrors.cug.edu.cn/](http://mirrors.cug.edu.cn/)（当前已用容量估计：2.3T）
 12. 浙江大学：[http://mirrors.zju.edu.cn/](http://mirrors.zju.edu.cn/)
 13. 厦门大学：[http://mirrors.xmu.edu.cn/](http://mirrors.xmu.edu.cn/)
@@ -86,7 +85,7 @@
 17. 远景：[http://mirror.pcbeta.com/](http://mirror.pcbeta.com/)（2016年6月关闭）
 18. 山东理工大学：[http://ruby.sdutlinux.org/](http://ruby.sdutlinux.org/)（2016年9月关闭）
 1. 新浪：[http://mirrors.sina.cn/](http://mirrors.sina.cn/)，[http://mirrors.sina.com/](http://mirrors.sina.com/)（只收录CentOS，2015年3月上线，2016年10月关闭）
-
+10. 哈尔滨工业大学：[http://run.hit.edu.cn/html/](http://run.hit.edu.cn/html/)（2016年10月关闭）
 
 
 ## 二、软件版
@@ -216,3 +215,4 @@
  * 2016-11-13:Linux运维派镜像首页访问出现404
  * 2016-11-26:新浪镜像站截至目前已经失联51天，移至关闭列表
  * 2016-11-26:首都在线移至企业站列表，首都在线是国内的一家主机商，有国内节点和海外节点
+ * 2016-12-10:哈尔滨工业大学镜像目录截至目前已经超过一个月无法访问，移至关闭列表
