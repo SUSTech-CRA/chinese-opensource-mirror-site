@@ -2,10 +2,10 @@
 ## 一、站点版
 ### （一）、企业站
 1. 网易：[http://mirrors.163.com/](http://mirrors.163.com/)
-1. 搜狐：[http://mirrors.sohu.com/](http://mirrors.sohu.com/)（Ubuntu旧发行版同步被冻结，不同步Ubuntu新发行版，Ubuntu源同步正常）
-1. 阿里云：[http://mirrors.aliyun.com/](http://mirrors.aliyun.com/)（部分镜像同步延迟超过1天）
-1. 腾讯Bugly：[http://android-mirror.bugly.qq.com:8080/](http://android-mirror.bugly.qq.com:8080/)（仅针对APP开发的软件，手动同步，限流）
-1. 首都在线科技股份有限公司（英文名Capital Online Data Service）：[http://mirrors.yun-idc.com/](http://mirrors.yun-idc.com/)
+2. 搜狐：[http://mirrors.sohu.com/](http://mirrors.sohu.com/)（Ubuntu旧发行版同步被冻结，不同步Ubuntu新发行版，Ubuntu源同步正常）
+3. 阿里云：[http://mirrors.aliyun.com/](http://mirrors.aliyun.com/)（部分镜像同步延迟超过1天）
+4. 腾讯Bugly：[http://android-mirror.bugly.qq.com:8080/](http://android-mirror.bugly.qq.com:8080/)（仅针对APP开发的软件，手动同步，限流）
+5. 首都在线科技股份有限公司（英文名Capital Online Data Service）：[http://mirrors.yun-idc.com/](http://mirrors.yun-idc.com/)
 
 ### （二）、教育站
 1. 中国科技大学：[https://mirrors.ustc.edu.cn/](https://mirrors.ustc.edu.cn/)（当前已用容量估计：21.32T）
@@ -17,12 +17,10 @@
 7. 上海交通大学：[http://ftp.sjtu.edu.cn/](http://ftp.sjtu.edu.cn/)，[ftp://ftp.sjtu.edu.cn/](ftp://ftp.sjtu.edu.cn/)（部分移动运营商出口状况不佳，无法访问）
 8. 大连东软信息学院：[http://mirrors.neusoft.edu.cn/](http://mirrors.neusoft.edu.cn/)（当前已用容量估计：2.5T）
 9. 东北大学：[http://mirror.neu.edu.cn/](http://mirror.neu.edu.cn/)
-11. 中国地质大学：[http://mirrors.cug.edu.cn/](http://mirrors.cug.edu.cn/)（当前已用容量估计：2.3T）
 12. 浙江大学：[http://mirrors.zju.edu.cn/](http://mirrors.zju.edu.cn/)
 13. 厦门大学：[http://mirrors.xmu.edu.cn/](http://mirrors.xmu.edu.cn/)
 14. 中山大学：[http://mirror.sysu.edu.cn/](http://mirror.sysu.edu.cn/)
 15. 重庆大学：[http://mirrors.cqu.edu.cn/](http://mirrors.cqu.edu.cn/)（当前已用容量估计：3.93T）
-16. 北京化工大学：[http://ubuntu.buct.edu.cn/](http://ubuntu.buct.edu.cn/)（Android SDK镜像仅供校内使用，当前已用容量估计：1.72T）
 17. 南阳理工学院：[http://mirror.nyist.edu.cn/](http://mirror.nyist.edu.cn/)
 18. 中科院高能物理研究所：[http://mirror.ihep.ac.cn/](http://mirror.ihep.ac.cn/)，[http://mir-cern.ihep.ac.cn/](http://mir-cern.ihep.ac.cn/)
 19. 电子科技大学凝聚网络安全工作室：[http://mirrors.cnssuestc.org/](http://mirrors.cnssuestc.org/)
@@ -84,9 +82,10 @@
 16. LUPA：[http://mirror.lupaworld.com/](http://mirror.lupaworld.com/)（2016年停止同步，无实质内容）
 17. 远景：[http://mirror.pcbeta.com/](http://mirror.pcbeta.com/)（2016年6月关闭）
 18. 山东理工大学：[http://ruby.sdutlinux.org/](http://ruby.sdutlinux.org/)（2016年9月关闭）
-1. 新浪：[http://mirrors.sina.cn/](http://mirrors.sina.cn/)，[http://mirrors.sina.com/](http://mirrors.sina.com/)（只收录CentOS，2015年3月上线，2016年10月关闭）
-10. 哈尔滨工业大学：[http://run.hit.edu.cn/html/](http://run.hit.edu.cn/html/)（2016年10月关闭）
-
+19. 新浪：[http://mirrors.sina.cn/](http://mirrors.sina.cn/)，[http://mirrors.sina.com/](http://mirrors.sina.com/)（只收录CentOS，2015年3月上线，2016年10月关闭）
+20. 哈尔滨工业大学：[http://run.hit.edu.cn/html/](http://run.hit.edu.cn/html/)（2016年10月关闭）
+21. 中国地质大学：[http://mirrors.cug.edu.cn/](http://mirrors.cug.edu.cn/)（2016年11月关闭）
+22. 北京化工大学：[http://ubuntu.buct.edu.cn/](http://ubuntu.buct.edu.cn/)（2016年11月关闭）
 
 ## 二、软件版
 ###（一）、操作系统类
@@ -216,3 +215,5 @@
  * 2016-11-26:新浪镜像站截至目前已经失联51天，移至关闭列表
  * 2016-11-26:首都在线移至企业站列表，首都在线是国内的一家主机商，有国内节点和海外节点
  * 2016-12-10:哈尔滨工业大学镜像目录截至目前已经超过一个月无法访问，移至关闭列表
+ * 2017-1-5:北京化工大学镜像截至目前已经超过两个月无法访问，移至关闭列表
+ * 2017-1-5:中国地质大学镜像截至目前已经超过两个月无法访问，移至关闭列表
