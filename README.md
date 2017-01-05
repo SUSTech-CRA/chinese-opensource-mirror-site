@@ -41,6 +41,7 @@
 35. 中央音乐学院：[http://fundawang.lcuc.org.cn/](http://fundawang.lcuc.org.cn/)（镜像仅供校内使用）
 36. 云南大学：[http://archive.ubuntu.mirrors.opensource.ynu.edu.cn/](http://archive.ubuntu.mirrors.opensource.ynu.edu.cn/)（收录ubuntu软件源）,[http://pypi.opensource.ynu.edu.cn/](http://pypi.opensource.ynu.edu.cn/)（收录pypi）
 37. 上海科技大学：[https://mirrors.geekpie.org/](https://mirrors.geekpie.org/)
+38. 南京信息职业技术学院：[https://mirrors.njcit.cn/](https://mirrors.njcit.cn/)
 
 
 ### （三）、其他
@@ -62,6 +63,7 @@
 16. 移动云镜像站：[http://mirrors.bclinux.org/](http://mirrors.bclinux.org/)
 17. Cloud-Stack镜像站：[http://mirrors.cloudstack-china.com/](http://mirrors.cloudstack-china.com/)
 18. cn99(常州贝特康姆旗下)：[http://mirrors.cn99.com/](http://mirrors.cn99.com/)
+19. 龙芯开源社区：[http://mirrors.loongnix.org/](http://mirrors.loongnix.org/)（只收录龙芯镜像）
 
 ### （四）、确认关闭的镜像站
 1. 北京航空航天大学：[http://mirror.buaa.edu.cn/](http://mirror.buaa.edu.cn/)，[http://mirror.buaabt.cn/](http://mirror.buaabt.cn/)（2012年建立，2014年关闭。镜像站关闭后不久，未来花园BT关闭。）
@@ -217,3 +219,5 @@
  * 2016-12-10:哈尔滨工业大学镜像目录截至目前已经超过一个月无法访问，移至关闭列表
  * 2017-1-5:北京化工大学镜像截至目前已经超过两个月无法访问，移至关闭列表
  * 2017-1-5:中国地质大学镜像截至目前已经超过两个月无法访问，移至关闭列表
+ * 2017-1-5:新增南京信息职业技术学院镜像，这个镜像在2016年11上线
+ * 2017-1-5:新增龙芯开源社区镜像，这个镜像应该是很早（2015年之前）就建立了只是不对外，目前只更新龙芯镜像
