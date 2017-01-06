@@ -42,6 +42,7 @@
 36. 云南大学：[http://archive.ubuntu.mirrors.opensource.ynu.edu.cn/](http://archive.ubuntu.mirrors.opensource.ynu.edu.cn/)（收录ubuntu软件源）,[http://pypi.opensource.ynu.edu.cn/](http://pypi.opensource.ynu.edu.cn/)（收录pypi）
 37. 上海科技大学：[https://mirrors.geekpie.org/](https://mirrors.geekpie.org/)
 38. 南京信息职业技术学院：[https://mirrors.njcit.cn/](https://mirrors.njcit.cn/)
+39. 上海交通大学SJTUG：[http://mirrors.sjtug.org/](http://mirrors.sjtug.org/)
 
 
 ### （三）、其他
