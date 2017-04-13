@@ -52,7 +52,6 @@
 4. 开源镜像文件搜索：[http://mirrors.org.cn/](http://mirrors.org.cn/)（只能搜索和浏览，不能下载）
 5. Linux运维派：[http://mirrors.skyshe.cn/](http://mirrors.skyshe.cn/)（使用阿里云服务器，界面使用浙江大学的模板，首页维护，内容可访问）
 6. 北京鹏博士宽带：[http://mirrors.btte.net/](http://mirrors.btte.net/)（只收录CentOS）
-7. 中国互联网络信息中心：[http://mirrors.cnnic.cn/](http://mirrors.cnnic.cn/)（只收录Apache镜像，当前已用容量估计：120GB）
 8. Fayea工作室：[http://apache.fayea.com/](http://apache.fayea.com/)（只收录Apache镜像，当前已用容量估计：120GB）
 9. 豆瓣pypi：[http://pypi.douban.com/](http://pypi.douban.com/)，[https://pypi.doubanio.com/](https://pypi.doubanio.com/)
 10. v2ex的pypi：[http://pypi.v2ex.com/](http://pypi.v2ex.com/)（部分地区长城宽带用户会强制跳转到https出现访问异常）
@@ -89,6 +88,7 @@
 20. 哈尔滨工业大学：[http://run.hit.edu.cn/html/](http://run.hit.edu.cn/html/)（2016年10月关闭）
 21. 中国地质大学：[http://mirrors.cug.edu.cn/](http://mirrors.cug.edu.cn/)（2016年11月关闭）
 22. 北京化工大学：[http://ubuntu.buct.edu.cn/](http://ubuntu.buct.edu.cn/)（2016年11月关闭）
+23. 中国互联网络信息中心：[http://mirrors.cnnic.cn/](http://mirrors.cnnic.cn/)（只收录Apache镜像，2017年4月关闭，重定向到清华大学）
 
 ## 二、软件版
 ###（一）、操作系统类
