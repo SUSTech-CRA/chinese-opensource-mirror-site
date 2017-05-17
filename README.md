@@ -44,6 +44,7 @@
 35. 上海交通大学SJTUG：[http://mirrors.sjtug.org/](http://mirrors.sjtug.org/)
 36. 南京邮电大学通达学院：[http://mirrors.tdsast.cn/](http://mirrors.tdsast.cn/)
 37. 燕山大学：[http://mirror.pret-page.com/](http://mirror.pret-page.com/)
+38. 南京邮电大学：[http://mirrors.njupt.edu.cn/](http://mirrors.njupt.edu.cn/)
 
 ### （三）、其他
 1. 中国电信天翼云：[http://mirrors.ctyun.cn/](http://mirrors.ctyun.cn/)
@@ -223,3 +224,4 @@
  * 2017-1-6:新增上海交通大学SJTUG镜像，据v2ex上的消息，这个镜像于2016年上线用来替代原来的上海交通大学镜像，不过目前这个镜像的发展情况也不乐观
  * 2017-5-17:cnnic镜像，腾讯bugly镜像于2017年4月关闭
  * 2017-5-17:海波镜像于2017年5月关闭，新增南京邮电大学通达学院、燕山大学、黔东南开源镜像站3个镜像
+ * 2017-5-17:新增南京邮电大学镜像
