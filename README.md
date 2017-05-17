@@ -4,8 +4,7 @@
 1. 网易：[http://mirrors.163.com/](http://mirrors.163.com/)
 2. 搜狐：[http://mirrors.sohu.com/](http://mirrors.sohu.com/)（Ubuntu旧发行版同步被冻结，不同步Ubuntu新发行版，Ubuntu源同步正常）
 3. 阿里云：[http://mirrors.aliyun.com/](http://mirrors.aliyun.com/)（部分镜像同步延迟超过1天）
-4. 腾讯Bugly：[http://android-mirror.bugly.qq.com:8080/](http://android-mirror.bugly.qq.com:8080/)（仅针对APP开发的软件，手动同步，限流）
-5. 首都在线科技股份有限公司（英文名Capital Online Data Service）：[http://mirrors.yun-idc.com/](http://mirrors.yun-idc.com/)
+4. 首都在线科技股份有限公司（英文名Capital Online Data Service）：[http://mirrors.yun-idc.com/](http://mirrors.yun-idc.com/)
 
 ### （二）、教育站
 1. 中国科技大学：[https://mirrors.ustc.edu.cn/](https://mirrors.ustc.edu.cn/)（当前已用容量估计：21.32T）
@@ -17,32 +16,32 @@
 7. 上海交通大学：[http://ftp.sjtu.edu.cn/](http://ftp.sjtu.edu.cn/)，[ftp://ftp.sjtu.edu.cn/](ftp://ftp.sjtu.edu.cn/)（部分移动运营商出口状况不佳，无法访问）
 8. 大连东软信息学院：[http://mirrors.neusoft.edu.cn/](http://mirrors.neusoft.edu.cn/)（当前已用容量估计：2.5T）
 9. 东北大学：[http://mirror.neu.edu.cn/](http://mirror.neu.edu.cn/)
-12. 浙江大学：[http://mirrors.zju.edu.cn/](http://mirrors.zju.edu.cn/)
-13. 厦门大学：[http://mirrors.xmu.edu.cn/](http://mirrors.xmu.edu.cn/)
-14. 中山大学：[http://mirror.sysu.edu.cn/](http://mirror.sysu.edu.cn/)
-15. 重庆大学：[http://mirrors.cqu.edu.cn/](http://mirrors.cqu.edu.cn/)（当前已用容量估计：3.93T）
-17. 南阳理工学院：[http://mirror.nyist.edu.cn/](http://mirror.nyist.edu.cn/)
-18. 中科院高能物理研究所：[http://mirror.ihep.ac.cn/](http://mirror.ihep.ac.cn/)，[http://mir-cern.ihep.ac.cn/](http://mir-cern.ihep.ac.cn/)
-19. 电子科技大学凝聚网络安全工作室：[http://mirrors.cnssuestc.org/](http://mirrors.cnssuestc.org/)
-20. 西北农林科技大学：[http://mirrors.nwsuaf.edu.cn/](http://mirrors.nwsuaf.edu.cn/)（只收录CentOS镜像，当前已用容量估计：140GB）
-21. 郑州大学：[https://mirrors.zzu.edu.cn/](https://mirrors.zzu.edu.cn/)
-22. 南京信息工程大学：[http://mirrors.duohuo.org/](http://mirrors.duohuo.org/)
-23. 华中科技大学：[http://mirror.hust.edu.cn/](http://mirror.hust.edu.cn/)（当前已用容量估计：4.83T）
-24. 重庆邮电大学：[http://mirrors.cqupt.edu.cn/](http://mirrors.cqupt.edu.cn/)（当前已用容量估计：1.68T）
-25. 大连理工大学：[http://mirror.dlut.edu.cn/](http://mirror.dlut.edu.cn/)
-26. 江苏广播电视大学：[http://mirrors.jstvu.edu.cn/](http://mirrors.jstvu.edu.cn/)
-27. 山东女子学院：[http://mirrors.sdwu.edu.cn/](http://mirrors.sdwu.edu.cn/)
-29. 西安交通大学：[http://mirrors.xjtu.edu.cn/](http://mirrors.xjtu.edu.cn/)
-30. 西安电子科技大学：[http://linux.xidian.edu.cn/](http://linux.xidian.edu.cn/)，[http://xdlinux.info/](http://xdlinux.info/)（镜像仅供校内使用）
-31. 南开大学：[http://ftp.nankai.edu.cn/](http://ftp.nankai.edu.cn/)（镜像仅供校内使用）
-32. 天津大学：[http://mirror.tju.edu.cn](http://mirror.tju.edu.cn)（镜像仅供校内使用，另一域名为zyrj.org）
-33. 南京师范大学：[http://mirrors.njnu.edu.cn/](http://mirrors.njnu.edu.cn/)（镜像仅供校内使用）
-34. 电子科技大学：[http://ubuntu.uestc.edu.cn/](http://ubuntu.uestc.edu.cn/)（首页近一年无人维护，内容可访问）
-35. 中央音乐学院：[http://fundawang.lcuc.org.cn/](http://fundawang.lcuc.org.cn/)（镜像仅供校内使用）
-36. 云南大学：[http://archive.ubuntu.mirrors.opensource.ynu.edu.cn/](http://archive.ubuntu.mirrors.opensource.ynu.edu.cn/)（收录ubuntu软件源）,[http://pypi.opensource.ynu.edu.cn/](http://pypi.opensource.ynu.edu.cn/)（收录pypi）
-37. 上海科技大学：[https://mirrors.geekpie.org/](https://mirrors.geekpie.org/)
-38. 南京信息职业技术学院：[https://mirrors.njcit.cn/](https://mirrors.njcit.cn/)
-39. 上海交通大学SJTUG：[http://mirrors.sjtug.org/](http://mirrors.sjtug.org/)
+10. 浙江大学：[http://mirrors.zju.edu.cn/](http://mirrors.zju.edu.cn/)
+11. 厦门大学：[http://mirrors.xmu.edu.cn/](http://mirrors.xmu.edu.cn/)
+12. 中山大学：[http://mirror.sysu.edu.cn/](http://mirror.sysu.edu.cn/)
+13. 重庆大学：[http://mirrors.cqu.edu.cn/](http://mirrors.cqu.edu.cn/)（当前已用容量估计：3.93T）
+14. 南阳理工学院：[http://mirror.nyist.edu.cn/](http://mirror.nyist.edu.cn/)
+15. 中科院高能物理研究所：[http://mirror.ihep.ac.cn/](http://mirror.ihep.ac.cn/)，[http://mir-cern.ihep.ac.cn/](http://mir-cern.ihep.ac.cn/)
+16. 电子科技大学凝聚网络安全工作室：[http://mirrors.cnssuestc.org/](http://mirrors.cnssuestc.org/)
+17. 西北农林科技大学：[http://mirrors.nwsuaf.edu.cn/](http://mirrors.nwsuaf.edu.cn/)（只收录CentOS镜像，当前已用容量估计：140GB）
+18. 郑州大学：[https://mirrors.zzu.edu.cn/](https://mirrors.zzu.edu.cn/)
+19. 南京信息工程大学：[http://mirrors.duohuo.org/](http://mirrors.duohuo.org/)
+20. 华中科技大学：[http://mirror.hust.edu.cn/](http://mirror.hust.edu.cn/)（当前已用容量估计：4.83T）
+21. 重庆邮电大学：[http://mirrors.cqupt.edu.cn/](http://mirrors.cqupt.edu.cn/)（当前已用容量估计：1.68T）
+22. 大连理工大学：[http://mirror.dlut.edu.cn/](http://mirror.dlut.edu.cn/)
+23. 江苏广播电视大学：[http://mirrors.jstvu.edu.cn/](http://mirrors.jstvu.edu.cn/)
+24. 山东女子学院：[http://mirrors.sdwu.edu.cn/](http://mirrors.sdwu.edu.cn/)
+25. 西安交通大学：[http://mirrors.xjtu.edu.cn/](http://mirrors.xjtu.edu.cn/)
+26. 西安电子科技大学：[http://linux.xidian.edu.cn/](http://linux.xidian.edu.cn/)，[http://xdlinux.info/](http://xdlinux.info/)（镜像仅供校内使用）
+27. 南开大学：[http://ftp.nankai.edu.cn/](http://ftp.nankai.edu.cn/)（镜像仅供校内使用）
+28. 天津大学：[http://mirror.tju.edu.cn](http://mirror.tju.edu.cn)（镜像仅供校内使用，另一域名为zyrj.org）
+29. 南京师范大学：[http://mirrors.njnu.edu.cn/](http://mirrors.njnu.edu.cn/)（镜像仅供校内使用）
+30. 电子科技大学：[http://ubuntu.uestc.edu.cn/](http://ubuntu.uestc.edu.cn/)（首页近一年无人维护，内容可访问）
+31. 中央音乐学院：[http://fundawang.lcuc.org.cn/](http://fundawang.lcuc.org.cn/)（镜像仅供校内使用）
+32. 云南大学：[http://archive.ubuntu.mirrors.opensource.ynu.edu.cn/](http://archive.ubuntu.mirrors.opensource.ynu.edu.cn/)（收录ubuntu软件源）,[http://pypi.opensource.ynu.edu.cn/](http://pypi.opensource.ynu.edu.cn/)（收录pypi）
+33. 上海科技大学：[https://mirrors.geekpie.org/](https://mirrors.geekpie.org/)
+34. 南京信息职业技术学院：[https://mirrors.njcit.cn/](https://mirrors.njcit.cn/)
+35. 上海交通大学SJTUG：[http://mirrors.sjtug.org/](http://mirrors.sjtug.org/)
 
 
 ### （三）、其他
@@ -89,6 +88,7 @@
 21. 中国地质大学：[http://mirrors.cug.edu.cn/](http://mirrors.cug.edu.cn/)（2016年11月关闭）
 22. 北京化工大学：[http://ubuntu.buct.edu.cn/](http://ubuntu.buct.edu.cn/)（2016年11月关闭）
 23. 中国互联网络信息中心：[http://mirrors.cnnic.cn/](http://mirrors.cnnic.cn/)（只收录Apache镜像，2017年4月关闭，重定向到清华大学）
+24. 腾讯Bugly：[http://android-mirror.bugly.qq.com:8080/](http://android-mirror.bugly.qq.com:8080/)（只收录Apache镜像，2017年4月关闭）
 
 ## 二、软件版
 ###（一）、操作系统类
@@ -140,7 +140,6 @@
 
 2. 安卓SDK
  * 大连东软信息学院：[http://mirrors.neusoft.edu.cn/android/repository/](http://mirrors.neusoft.edu.cn/android/repository/)
- * 腾讯：[http://android-mirror.bugly.qq.com:8080/android/repository/](http://android-mirror.bugly.qq.com:8080/android/repository/)（限流）
  * 郑州大学：[http://mirrors.zzu.edu.cn/android/repository/](http://mirrors.zzu.edu.cn/android/repository/)（2016年4月停止同步，2016年10月重新同步）
  * 南阳理工学院：[http://mirror.nyist.edu.cn/android/repository/](http://mirror.nyist.edu.cn/android/repository/)（停止同步）
 
@@ -149,17 +148,14 @@
  * 中国科技大学：[https://lug.ustc.edu.cn/wiki/mirrors/help/aosp](https://lug.ustc.edu.cn/wiki/mirrors/help/aosp)
  * 东北大学：[http://mirror.neu.edu.cn/android/](http://mirror.neu.edu.cn/android/)（东北大学采用旧版本的脚本抓AOSP，2016年1月之后不再同步，不推荐使用这个镜像）
 
-4. Xcode
- * 腾讯：[http://android-mirror.bugly.qq.com:8080/Xcode/](http://android-mirror.bugly.qq.com:8080/Xcode/)（更新速度较慢，建议直接从官网下载）
-
-5. Docker Hub
+4. Docker Hub
  * 网易蜂巢：[https://c.163.com/hub#/m/home/](https://c.163.com/hub#/m/home/)
  * 灵雀云：[https://hub.alauda.cn/](https://hub.alauda.cn/)
  * DaoCloud：[https://hub.daocloud.io/](https://hub.daocloud.io/)
  * 时速云：[https://hub.tenxcloud.com/](https://hub.tenxcloud.com/)
  * 阿里云：[https://dev.aliyun.com/search.html](https://dev.aliyun.com/search.html)
 
-6. GitLab-CE
+5. GitLab-CE
  * 清华大学：[https://mirror.tuna.tsinghua.edu.cn/help/gitlab-ce/](https://mirror.tuna.tsinghua.edu.cn/help/gitlab-ce/)
  * 浙江大学：[https://bbs.gitlab.cc/topic/15](https://bbs.gitlab.cc/topic/15)
 
@@ -223,3 +219,4 @@
  * 2017-1-5:新增南京信息职业技术学院镜像，这个镜像在2016年11上线
  * 2017-1-5:新增龙芯开源社区镜像，这个镜像应该是很早（2015年之前）就建立了只是不对外，目前只更新龙芯镜像
  * 2017-1-6:新增上海交通大学SJTUG镜像，据v2ex上的消息，这个镜像于2016年上线用来替代原来的上海交通大学镜像，不过目前这个镜像的发展情况也不乐观
+ * 2017-5-17:cnnic镜像，腾讯bugly镜像于2017年4月关闭
