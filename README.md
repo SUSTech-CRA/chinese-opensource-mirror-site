@@ -42,12 +42,12 @@
 33. 上海科技大学：[https://mirrors.geekpie.org/](https://mirrors.geekpie.org/)
 34. 南京信息职业技术学院：[https://mirrors.njcit.cn/](https://mirrors.njcit.cn/)
 35. 上海交通大学SJTUG：[http://mirrors.sjtug.org/](http://mirrors.sjtug.org/)
-
+36. 南京邮电大学通达学院：[http://mirrors.tdsast.cn/](http://mirrors.tdsast.cn/)
+37. 燕山大学：[http://mirror.pret-page.com/](http://mirror.pret-page.com/)
 
 ### （三）、其他
 1. 中国电信天翼云：[http://mirrors.ctyun.cn/](http://mirrors.ctyun.cn/)
 2. 常州贝特康姆软件技术有限公司(公云PubYun)：[http://centos.bitcomm.cn/](http://centos.bitcomm.cn/)，[http://mirrors.pubyun.com/](http://mirrors.pubyun.com/)（当前已用容量估计：2.3T）
-3. 海波网络镜像：[http://mirrors.hypo.cn/](http://mirrors.hypo.cn/)（当前已用容量估计：1.68T，部分镜像同步延迟超过3天）
 4. 开源镜像文件搜索：[http://mirrors.org.cn/](http://mirrors.org.cn/)（只能搜索和浏览，不能下载）
 5. Linux运维派：[http://mirrors.skyshe.cn/](http://mirrors.skyshe.cn/)（使用阿里云服务器，界面使用浙江大学的模板，首页维护，内容可访问）
 6. 北京鹏博士宽带：[http://mirrors.btte.net/](http://mirrors.btte.net/)（只收录CentOS）
@@ -63,6 +63,7 @@
 17. Cloud-Stack镜像站：[http://mirrors.cloudstack-china.com/](http://mirrors.cloudstack-china.com/)
 18. cn99(常州贝特康姆旗下)：[http://mirrors.cn99.com/](http://mirrors.cn99.com/)
 19. 龙芯开源社区：[http://mirrors.loongnix.org/](http://mirrors.loongnix.org/)（只收录龙芯镜像）
+20. 黔东南开源镜像站：[https://mirrors.gzqdn.org/](https://mirrors.gzqdn.org/)
 
 ### （四）、确认关闭的镜像站
 1. 北京航空航天大学：[http://mirror.buaa.edu.cn/](http://mirror.buaa.edu.cn/)，[http://mirror.buaabt.cn/](http://mirror.buaabt.cn/)（2012年建立，2014年关闭。镜像站关闭后不久，未来花园BT关闭。）
@@ -89,6 +90,7 @@
 22. 北京化工大学：[http://ubuntu.buct.edu.cn/](http://ubuntu.buct.edu.cn/)（2016年11月关闭）
 23. 中国互联网络信息中心：[http://mirrors.cnnic.cn/](http://mirrors.cnnic.cn/)（只收录Apache镜像，2017年4月关闭，重定向到清华大学）
 24. 腾讯Bugly：[http://android-mirror.bugly.qq.com:8080/](http://android-mirror.bugly.qq.com:8080/)（只收录Apache镜像，2017年4月关闭）
+25. 海波网络镜像：[http://mirrors.hypo.cn/](http://mirrors.hypo.cn/)（2017年5月关闭）
 
 ## 二、软件版
 ###（一）、操作系统类
@@ -220,3 +222,4 @@
  * 2017-1-5:新增龙芯开源社区镜像，这个镜像应该是很早（2015年之前）就建立了只是不对外，目前只更新龙芯镜像
  * 2017-1-6:新增上海交通大学SJTUG镜像，据v2ex上的消息，这个镜像于2016年上线用来替代原来的上海交通大学镜像，不过目前这个镜像的发展情况也不乐观
  * 2017-5-17:cnnic镜像，腾讯bugly镜像于2017年4月关闭
+ * 2017-5-17:海波镜像于2017年5月关闭，新增南京邮电大学通达学院、燕山大学、黔东南开源镜像站3个镜像
