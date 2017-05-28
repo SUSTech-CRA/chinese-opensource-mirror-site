@@ -181,7 +181,7 @@
 * CTAN：[http://www.ctan.org/mirrors/](http://www.ctan.org/mirrors/)，[http://www.ctan.org/mirrors/mirmon#cn](http://www.ctan.org/mirrors/mirmon#cn)
 * Ruby：[https://www.ruby-lang.org/en/downloads/mirrors/](https://www.ruby-lang.org/en/downloads/mirrors/)
 * 树莓派Raspbian：[http://www.raspbian.org/RaspbianMirrors](http://www.raspbian.org/RaspbianMirrors)
-* 深度操作系统deepin：[https://www.deepin.org/mirror.html](https://www.deepin.org/mirror.html)
+* 深度操作系统deepin：[https://www.deepin.org/mirrors/releases/](https://www.deepin.org/mirrors/releases/)
 * Scientific Linux：[https://www.scientificlinux.org/downloads/sl-mirrors/](https://www.scientificlinux.org/downloads/sl-mirrors/)
 * Sabayon Linux：[http://www.sabayon.org/download/](http://www.sabayon.org/download/)
 * MySQL：[http://dev.mysql.com/downloads/mirrors/](http://dev.mysql.com/downloads/mirrors/)
