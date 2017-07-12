@@ -188,6 +188,7 @@
 * KNOPPIX：[http://www.knopper.net/knoppix-mirrors/](http://www.knopper.net/knoppix-mirrors/)
 * QT：[http://download.qt.io/static/mirrorlist/](http://download.qt.io/static/mirrorlist/)
 * VideoLAN：[http://www.videolan.org/videolan/mirrors.html](http://www.videolan.org/videolan/mirrors.html)
+* eclipse：[http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/luna/SR2/eclipse-java-luna-SR2-win32.zip&format=xml](http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/luna/SR2/eclipse-java-luna-SR2-win32.zip&format=xml)
 
 
 ## 四、几个官方cn子域解析
