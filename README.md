@@ -138,8 +138,10 @@
 
 ### （三）、开发工具类
 1. eclipse
- * 中国科技大学：[http://mirrors.ustc.edu.cn/eclipse/](http://mirrors.ustc.edu.cn/eclipse/)
- * 东北大学：[http://mirror.neu.edu.cn/eclipse/](http://mirror.neu.edu.cn/eclipse/)
+ * 大连东软信息学院：[http://mirrors.neusoft.edu.cn/eclipse/technology/epp/downloads/release/](http://mirrors.neusoft.edu.cn/eclipse/technology/epp/downloads/release/)（推荐，维护及时）
+ * 中国科技大学：[http://mirrors.neusoft.edu.cn/eclipse/technology/epp/downloads/release/](http://mirrors.neusoft.edu.cn/eclipse/technology/epp/downloads/release/)
+ * 东北大学：[http://mirror.neu.edu.cn/eclipse/technology/epp/downloads/release/](http://mirror.neu.edu.cn/eclipse/technology/epp/downloads/release/)（2016年1月停止更新）
+
 
 2. 安卓SDK
  * 大连东软信息学院：[http://mirrors.neusoft.edu.cn/android/repository/](http://mirrors.neusoft.edu.cn/android/repository/)
