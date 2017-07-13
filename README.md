@@ -140,6 +140,7 @@
 1. eclipse
  * 大连东软信息学院：[http://mirrors.neusoft.edu.cn/eclipse/technology/epp/downloads/release/](http://mirrors.neusoft.edu.cn/eclipse/technology/epp/downloads/release/)（推荐，维护及时）
  * 中国科技大学：[http://mirrors.ustc.edu.cn/eclipse/technology/epp/downloads/release/](http://mirrors.ustc.edu.cn/eclipse/technology/epp/downloads/release/)
+ * 北京理工大学：[http://mirror.bit.edu.cn/eclipse/technology/epp/downloads/release/](http://mirror.bit.edu.cn/eclipse/technology/epp/downloads/release/)
  * 东北大学：[http://mirror.neu.edu.cn/eclipse/technology/epp/downloads/release/](http://mirror.neu.edu.cn/eclipse/technology/epp/downloads/release/)（2016年1月停止更新）
 
 
