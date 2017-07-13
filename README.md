@@ -45,6 +45,7 @@
 36. 南京邮电大学通达学院：[http://mirrors.tdsast.cn/](http://mirrors.tdsast.cn/)
 37. 燕山大学：[http://mirror.pret-page.com/](http://mirror.pret-page.com/)
 38. 南京邮电大学：[http://mirrors.njupt.edu.cn/](http://mirrors.njupt.edu.cn/)
+39. 南京大学：[http://mirrors.nju.edu.cn/](http://mirrors.nju.edu.cn/)
 
 ### （三）、其他
 1. 中国电信天翼云：[http://mirrors.ctyun.cn/](http://mirrors.ctyun.cn/)
