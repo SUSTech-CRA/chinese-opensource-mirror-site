@@ -201,13 +201,14 @@
 
 
 ## 五、镜像站搭建参考
-1. 搭建开源镜像站-FPs，[http://fangpeishi.github.io/build_opensource_mirror.html](http://fangpeishi.github.io/build_opensource_mirror.html)
-2. 科大开源软件镜像是怎样炼成的，[https://ring0.me/2013/09/how-ustc-mirror-works/](https://ring0.me/2013/09/how-ustc-mirror-works/)
-3. 北京交通大学同步脚本，[https://github.com/ideal/mirror](https://github.com/ideal/mirror)
-4. 中国科学院同步脚本，[https://github.com/opencas/mirrors](https://github.com/opencas/mirrors)
-5. 浙江大学同步脚本，[https://github.com/zjulug](https://github.com/zjulug)，[https://github.com/ZJU-NewMirrors](https://github.com/ZJU-NewMirrors)
-6. 重庆邮电大学同步脚本，[https://github.com/CQUPTMirror](https://github.com/CQUPTMirror)
-7. 兰州大学同步脚本，[https://github.com/LZUOSS/Mirror](https://github.com/LZUOSS/Mirror)
+1. 清华大学镜像管理器脚本，[https://github.com/tuna/tunasync](https://github.com/tuna/tunasync)
+2. 搭建开源镜像站-FPs，[http://fangpeishi.github.io/build_opensource_mirror.html](http://fangpeishi.github.io/build_opensource_mirror.html)
+3. 科大开源软件镜像是怎样炼成的，[https://ring0.me/2013/09/how-ustc-mirror-works/](https://ring0.me/2013/09/how-ustc-mirror-works/)
+4. 北京交通大学同步脚本，[https://github.com/ideal/mirror](https://github.com/ideal/mirror)
+5. 中国科学院同步脚本，[https://github.com/opencas/mirrors](https://github.com/opencas/mirrors)
+6. 浙江大学同步脚本，[https://github.com/zjulug](https://github.com/zjulug)，[https://github.com/ZJU-NewMirrors](https://github.com/ZJU-NewMirrors)
+7. 重庆邮电大学同步脚本，[https://github.com/CQUPTMirror](https://github.com/CQUPTMirror)
+8. 兰州大学同步脚本，[https://github.com/LZUOSS/Mirror](https://github.com/LZUOSS/Mirror)
 
 ## 六、镜像站异动情况
  * 2016-11-13:新浪镜像站全网无法访问，由[17ce](http://www.17ce.com/site/http/201611_026c9958e669fab697baa0520bbaf652.html) 提供测试结果
