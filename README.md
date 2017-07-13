@@ -202,7 +202,7 @@
 
 ## 五、镜像站搭建参考
 1. 搭建开源镜像站-FPs，[http://fangpeishi.github.io/build_opensource_mirror.html](http://fangpeishi.github.io/build_opensource_mirror.html)
-2. 科大开源软件镜像是怎样炼成的，[http://blog.renren.com/blog/350643946/912702930](http://blog.renren.com/blog/350643946/912702930)，[http://blog.163.com/huangjiayao_1992/blog/static/2527169220138411412404/](http://blog.163.com/huangjiayao_1992/blog/static/2527169220138411412404/)
+2. 科大开源软件镜像是怎样炼成的，[https://ring0.me/2013/09/how-ustc-mirror-works/](https://ring0.me/2013/09/how-ustc-mirror-works/)
 3. 北京交通大学同步脚本，[https://github.com/ideal/mirror](https://github.com/ideal/mirror)
 4. 中国科学院同步脚本，[https://github.com/opencas/mirrors](https://github.com/opencas/mirrors)
 5. 浙江大学同步脚本，[https://github.com/zjulug](https://github.com/zjulug)，[https://github.com/ZJU-NewMirrors](https://github.com/ZJU-NewMirrors)
