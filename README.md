@@ -15,7 +15,7 @@
 6. 兰州大学：[http://mirror.lzu.edu.cn/](http://mirror.lzu.edu.cn/)
 7. 上海交通大学：[http://ftp.sjtu.edu.cn/](http://ftp.sjtu.edu.cn/)，[ftp://ftp.sjtu.edu.cn/](ftp://ftp.sjtu.edu.cn/)（部分移动运营商出口状况不佳，无法访问）
 8. 大连东软信息学院：[http://mirrors.neusoft.edu.cn/](http://mirrors.neusoft.edu.cn/)（当前已用容量估计：2.5T）
-9. 东北大学：[http://mirror.neu.edu.cn/](http://mirror.neu.edu.cn/)
+9. 东北大学：[http://mirror.neu.edu.cn/](http://mirror.neu.edu.cn/)（东北地区教育网出口）
 10. 浙江大学：[http://mirrors.zju.edu.cn/](http://mirrors.zju.edu.cn/)
 11. 厦门大学：[http://mirrors.xmu.edu.cn/](http://mirrors.xmu.edu.cn/)
 12. 中山大学：[http://mirror.sysu.edu.cn/](http://mirror.sysu.edu.cn/)
@@ -28,7 +28,7 @@
 19. 南京信息工程大学：[http://mirrors.duohuo.org/](http://mirrors.duohuo.org/)
 20. 华中科技大学：[http://mirror.hust.edu.cn/](http://mirror.hust.edu.cn/)（当前已用容量估计：4.83T）
 21. 重庆邮电大学：[http://mirrors.cqupt.edu.cn/](http://mirrors.cqupt.edu.cn/)（当前已用容量估计：1.68T）
-22. 大连理工大学：[http://mirror.dlut.edu.cn/](http://mirror.dlut.edu.cn/)
+22. 大连理工大学：[http://mirror.dlut.edu.cn/](http://mirror.dlut.edu.cn/)（大连地区教育网出口）
 23. 江苏广播电视大学：[http://mirrors.jstvu.edu.cn/](http://mirrors.jstvu.edu.cn/)
 24. 山东女子学院：[http://mirrors.sdwu.edu.cn/](http://mirrors.sdwu.edu.cn/)
 25. 西安交通大学：[http://mirrors.xjtu.edu.cn/](http://mirrors.xjtu.edu.cn/)（西北地区教育网出口）
