@@ -211,6 +211,7 @@
 6. 浙江大学同步脚本，[https://github.com/zjulug](https://github.com/zjulug)，[https://github.com/ZJU-NewMirrors](https://github.com/ZJU-NewMirrors)
 7. 重庆邮电大学同步脚本，[https://github.com/CQUPTMirror](https://github.com/CQUPTMirror)
 8. 兰州大学同步脚本，[https://github.com/LZUOSS/Mirror](https://github.com/LZUOSS/Mirror)
+9. 教育网主干节点分布，[http://www.cernet.com/aboutus/gyce_jgsz.htm](http://www.cernet.com/aboutus/gyce_jgsz.htm)
 
 ## 六、镜像站异动情况
  * 2016-11-13:新浪镜像站全网无法访问，由[17ce](http://www.17ce.com/site/http/201611_026c9958e669fab697baa0520bbaf652.html) 提供测试结果
