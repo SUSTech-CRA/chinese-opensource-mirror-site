@@ -213,6 +213,7 @@
 8. 兰州大学同步脚本，[https://github.com/LZUOSS/Mirror](https://github.com/LZUOSS/Mirror)
 9. 教育网主干节点分布，[http://www.cernet.com/aboutus/gyce_jgsz.htm](http://www.cernet.com/aboutus/gyce_jgsz.htm)
 10. 关于教育网八大节点的知识点，[http://bbs.linuxtone.org/thread-7424-1-1.html](http://bbs.linuxtone.org/thread-7424-1-1.html)
+11. 教育网41核心节点，[http://www.cernet20.edu.cn/family.shtml](http://www.cernet20.edu.cn/family.shtml)
 
 ## 六、镜像站异动情况
  * 2016-11-13:新浪镜像站全网无法访问，由[17ce](http://www.17ce.com/site/http/201611_026c9958e669fab697baa0520bbaf652.html) 提供测试结果
