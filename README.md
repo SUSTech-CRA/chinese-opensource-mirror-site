@@ -13,7 +13,7 @@
 4. 北京交通大学：[http://mirror.bjtu.edu.cn/](http://mirror.bjtu.edu.cn/)
 5. 北京理工大学：[http://mirror.bit.edu.cn/web/](http://mirror.bit.edu.cn/web/)
 6. 兰州大学：[http://mirror.lzu.edu.cn/](http://mirror.lzu.edu.cn/)
-7. 上海交通大学：[http://ftp.sjtu.edu.cn/](http://ftp.sjtu.edu.cn/)，[ftp://ftp.sjtu.edu.cn/](ftp://ftp.sjtu.edu.cn/)（部分移动运营商出口状况不佳，无法访问）
+7. 上海交通大学：[http://ftp.sjtu.edu.cn/](http://ftp.sjtu.edu.cn/)，[ftp://ftp.sjtu.edu.cn/](ftp://ftp.sjtu.edu.cn/)（华东南地区教育网出口）
 8. 大连东软信息学院：[http://mirrors.neusoft.edu.cn/](http://mirrors.neusoft.edu.cn/)（当前已用容量估计：2.5T）
 9. 东北大学：[http://mirror.neu.edu.cn/](http://mirror.neu.edu.cn/)（东北地区教育网出口）
 10. 浙江大学：[http://mirrors.zju.edu.cn/](http://mirrors.zju.edu.cn/)
@@ -26,7 +26,7 @@
 17. 西北农林科技大学：[http://mirrors.nwsuaf.edu.cn/](http://mirrors.nwsuaf.edu.cn/)（只收录CentOS镜像，当前已用容量估计：140GB）
 18. 郑州大学：[https://mirrors.zzu.edu.cn/](https://mirrors.zzu.edu.cn/)
 19. 南京信息工程大学：[http://mirrors.duohuo.org/](http://mirrors.duohuo.org/)
-20. 华中科技大学：[http://mirror.hust.edu.cn/](http://mirror.hust.edu.cn/)（当前已用容量估计：4.83T）
+20. 华中科技大学：[http://mirror.hust.edu.cn/](http://mirror.hust.edu.cn/)（华中地区教育网出口，当前已用容量估计：4.83T）
 21. 重庆邮电大学：[http://mirrors.cqupt.edu.cn/](http://mirrors.cqupt.edu.cn/)（当前已用容量估计：1.68T）
 22. 大连理工大学：[http://mirror.dlut.edu.cn/](http://mirror.dlut.edu.cn/)（大连地区教育网出口）
 23. 江苏广播电视大学：[http://mirrors.jstvu.edu.cn/](http://mirrors.jstvu.edu.cn/)
@@ -36,7 +36,7 @@
 27. 南开大学：[http://ftp.nankai.edu.cn/](http://ftp.nankai.edu.cn/)（镜像仅供校内使用）
 28. 天津大学：[http://mirror.tju.edu.cn](http://mirror.tju.edu.cn)（镜像仅供校内使用，另一域名为zyrj.org）
 29. 南京师范大学：[http://mirrors.njnu.edu.cn/](http://mirrors.njnu.edu.cn/)（镜像仅供校内使用）
-30. 电子科技大学：[http://ubuntu.uestc.edu.cn/](http://ubuntu.uestc.edu.cn/)（首页近一年无人维护，内容可访问）
+30. 电子科技大学：[http://ubuntu.uestc.edu.cn/](http://ubuntu.uestc.edu.cn/)（西南地区教育网出口西南，首页近一年无人维护，内容可访问）
 31. 中央音乐学院：[http://fundawang.lcuc.org.cn/](http://fundawang.lcuc.org.cn/)（镜像仅供校内使用）
 32. 云南大学：[http://archive.ubuntu.mirrors.opensource.ynu.edu.cn/](http://archive.ubuntu.mirrors.opensource.ynu.edu.cn/)（收录ubuntu软件源）,[http://pypi.opensource.ynu.edu.cn/](http://pypi.opensource.ynu.edu.cn/)（收录pypi）
 33. 上海科技大学：[https://mirrors.geekpie.org/](https://mirrors.geekpie.org/)
@@ -212,6 +212,7 @@
 7. 重庆邮电大学同步脚本，[https://github.com/CQUPTMirror](https://github.com/CQUPTMirror)
 8. 兰州大学同步脚本，[https://github.com/LZUOSS/Mirror](https://github.com/LZUOSS/Mirror)
 9. 教育网主干节点分布，[http://www.cernet.com/aboutus/gyce_jgsz.htm](http://www.cernet.com/aboutus/gyce_jgsz.htm)
+10. 关于教育网八大节点的知识点，[http://bbs.linuxtone.org/thread-7424-1-1.html](http://bbs.linuxtone.org/thread-7424-1-1.html)
 
 ## 六、镜像站异动情况
  * 2016-11-13:新浪镜像站全网无法访问，由[17ce](http://www.17ce.com/site/http/201611_026c9958e669fab697baa0520bbaf652.html) 提供测试结果
