@@ -110,7 +110,7 @@
  * 搜狐：[http://mirrors.sohu.com/raspbian/](http://mirrors.sohu.com/raspbian/)
  * 中国科技大学：[http://mirrors.ustc.edu.cn/raspbian/](http://mirrors.ustc.edu.cn/raspbian/)
  * 浙江大学：[http://mirrors.zju.edu.cn/raspbian/](http://mirrors.zju.edu.cn/raspbian/)
- * 重庆大学：[https://b.mirrors.lanunion.org/Raspbian/](https://b.mirrors.lanunion.org/Raspbian/)
+ * 重庆大学：[http://mirrors.cqu.edu.cn/raspbian/](http://mirrors.cqu.edu.cn/raspbian/)
  * 郑州大学：[http://mirrors.zzu.edu.cn/raspbian/](http://mirrors.zzu.edu.cn/raspbian/)
  * 吉林大学：[http://mirrors.jlu.edu.cn/raspbian/](http://mirrors.jlu.edu.cn/raspbian/)
 
