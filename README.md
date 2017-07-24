@@ -116,7 +116,7 @@
 
 ### （二）、服务器类
 1. Tomcat、Apache
- * 中国互联网络信息中心：[http://mirrors.cnnic.cn/apache/](http://mirrors.cnnic.cn/apache/)
+ * 清华大学：[https://mirrors.tuna.tsinghua.edu.cn/apache/](https://mirrors.tuna.tsinghua.edu.cn/apache/)
  * 北京理工大学：[http://mirror.bit.edu.cn/apache/](http://mirror.bit.edu.cn/apache/)
 
 2. MySQL
