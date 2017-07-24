@@ -119,21 +119,24 @@
  * 清华大学：[https://mirrors.tuna.tsinghua.edu.cn/apache/](https://mirrors.tuna.tsinghua.edu.cn/apache/)
  * 北京理工大学：[http://mirror.bit.edu.cn/apache/](http://mirror.bit.edu.cn/apache/)
 
-2. MySQL
+2. Nginx
+ * 搜狐：[http://mirrors.sohu.com/nginx/](http://mirrors.sohu.com/nginx/)
+
+3. MySQL
  * 北京理工大学：[http://mirror.bit.edu.cn/mysql/Downloads/](http://mirror.bit.edu.cn/mysql/Downloads/)
  * 中国电信天翼云：[http://mirrors.ctyun.cn/Mysql/](http://mirrors.ctyun.cn/Mysql/)
 
-3. PostgreSQL
+4. PostgreSQL
  * 浙江大学：[http://mirrors.zju.edu.cn/postgresql/](http://mirrors.zju.edu.cn/postgresql/)
 
-4. MariaDB
+5. MariaDB
  * 中国电信天翼云：[http://mirrors.ctyun.cn/MariaDB/](http://mirrors.ctyun.cn/MariaDB/)
 
-5. mongodb
+6. mongodb
  * 阿里云：[http://mirrors.aliyun.com/mongodb/](http://mirrors.aliyun.com/mongodb/)
  * 清华大学：[https://mirrors.tuna.tsinghua.edu.cn/mongodb/](https://mirrors.tuna.tsinghua.edu.cn/mongodb/)
 
-6. VideoLAN
+7. VideoLAN
  * 大连东软信息学院：[http://mirrors.neusoft.edu.cn/videolan/](http://mirrors.neusoft.edu.cn/videolan/)
  * 中国科技大学：[http://mirrors.ustc.edu.cn/videolan-ftp/](http://mirrors.ustc.edu.cn/videolan-ftp/)
 
