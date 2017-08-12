@@ -66,6 +66,7 @@
 18. cn99(常州贝特康姆旗下)：[http://mirrors.cn99.com/](http://mirrors.cn99.com/)
 19. 龙芯开源社区：[http://mirrors.loongnix.org/](http://mirrors.loongnix.org/)（只收录龙芯镜像）
 20. 黔东南开源镜像站：[https://mirrors.gzqdn.org/](https://mirrors.gzqdn.org/)
+21. 联创团队：[https://mirrors.hustunique.com/](https://mirrors.hustunique.com/)
 
 ### （四）、确认关闭的镜像站
 1. 北京航空航天大学：[http://mirror.buaa.edu.cn/](http://mirror.buaa.edu.cn/)，[http://mirror.buaabt.cn/](http://mirror.buaabt.cn/)（2012年建立，2014年关闭。镜像站关闭后不久，未来花园BT关闭。）
@@ -75,7 +76,6 @@
 5. 人人网Apache镜像：[http://labs.renren.com/apache-mirror/](http://labs.renren.com/apache-mirror/)（2016年关闭）
 6. 开源中国社区：[http://mirrors.oss.org.cn/](http://mirrors.oss.org.cn/)，[http://mirrors.oschina.net/](http://mirrors.oschina.net/)（2015年关闭）
 7. 希网网络cn99：[http://ubuntu.cn99.com/](http://ubuntu.cn99.com/)（域名CNAME跳转到网易镜像,2016年9月重建）
-8. 华中科技大学启明学院：[http://mirrors.hustunique.com/](http://mirrors.hustunique.com/)（域名跳转到清华镜像）
 9. ZMX - IT技术交流论坛：[http://mirrors.itzmx.com/](http://mirrors.itzmx.com/)（域名跳转到清华镜像）
 10. 中国科学院：[http://www.opencas.org/mirrors/](http://www.opencas.org/mirrors/)（2016年5月关闭）
 11. 电子科技大学LUG镜像：[http://mirrors.uestc.xyz/](http://mirrors.uestc.xyz/)（2016年4月关闭）
