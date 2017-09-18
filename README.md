@@ -160,7 +160,7 @@
  * 东北大学：[http://mirror.neu.edu.cn/android/](http://mirror.neu.edu.cn/android/)（东北大学采用旧版本的脚本抓AOSP，2016年1月之后不再同步，不推荐使用这个镜像）
 
 4. Docker Hub
- * 网易蜂巢：[https://c.163.com/hub#/m/home/](https://c.163.com/hub#/m/home/)
+ * 网易蜂巢：[https://c.163.com/#/m/home/](https://c.163.com/#/m/home/)
  * 灵雀云：[https://hub.alauda.cn/](https://hub.alauda.cn/)
  * DaoCloud：[https://hub.daocloud.io/](https://hub.daocloud.io/)
  * 时速云：[https://hub.tenxcloud.com/](https://hub.tenxcloud.com/)
