@@ -55,7 +55,7 @@
 5. Linux运维派：[http://mirrors.skyshe.cn/](http://mirrors.skyshe.cn/)（使用阿里云服务器，界面使用浙江大学的模板，首页维护，内容可访问）
 6. 北京鹏博士宽带：[http://mirrors.btte.net/](http://mirrors.btte.net/)（只收录CentOS）
 8. Fayea工作室：[http://apache.fayea.com/](http://apache.fayea.com/)（只收录Apache镜像，当前已用容量估计：120GB）
-9. 豆瓣pypi：[http://pypi.douban.com/](http://pypi.douban.com/)，[https://pypi.doubanio.com/](https://pypi.doubanio.com/)
+9. 豆瓣pypi：[http://pypi.doubanio.com/](http://pypi.doubanio.com/)，[https://pypi.doubanio.com/](https://pypi.doubanio.com/)
 10. v2ex的pypi：[http://pypi.v2ex.com/](http://pypi.v2ex.com/)（部分地区长城宽带用户会强制跳转到https出现访问异常）
 11. 淘宝NPM：[https://npm.taobao.org/](https://npm.taobao.org/)
 12. Ruby China的RubyGems：[https://gems.ruby-china.org/](https://gems.ruby-china.org/)
