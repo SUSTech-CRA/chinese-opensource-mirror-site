@@ -96,7 +96,7 @@
 25. 海波网络镜像：[http://mirrors.hypo.cn/](http://mirrors.hypo.cn/)（2017年5月关闭）
 
 ## 二、软件版
-###（一）、操作系统类
+### （一）、操作系统类
 1. Ubuntu
  * 网易：[http://mirrors.163.com/ubuntu-releases/](http://mirrors.163.com/ubuntu-releases/)
  * 首都在线科技股份有限公司：[http://mirrors.yun-idc.com/ubuntu-releases/](http://mirrors.yun-idc.com/ubuntu-releases/)
