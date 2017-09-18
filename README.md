@@ -66,7 +66,7 @@
 17. Cloud-Stack镜像站：[http://mirrors.cloudstack-china.com/](http://mirrors.cloudstack-china.com/)
 18. cn99(常州贝特康姆旗下)：[http://mirrors.cn99.com/](http://mirrors.cn99.com/)
 19. 龙芯开源社区：[http://mirrors.loongnix.org/](http://mirrors.loongnix.org/)（只收录龙芯镜像）
-20. 黔东南开源镜像站：[https://mirrors.gzqdn.org/](https://mirrors.gzqdn.org/)
+20. 黔东南开源镜像站：[https://mirrors.gzqdn.org/](https://mirrors.gzqdn.org/)（https证书过期，没有设置定时更新脚本）
 21. 联创团队：[https://mirrors.hustunique.com/](https://mirrors.hustunique.com/)
 
 ### （四）、确认关闭的镜像站
