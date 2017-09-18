@@ -8,7 +8,7 @@
 
 ### （二）、教育站
 1. 中国科技大学：[https://mirrors.ustc.edu.cn/](https://mirrors.ustc.edu.cn/)（当前已用容量估计：21.32T）
-2. 清华大学：[https://mirrors.tuna.tsinghua.edu.cn/](https://mirrors.tuna.tsinghua.edu.cn/)（（当前已用容量估计：9.8T）
+2. 清华大学：[https://mirrors.tuna.tsinghua.edu.cn/](https://mirrors.tuna.tsinghua.edu.cn/)（当前已用容量估计：9.8T）
 3. 吉林大学：[http://mirrors.jlu.edu.cn/](http://mirrors.jlu.edu.cn/)（当前已用容量估计：5.67T）
 4. 北京交通大学：[http://mirror.bjtu.edu.cn/](http://mirror.bjtu.edu.cn/)
 5. 北京理工大学：[http://mirror.bit.edu.cn/web/](http://mirror.bit.edu.cn/web/)
@@ -38,7 +38,7 @@
 29. 南京师范大学：[http://mirrors.njnu.edu.cn/](http://mirrors.njnu.edu.cn/)（镜像仅供校内使用）
 30. 电子科技大学：[http://ubuntu.uestc.edu.cn/](http://ubuntu.uestc.edu.cn/)（西南地区教育网出口西南，首页近一年无人维护，内容可访问）
 31. 中央音乐学院：[http://fundawang.lcuc.org.cn/](http://fundawang.lcuc.org.cn/)（镜像仅供校内使用）
-32. 云南大学：[http://archive.ubuntu.mirrors.opensource.ynu.edu.cn/](http://archive.ubuntu.mirrors.opensource.ynu.edu.cn/)（收录ubuntu软件源）,[http://pypi.opensource.ynu.edu.cn/](http://pypi.opensource.ynu.edu.cn/)（收录pypi）
+32. 云南大学：[http://mirrors.ynuosa.org/index/](http://mirrors.ynuosa.org/index/)（镜像站列表）,[http://pypi.opensource.ynu.edu.cn/](http://pypi.opensource.ynu.edu.cn/)（收录pypi）
 33. 上海科技大学：[https://mirrors.geekpie.org/](https://mirrors.geekpie.org/)
 34. 南京信息职业技术学院：[https://mirrors.njcit.cn/](https://mirrors.njcit.cn/)
 35. 上海交通大学SJTUG：[http://mirrors.sjtug.org/](http://mirrors.sjtug.org/)
