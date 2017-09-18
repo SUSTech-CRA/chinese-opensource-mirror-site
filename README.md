@@ -216,7 +216,7 @@
 7. 重庆邮电大学同步脚本，[https://github.com/CQUPTMirror](https://github.com/CQUPTMirror)
 8. 兰州大学同步脚本，[https://github.com/LZUOSS/Mirror](https://github.com/LZUOSS/Mirror)
 9. 教育网主干节点分布，[http://www.cernet.com/aboutus/gyce_jgsz.htm](http://www.cernet.com/aboutus/gyce_jgsz.htm)
-10. 关于教育网八大节点的知识点，[http://bbs.linuxtone.org/thread-7424-1-1.html](http://bbs.linuxtone.org/thread-7424-1-1.html)
+10. 教育网CERNET八大主干节点及地区节点，[http://blog.csdn.net/gsls200808/article/details/75099728](http://blog.csdn.net/gsls200808/article/details/75099728)
 11. 教育网41核心节点，[http://www.cernet20.edu.cn/family.shtml](http://www.cernet20.edu.cn/family.shtml)
 
 ## 六、镜像站异动情况
