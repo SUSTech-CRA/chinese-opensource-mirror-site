@@ -56,7 +56,7 @@
 6. 北京鹏博士宽带：[http://mirrors.btte.net/](http://mirrors.btte.net/)（只收录CentOS）
 8. Fayea工作室：[http://apache.fayea.com/](http://apache.fayea.com/)（只收录Apache镜像，当前已用容量估计：120GB）
 9. 豆瓣pypi：[http://pypi.doubanio.com/](http://pypi.doubanio.com/)，[https://pypi.doubanio.com/](https://pypi.doubanio.com/)
-10. v2ex的pypi：[http://pypi.v2ex.com/](http://pypi.v2ex.com/)（部分地区长城宽带用户会强制跳转到https出现访问异常）
+10. v2ex的pypi：[http://pypi.v2ex.com/](http://pypi.v2ex.com/)（首页有https异常NET::ERR_CERT_COMMON_NAME_INVALID）
 11. 淘宝NPM：[https://npm.taobao.org/](https://npm.taobao.org/)
 12. Ruby China的RubyGems：[https://gems.ruby-china.org/](https://gems.ruby-china.org/)
 13. 开源中国Maven仓库镜像：[http://maven.oschina.net/](http://maven.oschina.net/)（2013年上线，20160415至今处于挂了的状态，建议使用ibiblio的镜像）
