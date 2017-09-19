@@ -200,6 +200,7 @@
 * PyPI：[https://www.pypi-mirrors.org/](https://www.pypi-mirrors.org/)
 * repoforge：[http://mirror-status.repoforge.org/](http://mirror-status.repoforge.org/)
 * Jenkins：[http://mirrors.jenkins-ci.org/status.html](http://mirrors.jenkins-ci.org/status.html)
+* MariaDB：[http://spenntur.askmonty.org/](http://spenntur.askmonty.org/)
 
 
 ## 四、几个官方cn子域解析
