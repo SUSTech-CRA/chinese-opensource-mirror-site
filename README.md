@@ -60,7 +60,7 @@
 10. v2ex的pypi：[http://pypi.v2ex.com/](http://pypi.v2ex.com/)（首页有https异常NET::ERR_CERT_COMMON_NAME_INVALID）
 11. 淘宝NPM：[https://npm.taobao.org/](https://npm.taobao.org/)
 12. Ruby China的RubyGems：[https://gems.ruby-china.org/](https://gems.ruby-china.org/)
-13. 开源中国Maven仓库镜像：[http://maven.oschina.net/](http://maven.oschina.net/)（2013年上线，20160415至今处于挂了的状态，建议使用ibiblio的镜像）
+13. 淘宝TAEMaven仓库镜像：[http://mvnrepo.tae.taobao.com/content/groups/public/](http://mvnrepo.tae.taobao.com/content/groups/public/)
 14. 阿里云Maven仓库镜像：[http://maven.aliyun.com/nexus/](http://maven.aliyun.com/nexus/)
 15. LinuxEye：[http://mirrors.linuxeye.com/](http://mirrors.linuxeye.com/)
 16. 移动云镜像站：[http://mirrors.bclinux.org/](http://mirrors.bclinux.org/)
