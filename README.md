@@ -207,7 +207,7 @@
 ## 四、几个官方cn子域解析
 * Ubuntu：[http://cn.archive.ubuntu.com/](http://cn.archive.ubuntu.com/)<-->[http://mirrors.aliyun.com/](http://mirrors.aliyun.com/)阿里云
 * FreeBSD：[ftp://ftp.cn.freebsd.org/](ftp://ftp.cn.freebsd.org/)<-->[ftp://www.freebsdchina.org/](ftp://www.freebsdchina.org/)FreeBSD China
-* Debian：[http://ftp.cn.debian.org/](http://ftp.cn.debian.org/)<-->[http://debian.ustc.edu.cn/](http://debian.ustc.edu.cn/)中国科学技术大学
+* Debian：[http://ftp.cn.debian.org/](http://ftp.cn.debian.org/)<-->[https://mirrors.ustc.edu.cn/debian/](https://mirrors.ustc.edu.cn/debian/)中国科学技术大学
 * Debian：[http://ftp2.cn.debian.org/](http://ftp2.cn.debian.org/)<-->[https://mirror.tuna.tsinghua.edu.cn/debian/](https://mirror.tuna.tsinghua.edu.cn/debian/)清华大学
 
 
