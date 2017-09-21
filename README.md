@@ -200,7 +200,7 @@
 * eclipse：[http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/luna/SR2/eclipse-java-luna-SR2-win32.zip&format=xml](http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/luna/SR2/eclipse-java-luna-SR2-win32.zip&format=xml)
 * PyPI：[https://www.pypi-mirrors.org/](https://www.pypi-mirrors.org/)
 * repoforge：[http://mirror-status.repoforge.org/](http://mirror-status.repoforge.org/)
-* Jenkins：[http://mirrors.jenkins-ci.org/status.html](http://mirrors.jenkins-ci.org/status.html)
+* Jenkins：[http://mirrors.jenkins-ci.org/status.html#CN](http://mirrors.jenkins-ci.org/status.html#CN)
 * MariaDB：[http://spenntur.askmonty.org/#cn](http://spenntur.askmonty.org/#cn)
 
 
