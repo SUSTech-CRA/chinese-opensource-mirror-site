@@ -55,14 +55,14 @@
 4. 开源镜像文件搜索：[http://mirrors.org.cn/](http://mirrors.org.cn/)（只能搜索和浏览，不能下载）
 5. Linux运维派：[https://mirrors.skyshe.cn/](https://mirrors.skyshe.cn/)（使用阿里云服务器，界面使用浙江大学的模板，首页维护，内容可访问）
 6. 北京鹏博士宽带：[http://mirrors.btte.net/](http://mirrors.btte.net/)（只收录CentOS）
-8. Fayea工作室：[http://apache.fayea.com/](http://apache.fayea.com/)（只收录Apache镜像，当前已用容量估计：120GB）
-9. 豆瓣pypi：[http://pypi.doubanio.com/](http://pypi.doubanio.com/)，[https://pypi.doubanio.com/](https://pypi.doubanio.com/)
-10. v2ex的pypi：[http://pypi.v2ex.com/](http://pypi.v2ex.com/)（首页有https异常NET::ERR_CERT_COMMON_NAME_INVALID）
-11. 淘宝NPM：[https://npm.taobao.org/](https://npm.taobao.org/)
-12. Ruby China的RubyGems：[https://gems.ruby-china.org/](https://gems.ruby-china.org/)
-13. 淘宝TAEMaven仓库镜像：[http://mvnrepo.tae.taobao.com/content/groups/public/](http://mvnrepo.tae.taobao.com/content/groups/public/)
-14. 阿里云Maven仓库镜像：[http://maven.aliyun.com/nexus/content/groups/public](http://maven.aliyun.com/nexus/content/groups/public)
-15. 阿里云Jcenter仓库镜像：[http://maven.aliyun.com/nexus/content/repositories/jcenter/](http://maven.aliyun.com/nexus/content/repositories/jcenter/)
+7. Fayea工作室：[http://apache.fayea.com/](http://apache.fayea.com/)（只收录Apache镜像，当前已用容量估计：120GB）
+8. 豆瓣pypi：[http://pypi.doubanio.com/](http://pypi.doubanio.com/)，[https://pypi.doubanio.com/](https://pypi.doubanio.com/)
+9. v2ex的pypi：[http://pypi.v2ex.com/](http://pypi.v2ex.com/)（首页有https异常NET::ERR_CERT_COMMON_NAME_INVALID）
+10. 淘宝NPM：[https://npm.taobao.org/](https://npm.taobao.org/)
+11. Ruby China的RubyGems：[https://gems.ruby-china.org/](https://gems.ruby-china.org/)
+12. 淘宝TAEMaven仓库镜像：[http://mvnrepo.tae.taobao.com/content/groups/public/](http://mvnrepo.tae.taobao.com/content/groups/public/)
+13. 阿里云Maven仓库镜像：[http://maven.aliyun.com/nexus/content/groups/public](http://maven.aliyun.com/nexus/content/groups/public)
+14. 阿里云Jcenter仓库镜像：[http://maven.aliyun.com/nexus/content/repositories/jcenter/](http://maven.aliyun.com/nexus/content/repositories/jcenter/)
 15. LinuxEye：[http://mirrors.linuxeye.com/](http://mirrors.linuxeye.com/)
 16. 移动云镜像站：[http://mirrors.bclinux.org/](http://mirrors.bclinux.org/)
 17. Cloud-Stack镜像站：[http://mirrors.cloudstack-china.com/](http://mirrors.cloudstack-china.com/)
@@ -189,6 +189,7 @@
 * Cygwin：[https://www.cygwin.com/mirrors.html](https://www.cygwin.com/mirrors.html)
 * CRAN：[https://cran.r-project.org/mirrors.html](https://cran.r-project.org/mirrors.html)
 * CTAN：[http://www.ctan.org/mirrors/](http://www.ctan.org/mirrors/)，[http://www.ctan.org/mirrors/mirmon#cn](http://www.ctan.org/mirrors/mirmon#cn)
+* CPAN：[http://www.cpan.org/SITES.html](http://www.cpan.org/SITES.html)
 * Ruby：[https://www.ruby-lang.org/en/downloads/mirrors/](https://www.ruby-lang.org/en/downloads/mirrors/)
 * 树莓派Raspbian：[http://www.raspbian.org/RaspbianMirrors](http://www.raspbian.org/RaspbianMirrors)
 * 深度操作系统deepin：[https://www.deepin.org/mirrors/releases/](https://www.deepin.org/mirrors/releases/)
