@@ -9,7 +9,6 @@
 ### （二）、教育站
 1. 中国科技大学：[https://mirrors.ustc.edu.cn/](https://mirrors.ustc.edu.cn/)（当前已用容量估计：21.32T）
 2. 清华大学：[https://mirrors.tuna.tsinghua.edu.cn/](https://mirrors.tuna.tsinghua.edu.cn/)（当前已用容量估计：9.8T）
-3. 吉林大学：[http://mirrors.jlu.edu.cn/](http://mirrors.jlu.edu.cn/)（当前已用容量估计：5.67T）
 4. 北京交通大学：[http://mirror.bjtu.edu.cn/](http://mirror.bjtu.edu.cn/)
 5. 北京理工大学：[http://mirror.bit.edu.cn/web/](http://mirror.bit.edu.cn/web/)
 6. 兰州大学：[http://mirror.lzu.edu.cn/](http://mirror.lzu.edu.cn/)
@@ -99,6 +98,7 @@
 23. 中国互联网络信息中心：[http://mirrors.cnnic.cn/](http://mirrors.cnnic.cn/)（只收录Apache镜像，2017年4月关闭，重定向到清华大学）
 24. 腾讯Bugly：[http://android-mirror.bugly.qq.com:8080/](http://android-mirror.bugly.qq.com:8080/)（只收录Apache镜像，2017年4月关闭）
 25. 海波网络镜像：[http://mirrors.hypo.cn/](http://mirrors.hypo.cn/)（2017年5月关闭）
+26. 吉林大学：[http://mirrors.jlu.edu.cn/](http://mirrors.jlu.edu.cn/)（2017年10月关闭）
 
 ## 二、软件版
 ### （一）、操作系统类
