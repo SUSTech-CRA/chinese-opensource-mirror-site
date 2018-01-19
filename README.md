@@ -210,7 +210,6 @@
 
 
 ## 四、几个官方cn子域解析
-* Ubuntu：[http://cn.archive.ubuntu.com/](http://cn.archive.ubuntu.com/)<-->[http://mirrors.aliyun.com/](http://mirrors.aliyun.com/)阿里云
 * FreeBSD：[ftp://ftp.cn.freebsd.org/](ftp://ftp.cn.freebsd.org/)<-->[ftp://www.freebsdchina.org/](ftp://www.freebsdchina.org/)FreeBSD China
 * Debian：[http://ftp.cn.debian.org/](http://ftp.cn.debian.org/)<-->[https://mirrors.ustc.edu.cn/debian/](https://mirrors.ustc.edu.cn/debian/)中国科学技术大学
 * Debian：[http://ftp2.cn.debian.org/](http://ftp2.cn.debian.org/)<-->[https://mirror.tuna.tsinghua.edu.cn/debian/](https://mirror.tuna.tsinghua.edu.cn/debian/)清华大学
@@ -248,3 +247,4 @@
  * 2017-5-17:cnnic镜像，腾讯bugly镜像于2017年4月关闭
  * 2017-5-17:海波镜像于2017年5月关闭，新增南京邮电大学通达学院、燕山大学、黔东南开源镜像站3个镜像
  * 2017-5-17:新增南京邮电大学镜像
+ * 2018-1-19:ubuntu的cn子域cn.archive.ubuntu.com不再指向阿里云，改为指向英国IP（18号DNS切换，全网无法正确解析）
