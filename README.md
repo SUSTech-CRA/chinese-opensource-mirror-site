@@ -45,7 +45,7 @@
 37. 燕山大学：[http://mirror.pret-page.com/](http://mirror.pret-page.com/)
 38. 南京邮电大学：[http://mirrors.njupt.edu.cn/](http://mirrors.njupt.edu.cn/)
 39. 南京大学：[http://mirrors.nju.edu.cn/](http://mirrors.nju.edu.cn/)
-40. 上海大学：[https://mirrors.shuosc.org/](https://mirrors.shuosc.org/)
+40. 上海大学：[https://mirrors.shu.edu.cn/](https://mirrors.shu.edu.cn/)
 41. 青岛科技大学：[http://mirrors.qust.edu.cn/](http://mirrors.qust.edu.cn/)（镜像仅供校内使用）
 42. 同济大学：[https://mirrors.tongji.edu.cn/](https://mirrors.tongji.edu.cn/)
 
