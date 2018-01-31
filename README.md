@@ -9,7 +9,7 @@
 ### （二）、教育站
 1. 中国科技大学：[https://mirrors.ustc.edu.cn/](https://mirrors.ustc.edu.cn/)（当前已用容量估计：21.32T）
 2. 清华大学：[https://mirrors.tuna.tsinghua.edu.cn/](https://mirrors.tuna.tsinghua.edu.cn/)（当前已用容量估计：9.8T）
-4. 北京交通大学：[http://mirror.bjtu.edu.cn/](http://mirror.bjtu.edu.cn/)
+4. 北京交通大学：[https://mirror.bjtu.edu.cn/](https://mirror.bjtu.edu.cn/)
 5. 北京理工大学：[http://mirror.bit.edu.cn/web/](http://mirror.bit.edu.cn/web/)
 6. 兰州大学：[http://mirror.lzu.edu.cn/](http://mirror.lzu.edu.cn/)
 7. 上海交通大学：[http://ftp.sjtu.edu.cn/](http://ftp.sjtu.edu.cn/)，[ftp://ftp.sjtu.edu.cn/](ftp://ftp.sjtu.edu.cn/)（华东南地区教育网出口）
