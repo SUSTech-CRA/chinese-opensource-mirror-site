@@ -30,7 +30,7 @@
 22. 大连理工大学：[http://mirror.dlut.edu.cn/](http://mirror.dlut.edu.cn/)（大连地区教育网出口）
 23. 江苏开放大学：[http://mirrors.jstvu.edu.cn/](http://mirrors.jstvu.edu.cn/)
 24. 山东女子学院：[http://mirrors.sdwu.edu.cn/](http://mirrors.sdwu.edu.cn/)
-25. 西安交通大学：[http://mirrors.xjtu.edu.cn/](http://mirrors.xjtu.edu.cn/)（西北地区教育网出口）
+25. 西安交通大学：[https://mirrors.xjtu.edu.cn/](https://mirrors.xjtu.edu.cn/)（西北地区教育网出口）
 26. 西安电子科技大学：[https://linux.xidian.edu.cn/mirrors/](https://linux.xidian.edu.cn/mirrors/)（镜像仅供校内使用）
 27. 南开大学：[http://ftp.nankai.edu.cn/](http://ftp.nankai.edu.cn/)（镜像仅供校内使用）
 28. 天津大学：[http://mirror.tju.edu.cn](http://mirror.tju.edu.cn)（镜像仅供校内使用，另一域名为zyrj.org）
