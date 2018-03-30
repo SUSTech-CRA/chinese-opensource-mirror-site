@@ -3,7 +3,7 @@
 ### （一）、企业站
 1. 网易：[http://mirrors.163.com/](http://mirrors.163.com/)
 2. 搜狐：[http://mirrors.sohu.com/](http://mirrors.sohu.com/)（Ubuntu旧发行版同步被冻结，不同步Ubuntu新发行版，Ubuntu源同步正常）
-3. 阿里云：[http://mirrors.aliyun.com/](http://mirrors.aliyun.com/)（部分镜像同步延迟超过1天）
+3. 阿里云：[https://opsx.alibaba.com/mirror](https://opsx.alibaba.com/mirror)（部分镜像同步延迟超过1天）
 4. 首都在线科技股份有限公司（英文名Capital Online Data Service）：[http://mirrors.yun-idc.com/](http://mirrors.yun-idc.com/)
 
 ### （二）、教育站
