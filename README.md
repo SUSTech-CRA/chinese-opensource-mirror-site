@@ -40,7 +40,7 @@
 32. 云南大学：[http://mirrors.ynuosa.org/index/](http://mirrors.ynuosa.org/index/)（镜像站列表）,[http://pypi.opensource.ynu.edu.cn/](http://pypi.opensource.ynu.edu.cn/)（收录pypi）
 33. 上海科技大学：[https://mirrors-wan.geekpie.org/](https://mirrors-wan.geekpie.org/)
 34. 南京信息职业技术学院：[https://mirrors.njcit.cn/](https://mirrors.njcit.cn/)
-35. 上海交通大学SJTUG：[http://mirrors.sjtug.org/](http://mirrors.sjtug.org/)
+35. 上海交通大学SJTUG：~~[http://mirrors.sjtug.org/](http://mirrors.sjtug.org/)~~（已关闭） [https://mirrors.sjtug.sjtu.edu.cn/](https://mirrors.sjtug.sjtu.edu.cn/)
 36. 南京邮电大学通达学院：[http://mirrors.tdsast.cn/](http://mirrors.tdsast.cn/)
 37. 燕山大学：[http://mirror.pret-page.com/](http://mirror.pret-page.com/)
 38. 南京邮电大学：[http://mirrors.njupt.edu.cn/](http://mirrors.njupt.edu.cn/)
@@ -248,3 +248,4 @@
  * 2017-5-17:海波镜像于2017年5月关闭，新增南京邮电大学通达学院、燕山大学、黔东南开源镜像站3个镜像
  * 2017-5-17:新增南京邮电大学镜像
  * 2018-1-19:ubuntu的cn子域cn.archive.ubuntu.com不再指向阿里云，改为指向美国IP(91.189.91.26)（18号DNS切换，全网无法正确解析）
+ * 2018-5-16:更新上海交通大学SJTUG镜像，新地址已经包含了原先的ftp.sjtu.edu.cn大多数镜像，且新增了大量现代源
