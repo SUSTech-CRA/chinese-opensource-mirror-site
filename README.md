@@ -48,7 +48,7 @@
 40. 上海大学：[https://mirrors.shu.edu.cn/](https://mirrors.shu.edu.cn/)
 41. 青岛科技大学：[http://mirrors.qust.edu.cn/](http://mirrors.qust.edu.cn/)（镜像仅供校内使用）
 42. 同济大学：[https://mirrors.tongji.edu.cn/](https://mirrors.tongji.edu.cn/)
-
+43. 华南农业大学：[https://mirrors.scau.edu.cn/](https://mirrors.scau.edu.cn/)
 
 ### （三）、其他
 1. 中国电信天翼云：[http://mirrors.ctyun.cn/](http://mirrors.ctyun.cn/)
