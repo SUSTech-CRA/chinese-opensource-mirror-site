@@ -130,6 +130,9 @@
  * 搜狐：[http://mirrors.sohu.com/nginx/](http://mirrors.sohu.com/nginx/)
 
 3. MySQL
+ * 网易163：[http://mirrors.163.com/mysql/Downloads/](http://mirrors.163.com/mysql/Downloads/)
+ * 搜狐：[http://mirrors.sohu.com/mysql/](http://mirrors.sohu.com/mysql/)
+ * USTC：[http://mirrors.ustc.edu.cn/mysql-ftp/Downloads/](http://mirrors.ustc.edu.cn/mysql-ftp/Downloads/)
  * 北京理工大学：[http://mirror.bit.edu.cn/mysql/Downloads/](http://mirror.bit.edu.cn/mysql/Downloads/)
  * 中国电信天翼云：[http://mirrors.ctyun.cn/Mysql/](http://mirrors.ctyun.cn/Mysql/)
 
