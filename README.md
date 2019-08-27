@@ -114,7 +114,12 @@
  * 搜狐：[http://mirrors.sohu.com/centos/](http://mirrors.sohu.com/centos/)
  * 阿里云：[http://mirrors.aliyun.com/centos/](http://mirrors.aliyun.com/centos/)
 
-3. 树莓派Raspbian
+3. Centos-vault (Centos的旧发行版源)
+ * 阿里云：[http://mirrors.aliyun.com/centos-vault/](http://mirrors.aliyun.com/centos-vault/)
+ * 清华大学：[https://mirror.tuna.tsinghua.edu.cn/centos-vault/](https://mirror.tuna.tsinghua.edu.cn/centos-vault/)
+ * 南京大学：[http://mirrors.nju.edu.cn/centos-vault/](http://mirrors.nju.edu.cn/centos-vault/)
+
+4. 树莓派Raspbian
  * 搜狐：[http://mirrors.sohu.com/raspbian/](http://mirrors.sohu.com/raspbian/)
  * 中国科技大学：[http://mirrors.ustc.edu.cn/raspbian/](http://mirrors.ustc.edu.cn/raspbian/)
  * 浙江大学：[http://mirrors.zju.edu.cn/raspbian/](http://mirrors.zju.edu.cn/raspbian/)
