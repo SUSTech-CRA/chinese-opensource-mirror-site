@@ -7,6 +7,7 @@
 4. 首都在线科技股份有限公司（英文名Capital Online Data Service）：[http://mirrors.yun-idc.com/](http://mirrors.yun-idc.com/)
 5. 华为云：[https://mirrors.huaweicloud.com/](https://mirrors.huaweicloud.com/)
 6. 腾讯云：[https://mirrors.cloud.tencent.com/](https://mirrors.cloud.tencent.com/)
+7. 平安云：[https://mirrors.pinganyun.com/](https://mirrors.pinganyun.com/)
 
 ### （二）、教育站
 1. 中国科技大学：[https://mirrors.ustc.edu.cn/](https://mirrors.ustc.edu.cn/)（当前已用容量估计：21.32T）
