@@ -76,7 +76,7 @@
 19. 龙芯开源社区：[http://mirrors.loongnix.org/](http://mirrors.loongnix.org/)（只收录龙芯镜像）
 20. 黔东南开源镜像站：[https://mirrors.gzqdn.org/](https://mirrors.gzqdn.org/)（https证书过期，没有设置定时更新脚本）
 21. 联创团队：[https://mirrors.hustunique.com/](https://mirrors.hustunique.com/)
-22. 英荔教育：[https://mirrors.eliteu.cn/](https://mirrors.eliteu.cn/)
+22. 英荔教育：[https://mirrors.e-ducation.cn/](https://mirrors.e-ducation.cn/)
 
 ### （四）、确认关闭的镜像站
 1. 北京航空航天大学：[http://mirror.buaa.edu.cn/](http://mirror.buaa.edu.cn/)，[http://mirror.buaabt.cn/](http://mirror.buaabt.cn/)（2012年建立，2014年关闭。镜像站关闭后不久，未来花园BT关闭。）
