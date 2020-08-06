@@ -26,7 +26,7 @@
 14. 南阳理工学院：[http://mirror.nyist.edu.cn/](http://mirror.nyist.edu.cn/)
 15. 中科院高能物理研究所：[http://mirror.ihep.ac.cn/](http://mirror.ihep.ac.cn/)，[http://mir-cern.ihep.ac.cn/](http://mir-cern.ihep.ac.cn/)
 16. 电子科技大学凝聚网络安全工作室：[http://mirrors.cnssuestc.org/](http://mirrors.cnssuestc.org/)
-17. 西北农林科技大学：[http://mirrors.nwsuaf.edu.cn/](http://mirrors.nwsuaf.edu.cn/)
+17. 西北农林科技大学：[https://mirrors.nwafu.edu.cn/](https://mirrors.nwafu.edu.cn/)，[https://mirrors.nwsuaf.edu.cn/](https://mirrors.nwsuaf.edu.cn/)
 18. 郑州大学：[https://mirrors.zzu.edu.cn/](https://mirrors.zzu.edu.cn/)
 19. 南京信息工程大学：[http://mirrors.duohuo.org/](http://mirrors.duohuo.org/)
 20. 华中科技大学：[http://mirror.hust.edu.cn/](http://mirror.hust.edu.cn/)（华中地区教育网出口，当前已用容量估计：4.83T）
