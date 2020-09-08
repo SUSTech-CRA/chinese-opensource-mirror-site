@@ -20,8 +20,6 @@
 8. 大连东软信息学院：[http://mirrors.neusoft.edu.cn/](http://mirrors.neusoft.edu.cn/)（当前已用容量估计：2.5T）
 9. 东北大学：[http://mirror.neu.edu.cn/](http://mirror.neu.edu.cn/)（东北地区教育网出口）
 10. 浙江大学：[http://mirrors.zju.edu.cn/](http://mirrors.zju.edu.cn/)
-11. 厦门大学：[http://mirrors.xmu.edu.cn/](http://mirrors.xmu.edu.cn/)
-12. 中山大学：[http://mirror.sysu.edu.cn/](http://mirror.sysu.edu.cn/)
 13. 重庆大学：[http://mirrors.cqu.edu.cn/](http://mirrors.cqu.edu.cn/)（当前已用容量估计：3.93T）
 14. 南阳理工学院：[http://mirror.nyist.edu.cn/](http://mirror.nyist.edu.cn/)
 15. 中科院高能物理研究所：[http://mirror.ihep.ac.cn/](http://mirror.ihep.ac.cn/)，[http://mir-cern.ihep.ac.cn/](http://mir-cern.ihep.ac.cn/)
@@ -104,6 +102,8 @@
 24. 腾讯Bugly：[http://android-mirror.bugly.qq.com:8080/](http://android-mirror.bugly.qq.com:8080/)（只收录Apache镜像，2017年4月关闭）
 25. 海波网络镜像：[http://mirrors.hypo.cn/](http://mirrors.hypo.cn/)（2017年5月关闭）
 26. 吉林大学：[http://mirrors.jlu.edu.cn/](http://mirrors.jlu.edu.cn/)（2017年10月关闭）
+11. 厦门大学：[http://mirrors.xmu.edu.cn/](http://mirrors.xmu.edu.cn/)（无实质内容）
+12. 中山大学：[http://mirror.sysu.edu.cn/](http://mirror.sysu.edu.cn/)（无法访问）
 
 ## 二、软件版
 ### （一）、操作系统类
