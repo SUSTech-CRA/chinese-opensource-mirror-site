@@ -188,6 +188,12 @@
  * 清华大学：[https://mirror.tuna.tsinghua.edu.cn/help/gitlab-ce/](https://mirror.tuna.tsinghua.edu.cn/help/gitlab-ce/)
  * 浙江大学：[http://www.lupaworld.com/article-257568-1.html](http://www.lupaworld.com/article-257568-1.html)
 
+6.PyPi
+ * 豆瓣：[https://pypi.doubanio.com/simple](https://pypi.doubanio.com/simple)
+ * 阿里云：[https://mirrors.aliyun.com/pypi/simple/](https://mirrors.aliyun.com/pypi/simple/)
+ * 中国科学技术大学：[https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple/](https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple/)
+
+
 
 ## 三、官方镜像列表状态地址
 * CentOS：[http://mirror-status.centos.org/#cn](http://mirror-status.centos.org/#cn)
@@ -216,7 +222,6 @@
 * QT：[http://download.qt.io/static/mirrorlist/](http://download.qt.io/static/mirrorlist/)
 * VideoLAN：[http://www.videolan.org/videolan/mirrors.html](http://www.videolan.org/videolan/mirrors.html)
 * eclipse：[http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/luna/SR2/eclipse-java-luna-SR2-win32.zip&format=xml](http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/luna/SR2/eclipse-java-luna-SR2-win32.zip&format=xml)
-* PyPI：[https://www.pypi-mirrors.org/](https://www.pypi-mirrors.org/)
 * repoforge：[http://mirror-status.repoforge.org/#cn](http://mirror-status.repoforge.org/#cn)
 * Jenkins：[http://mirrors.jenkins-ci.org/status.html#CN](http://mirrors.jenkins-ci.org/status.html#CN)
 * MariaDB：[https://mariadb.com/kb/en/mirror-sites-for-mariadb/](https://mariadb.com/kb/en/mirror-sites-for-mariadb/)
