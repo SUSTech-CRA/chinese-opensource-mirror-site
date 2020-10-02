@@ -28,7 +28,7 @@
 18. 郑州大学：[https://mirrors.zzu.edu.cn/](https://mirrors.zzu.edu.cn/)
 19. 南京信息工程大学：[http://mirrors.duohuo.org/](http://mirrors.duohuo.org/)
 20. 华中科技大学：[http://mirror.hust.edu.cn/](http://mirror.hust.edu.cn/)（华中地区教育网出口，当前已用容量估计：4.83T）
-21. 重庆邮电大学：[http://mirrors.cqupt.edu.cn/](http://mirrors.cqupt.edu.cn/)（当前已用容量估计：1.68T）
+21. 重庆邮电大学：[http://mirrors.cqupt.edu.cn/](http://mirrors.cqupt.edu.cn/)[https://mirror.redrock.team/](https://mirror.redrock.team/)（当前已用容量估计：1.68T）
 22. 大连理工大学：[http://mirror.dlut.edu.cn/](http://mirror.dlut.edu.cn/)（大连地区教育网出口）
 23. 江苏开放大学：[http://mirrors.jstvu.edu.cn/](http://mirrors.jstvu.edu.cn/)
 24. 山东女子学院：[http://mirrors.sdwu.edu.cn/](http://mirrors.sdwu.edu.cn/)
