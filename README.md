@@ -18,7 +18,6 @@
 6. 兰州大学：[http://mirror.lzu.edu.cn/](http://mirror.lzu.edu.cn/)
 7. 上海交通大学：[http://ftp.sjtu.edu.cn/](http://ftp.sjtu.edu.cn/)，[ftp://ftp.sjtu.edu.cn/](ftp://ftp.sjtu.edu.cn/)（华东南地区教育网出口）
 8. 大连东软信息学院：[http://mirrors.neusoft.edu.cn/](http://mirrors.neusoft.edu.cn/)（当前已用容量估计：2.5T）
-9. 东北大学：[http://mirror.neu.edu.cn/](http://mirror.neu.edu.cn/)（东北地区教育网出口）
 10. 浙江大学：[http://mirrors.zju.edu.cn/](http://mirrors.zju.edu.cn/)
 13. 重庆大学：[http://mirrors.cqu.edu.cn/](http://mirrors.cqu.edu.cn/)（当前已用容量估计：3.93T）
 14. 南阳理工学院：[http://mirror.nyist.edu.cn/](http://mirror.nyist.edu.cn/)
@@ -104,6 +103,7 @@
 26. 吉林大学：[http://mirrors.jlu.edu.cn/](http://mirrors.jlu.edu.cn/)（2017年10月关闭）
 11. 厦门大学：[http://mirrors.xmu.edu.cn/](http://mirrors.xmu.edu.cn/)（无实质内容）
 12. 中山大学：[http://mirror.sysu.edu.cn/](http://mirror.sysu.edu.cn/)（无法访问）
+13. 东北大学：[http://mirror.neu.edu.cn/](http://mirror.neu.edu.cn/)（2017年后接近无人维护状态）
 
 ## 二、软件版
 ### （一）、操作系统类
@@ -164,7 +164,7 @@
  * 大连东软信息学院：[http://mirrors.neusoft.edu.cn/eclipse/technology/epp/downloads/release/](http://mirrors.neusoft.edu.cn/eclipse/technology/epp/downloads/release/)（推荐，维护及时）
  * 中国科技大学：[http://mirrors.ustc.edu.cn/eclipse/technology/epp/downloads/release/](http://mirrors.ustc.edu.cn/eclipse/technology/epp/downloads/release/)
  * 北京理工大学：[http://mirror.bit.edu.cn/eclipse/technology/epp/downloads/release/](http://mirror.bit.edu.cn/eclipse/technology/epp/downloads/release/)
- * 东北大学：[http://mirror.neu.edu.cn/eclipse/technology/epp/downloads/release/](http://mirror.neu.edu.cn/eclipse/technology/epp/downloads/release/)（2016年1月停止更新）
+
 
 
 2. 安卓SDK
@@ -175,7 +175,7 @@
 3. 安卓源码AOSP
  * 清华大学：[https://mirrors.tuna.tsinghua.edu.cn/help/AOSP/](https://mirrors.tuna.tsinghua.edu.cn/help/AOSP/)
  * 中国科技大学：[https://lug.ustc.edu.cn/wiki/mirrors/help/aosp](https://lug.ustc.edu.cn/wiki/mirrors/help/aosp)
- * 东北大学：[http://mirror.neu.edu.cn/android/](http://mirror.neu.edu.cn/android/)（东北大学采用旧版本的脚本抓AOSP，2016年1月之后不再同步，不推荐使用这个镜像）
+
 
 4. Docker Hub
  * 网易蜂巢：[https://c.163.com/#/m/home/](https://c.163.com/#/m/home/)
@@ -270,3 +270,4 @@
  * 2018-1-19:ubuntu的cn子域cn.archive.ubuntu.com不再指向阿里云，改为指向美国IP(91.189.91.26)（18号DNS切换，全网无法正确解析）
  * 2018-5-16:更新上海交通大学SJTUG镜像，新地址已经包含了原先的ftp.sjtu.edu.cn大多数镜像，且新增了大量现代源
  * 2020-11-2:清华大学和中国科技大学11月30日接到热心用户投诉，移除了deepin软件源，原因是设计商业软件重分发授权。参见：[https://bbs.deepin.org/post/204649](https://bbs.deepin.org/post/204649)
+ * 2020-11-2:东北大学镜像通过近两年来的访问监测，2017年后无更新内容，移动到关闭列表。
