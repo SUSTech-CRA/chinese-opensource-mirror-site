@@ -51,6 +51,8 @@
 42. 同济大学：[https://mirrors.tongji.edu.cn/](https://mirrors.tongji.edu.cn/)
 43. 华南农业大学：[https://mirrors.scau.edu.cn/](https://mirrors.scau.edu.cn/)
 44. 东莞理工学院：[https://mirrors.dgut.edu.cn/](https://mirrors.dgut.edu.cn/)
+45. 哈尔滨工业大学：[http://run.hit.edu.cn/html/](http://run.hit.edu.cn/html/)
+
 
 ### （三）、其他
 1. 中国电信天翼云：[http://mirrors.ctyun.cn/](http://mirrors.ctyun.cn/)
@@ -94,7 +96,6 @@
 17. 远景：[http://mirror.pcbeta.com/](http://mirror.pcbeta.com/)（2016年6月关闭）
 18. 山东理工大学：[http://ruby.sdutlinux.org/](http://ruby.sdutlinux.org/)（2016年9月关闭）
 19. 新浪：[http://mirrors.sina.cn/](http://mirrors.sina.cn/)，[http://mirrors.sina.com/](http://mirrors.sina.com/)（只收录CentOS，2015年3月上线，2016年10月关闭）
-20. 哈尔滨工业大学：[http://run.hit.edu.cn/html/](http://run.hit.edu.cn/html/)（2016年10月关闭）
 21. 中国地质大学：[http://mirrors.cug.edu.cn/](http://mirrors.cug.edu.cn/)（2016年11月关闭）
 22. 北京化工大学：[http://ubuntu.buct.edu.cn/](http://ubuntu.buct.edu.cn/)（2016年11月关闭）
 23. 中国互联网络信息中心：[http://mirrors.cnnic.cn/](http://mirrors.cnnic.cn/)（只收录Apache镜像，2017年4月关闭，重定向到清华大学）
@@ -271,3 +272,4 @@
  * 2018-5-16:更新上海交通大学SJTUG镜像，新地址已经包含了原先的ftp.sjtu.edu.cn大多数镜像，且新增了大量现代源
  * 2020-11-2:清华大学和中国科技大学11月30日接到热心用户投诉，移除了deepin软件源，原因是设计商业软件重分发授权。参见：[https://bbs.deepin.org/post/204649](https://bbs.deepin.org/post/204649)
  * 2020-11-2:东北大学镜像通过近两年来的访问监测，2017年后无更新内容，移动到关闭列表。
+ * 2020-11-17:哈尔滨工业大学镜像重开
