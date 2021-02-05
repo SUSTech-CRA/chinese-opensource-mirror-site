@@ -161,35 +161,39 @@
  * 中国科技大学：[http://mirrors.ustc.edu.cn/videolan-ftp/](http://mirrors.ustc.edu.cn/videolan-ftp/)
 
 ### （三）、开发工具类
-1. eclipse
+1. AdoptOpenJDK
+ * 清华大学：[https://mirrors.tuna.tsinghua.edu.cn/AdoptOpenJDK/](https://mirrors.tuna.tsinghua.edu.cn/AdoptOpenJDK/)
+
+
+2. eclipse
  * 大连东软信息学院：[http://mirrors.neusoft.edu.cn/eclipse/technology/epp/downloads/release/](http://mirrors.neusoft.edu.cn/eclipse/technology/epp/downloads/release/)（推荐，维护及时）
  * 中国科技大学：[http://mirrors.ustc.edu.cn/eclipse/technology/epp/downloads/release/](http://mirrors.ustc.edu.cn/eclipse/technology/epp/downloads/release/)
  * 北京理工大学：[http://mirror.bit.edu.cn/eclipse/technology/epp/downloads/release/](http://mirror.bit.edu.cn/eclipse/technology/epp/downloads/release/)
 
 
 
-2. 安卓SDK
+3. 安卓SDK
  * 大连东软信息学院：[http://mirrors.neusoft.edu.cn/android/repository/](http://mirrors.neusoft.edu.cn/android/repository/)
  * 郑州大学：[http://mirrors.zzu.edu.cn/android/repository/](http://mirrors.zzu.edu.cn/android/repository/)（2016年4月停止同步，2016年10月重新同步）
  * 南阳理工学院：[http://mirror.nyist.edu.cn/android/repository/](http://mirror.nyist.edu.cn/android/repository/)（停止同步）
 
-3. 安卓源码AOSP
+4. 安卓源码AOSP
  * 清华大学：[https://mirrors.tuna.tsinghua.edu.cn/help/AOSP/](https://mirrors.tuna.tsinghua.edu.cn/help/AOSP/)
  * 中国科技大学：[https://lug.ustc.edu.cn/wiki/mirrors/help/aosp](https://lug.ustc.edu.cn/wiki/mirrors/help/aosp)
 
 
-4. Docker Hub
+5. Docker Hub
  * 网易蜂巢：[https://c.163.com/#/m/home/](https://c.163.com/#/m/home/)
  * 灵雀云：[https://hub.alauda.cn/](https://hub.alauda.cn/)
  * DaoCloud：[https://hub.daocloud.io/](https://hub.daocloud.io/)
  * 时速云：[https://hub.tenxcloud.com/](https://hub.tenxcloud.com/)
  * 阿里云：[https://dev.aliyun.com/search.html](https://dev.aliyun.com/search.html)
 
-5. GitLab-CE
+6. GitLab-CE
  * 清华大学：[https://mirror.tuna.tsinghua.edu.cn/help/gitlab-ce/](https://mirror.tuna.tsinghua.edu.cn/help/gitlab-ce/)
  * 浙江大学：[http://www.lupaworld.com/article-257568-1.html](http://www.lupaworld.com/article-257568-1.html)
 
-6. PyPi
+7. PyPi
  * 豆瓣：[https://pypi.doubanio.com/simple](https://pypi.doubanio.com/simple)
  * 阿里云：[https://mirrors.aliyun.com/pypi/simple/](https://mirrors.aliyun.com/pypi/simple/)
  * 中国科学技术大学：[https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple/](https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple/)
@@ -273,3 +277,4 @@
  * 2020-11-2:清华大学和中国科技大学11月30日接到热心用户投诉，移除了deepin软件源，原因是设计商业软件重分发授权。参见：[https://bbs.deepin.org/post/204649](https://bbs.deepin.org/post/204649)
  * 2020-11-2:东北大学镜像通过近两年来的访问监测，2017年后无更新内容，移动到关闭列表。
  * 2020-11-17:哈尔滨工业大学镜像重开
+ * 2021-2-5:因Oracle JDK 8u203开始改变授权模式，无法免费商用，新增替代版免费JDK：AdoptOpenJDK
