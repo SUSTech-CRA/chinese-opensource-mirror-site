@@ -48,21 +48,20 @@
 7. 青岛科技大学：[http://mirrors.qust.edu.cn/](http://mirrors.qust.edu.cn/)（镜像仅供校内使用）
 
 ### （四）、其他
-2. 常州贝特康姆软件技术有限公司(公云PubYun)：[http://centos.bitcomm.cn/](http://centos.bitcomm.cn/)，[http://mirrors.pubyun.com/](http://mirrors.pubyun.com/)（当前已用容量估计：2.3T）
-8. 豆瓣pypi：[http://pypi.doubanio.com/](http://pypi.doubanio.com/)，[https://pypi.doubanio.com/](https://pypi.doubanio.com/)
-9. v2ex的pypi：[http://pypi.v2ex.com/](http://pypi.v2ex.com/)（首页有https异常NET::ERR_CERT_COMMON_NAME_INVALID）
-10. 淘宝NPM：[https://npm.taobao.org/](https://npm.taobao.org/)
-11. Ruby China的RubyGems：[https://gems.ruby-china.org/](https://gems.ruby-china.org/)
-12. 淘宝TAEMaven仓库镜像：[http://mvnrepo.tae.taobao.com/content/groups/public/](http://mvnrepo.tae.taobao.com/content/groups/public/)
-13. 阿里云Maven仓库镜像：[http://maven.aliyun.com/nexus/content/groups/public](http://maven.aliyun.com/nexus/content/groups/public)
-14. 阿里云Jcenter仓库镜像：[http://maven.aliyun.com/nexus/content/repositories/jcenter/](http://maven.aliyun.com/nexus/content/repositories/jcenter/)
-15. LinuxEye：[http://mirrors.linuxeye.com/](http://mirrors.linuxeye.com/)
-16. 移动云镜像站：[http://mirrors.bclinux.org/](http://mirrors.bclinux.org/)
-17. Cloud-Stack镜像站：[http://mirrors.cloudstack-china.com/](http://mirrors.cloudstack-china.com/)
-18. cn99(常州贝特康姆旗下)：[http://mirrors.cn99.com/](http://mirrors.cn99.com/)
-19. 龙芯开源社区：[http://mirrors.loongnix.org/](http://mirrors.loongnix.org/)（只收录龙芯镜像）
-
-22. 英荔教育：[https://mirrors.e-ducation.cn/](https://mirrors.e-ducation.cn/)
+1. 常州贝特康姆软件技术有限公司(公云PubYun)：[http://centos.bitcomm.cn/](http://centos.bitcomm.cn/)，[http://mirrors.pubyun.com/](http://mirrors.pubyun.com/)（当前已用容量估计：2.3T）
+2. 豆瓣pypi：[http://pypi.doubanio.com/](http://pypi.doubanio.com/)，[https://pypi.doubanio.com/](https://pypi.doubanio.com/)
+3. v2ex的pypi：[http://pypi.v2ex.com/](http://pypi.v2ex.com/)（首页有https异常NET::ERR_CERT_COMMON_NAME_INVALID）
+4. 淘宝NPM：[https://npm.taobao.org/](https://npm.taobao.org/)
+5. Ruby China的RubyGems：[https://gems.ruby-china.org/](https://gems.ruby-china.org/)
+6. 淘宝TAEMaven仓库镜像：[http://mvnrepo.tae.taobao.com/content/groups/public/](http://mvnrepo.tae.taobao.com/content/groups/public/)
+7. 阿里云Maven仓库镜像：[http://maven.aliyun.com/nexus/content/groups/public](http://maven.aliyun.com/nexus/content/groups/public)
+8. 阿里云Jcenter仓库镜像：[http://maven.aliyun.com/nexus/content/repositories/jcenter/](http://maven.aliyun.com/nexus/content/repositories/jcenter/)
+9. LinuxEye：[http://mirrors.linuxeye.com/](http://mirrors.linuxeye.com/)
+10. 移动云镜像站：[http://mirrors.bclinux.org/](http://mirrors.bclinux.org/)
+11. Cloud-Stack镜像站：[http://mirrors.cloudstack-china.com/](http://mirrors.cloudstack-china.com/)
+12. cn99(常州贝特康姆旗下)：[http://mirrors.cn99.com/](http://mirrors.cn99.com/)
+13. 龙芯开源社区：[http://mirrors.loongnix.org/](http://mirrors.loongnix.org/)（只收录龙芯镜像）
+14. 英荔教育：[https://mirrors.e-ducation.cn/](https://mirrors.e-ducation.cn/)
 
 ### （四）、确认关闭的镜像站
 1. 北京航空航天大学：[http://mirror.buaa.edu.cn/](http://mirror.buaa.edu.cn/)，[http://mirror.buaabt.cn/](http://mirror.buaabt.cn/)（2012年建立，2014年关闭。镜像站关闭后不久，未来花园BT关闭。）
