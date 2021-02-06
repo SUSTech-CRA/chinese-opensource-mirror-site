@@ -150,7 +150,7 @@
  * 浙江大学：[http://mirrors.zju.edu.cn/postgresql/](http://mirrors.zju.edu.cn/postgresql/)
 
 5. MariaDB
- * 中国电信天翼云：[http://mirrors.ctyun.cn/MariaDB/](http://mirrors.ctyun.cn/MariaDB/)
+ * 清华大学：[https://mirror.tuna.tsinghua.edu.cn/help/mariadb/](https://mirror.tuna.tsinghua.edu.cn/help/mariadb/)
 
 6. mongodb
  * 阿里云：[http://mirrors.aliyun.com/mongodb/](http://mirrors.aliyun.com/mongodb/)
