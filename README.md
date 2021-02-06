@@ -35,14 +35,9 @@
 30. 电子科技大学：[http://ubuntu.uestc.edu.cn/](http://ubuntu.uestc.edu.cn/)（西南地区教育网出口西南，首页近一年无人维护，内容可访问）
 31. 中央音乐学院：[http://fundawang.lcuc.org.cn/](http://fundawang.lcuc.org.cn/)（镜像仅供校内使用）
 32. 云南大学：[http://mirrors.ynuosa.org/index/](http://mirrors.ynuosa.org/index/)（镜像站列表）,[http://pypi.opensource.ynu.edu.cn/](http://pypi.opensource.ynu.edu.cn/)（收录pypi）
-33. 上海科技大学：[https://mirrors-wan.geekpie.org/](https://mirrors-wan.geekpie.org/)
-34. 南京信息职业技术学院：[https://mirrors.njcit.cn/](https://mirrors.njcit.cn/)
 35. 上海交通大学SJTUG：~~[http://mirrors.sjtug.org/](http://mirrors.sjtug.org/)~~（已关闭） [https://mirrors.sjtug.sjtu.edu.cn/](https://mirrors.sjtug.sjtu.edu.cn/)
-36. 南京邮电大学通达学院：[http://mirrors.tdsast.cn/](http://mirrors.tdsast.cn/)
-37. 燕山大学：[http://mirror.pret-page.com/](http://mirror.pret-page.com/)
 38. 南京邮电大学：[http://mirrors.njupt.edu.cn/](http://mirrors.njupt.edu.cn/)
 39. 南京大学：[http://mirrors.nju.edu.cn/](http://mirrors.nju.edu.cn/)
-40. 上海大学：[https://mirrors.shu.edu.cn/](https://mirrors.shu.edu.cn/)
 41. 青岛科技大学：[http://mirrors.qust.edu.cn/](http://mirrors.qust.edu.cn/)（镜像仅供校内使用）
 42. 同济大学：[https://mirrors.tongji.edu.cn/](https://mirrors.tongji.edu.cn/)
 43. 华南农业大学：[https://mirrors.scau.edu.cn/](https://mirrors.scau.edu.cn/)
@@ -104,7 +99,12 @@
 14. 郑州大学：[https://mirrors.zzu.edu.cn/](https://mirrors.zzu.edu.cn/)（无法访问）
 15. 电子科技大学凝聚网络安全工作室：[http://mirrors.cnssuestc.org/](http://mirrors.cnssuestc.org/)（无法访问）
 16. 南京信息工程大学：[http://mirrors.duohuo.org/](http://mirrors.duohuo.org/)（无法访问）
-17.江苏开放大学：[http://mirrors.jstvu.edu.cn/](http://mirrors.jstvu.edu.cn/)（无法访问）
+17. 江苏开放大学：[http://mirrors.jstvu.edu.cn/](http://mirrors.jstvu.edu.cn/)（无法访问）
+18. 上海科技大学：[https://mirrors-wan.geekpie.org/](https://mirrors-wan.geekpie.org/)（无法访问）
+19. 南京信息职业技术学院：[https://mirrors.njcit.cn/](https://mirrors.njcit.cn/)（无法访问）
+20. 南京邮电大学通达学院：[http://mirrors.tdsast.cn/](http://mirrors.tdsast.cn/)（无法访问）
+21. 燕山大学：[http://mirror.pret-page.com/](http://mirror.pret-page.com/)（无法访问）
+22. 上海大学：[https://mirrors.shu.edu.cn/](https://mirrors.shu.edu.cn/)（无法访问）
 
 ## 二、软件版
 ### （一）、操作系统类
