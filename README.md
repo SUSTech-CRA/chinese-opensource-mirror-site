@@ -185,7 +185,7 @@
 5. Docker Hub
  * DaoCloud：[https://hub.daocloud.io/](https://hub.daocloud.io/)
  * 阿里云：[https://dev.aliyun.com/search.html](https://dev.aliyun.com/search.html)
- * 清华大学：[http://mirrors.ustc.edu.cn/help/dockerhub.html?highlight=docker](http://mirrors.ustc.edu.cn/help/dockerhub.html?highlight=docker)
+ * 中国科技大学：[http://mirrors.ustc.edu.cn/help/dockerhub.html?highlight=docker](http://mirrors.ustc.edu.cn/help/dockerhub.html?highlight=docker)
 
 6. GitLab-CE
  * 清华大学：[https://mirror.tuna.tsinghua.edu.cn/help/gitlab-ce/](https://mirror.tuna.tsinghua.edu.cn/help/gitlab-ce/)
