@@ -61,8 +61,7 @@
 17. Cloud-Stack镜像站：[http://mirrors.cloudstack-china.com/](http://mirrors.cloudstack-china.com/)
 18. cn99(常州贝特康姆旗下)：[http://mirrors.cn99.com/](http://mirrors.cn99.com/)
 19. 龙芯开源社区：[http://mirrors.loongnix.org/](http://mirrors.loongnix.org/)（只收录龙芯镜像）
-20. 黔东南开源镜像站：[https://mirrors.gzqdn.org/](https://mirrors.gzqdn.org/)（https证书过期，没有设置定时更新脚本）
-21. 联创团队：[https://mirrors.hustunique.com/](https://mirrors.hustunique.com/)
+
 22. 英荔教育：[https://mirrors.e-ducation.cn/](https://mirrors.e-ducation.cn/)
 
 ### （四）、确认关闭的镜像站
@@ -107,6 +106,8 @@
 25. Linux运维派：[https://mirrors.skyshe.cn/](https://mirrors.skyshe.cn/)（无法访问）
 26. 北京鹏博士宽带：[http://mirrors.btte.net/](http://mirrors.btte.net/)（无法访问）
 27. Fayea工作室：[http://apache.fayea.com/](http://apache.fayea.com/)（无法访问）
+28. 黔东南开源镜像站：[https://mirrors.gzqdn.org/](https://mirrors.gzqdn.org/)（无法访问）
+29. 联创团队：[https://mirrors.hustunique.com/](https://mirrors.hustunique.com/)（无法访问）
 
 
 ## 二、软件版
