@@ -48,12 +48,7 @@
 7. 青岛科技大学：[http://mirrors.qust.edu.cn/](http://mirrors.qust.edu.cn/)（镜像仅供校内使用）
 
 ### （四）、其他
-1. 中国电信天翼云：[http://mirrors.ctyun.cn/](http://mirrors.ctyun.cn/)
 2. 常州贝特康姆软件技术有限公司(公云PubYun)：[http://centos.bitcomm.cn/](http://centos.bitcomm.cn/)，[http://mirrors.pubyun.com/](http://mirrors.pubyun.com/)（当前已用容量估计：2.3T）
-4. 开源镜像文件搜索：[http://mirrors.org.cn/](http://mirrors.org.cn/)（只能搜索和浏览，不能下载）
-5. Linux运维派：[https://mirrors.skyshe.cn/](https://mirrors.skyshe.cn/)（使用阿里云服务器，界面使用浙江大学的模板，首页维护，内容可访问）
-6. 北京鹏博士宽带：[http://mirrors.btte.net/](http://mirrors.btte.net/)（只收录CentOS）
-7. Fayea工作室：[http://apache.fayea.com/](http://apache.fayea.com/)（只收录Apache镜像，当前已用容量估计：120GB）
 8. 豆瓣pypi：[http://pypi.doubanio.com/](http://pypi.doubanio.com/)，[https://pypi.doubanio.com/](https://pypi.doubanio.com/)
 9. v2ex的pypi：[http://pypi.v2ex.com/](http://pypi.v2ex.com/)（首页有https异常NET::ERR_CERT_COMMON_NAME_INVALID）
 10. 淘宝NPM：[https://npm.taobao.org/](https://npm.taobao.org/)
@@ -107,6 +102,12 @@
 20. 南京邮电大学通达学院：[http://mirrors.tdsast.cn/](http://mirrors.tdsast.cn/)（无法访问）
 21. 燕山大学：[http://mirror.pret-page.com/](http://mirror.pret-page.com/)（无法访问）
 22. 上海大学：[https://mirrors.shu.edu.cn/](https://mirrors.shu.edu.cn/)（无法访问）
+23. 中国电信天翼云：[http://mirrors.ctyun.cn/](http://mirrors.ctyun.cn/)（无法访问）
+24. 开源镜像文件搜索：[http://mirrors.org.cn/](http://mirrors.org.cn/)（无法访问）
+25. Linux运维派：[https://mirrors.skyshe.cn/](https://mirrors.skyshe.cn/)（无法访问）
+26. 北京鹏博士宽带：[http://mirrors.btte.net/](http://mirrors.btte.net/)（无法访问）
+27. Fayea工作室：[http://apache.fayea.com/](http://apache.fayea.com/)（无法访问）
+
 
 ## 二、软件版
 ### （一）、操作系统类
