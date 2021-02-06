@@ -131,8 +131,7 @@
  * 中国科技大学：[http://mirrors.ustc.edu.cn/raspbian/](http://mirrors.ustc.edu.cn/raspbian/)
  * 浙江大学：[http://mirrors.zju.edu.cn/raspbian/](http://mirrors.zju.edu.cn/raspbian/)
  * 重庆大学：[http://mirrors.cqu.edu.cn/raspbian/](http://mirrors.cqu.edu.cn/raspbian/)
- * 郑州大学：[http://mirrors.zzu.edu.cn/raspbian/](http://mirrors.zzu.edu.cn/raspbian/)
- * 吉林大学：[http://mirrors.jlu.edu.cn/raspbian/](http://mirrors.jlu.edu.cn/raspbian/)
+
 
 ### （二）、服务器类
 1. Tomcat、Apache
@@ -146,8 +145,6 @@
  * 网易163：[http://mirrors.163.com/mysql/Downloads/](http://mirrors.163.com/mysql/Downloads/)
  * 搜狐：[http://mirrors.sohu.com/mysql/](http://mirrors.sohu.com/mysql/)
  * USTC：[http://mirrors.ustc.edu.cn/mysql-ftp/Downloads/](http://mirrors.ustc.edu.cn/mysql-ftp/Downloads/)
- * 北京理工大学：[http://mirror.bit.edu.cn/mysql/Downloads/](http://mirror.bit.edu.cn/mysql/Downloads/)
- * 中国电信天翼云：[http://mirrors.ctyun.cn/Mysql/](http://mirrors.ctyun.cn/Mysql/)
 
 4. PostgreSQL
  * 浙江大学：[http://mirrors.zju.edu.cn/postgresql/](http://mirrors.zju.edu.cn/postgresql/)
