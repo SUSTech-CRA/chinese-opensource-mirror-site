@@ -22,9 +22,7 @@
 13. 重庆大学：[http://mirrors.cqu.edu.cn/](http://mirrors.cqu.edu.cn/)（当前已用容量估计：3.93T）
 14. 南阳理工学院：[http://mirror.nyist.edu.cn/](http://mirror.nyist.edu.cn/)
 15. 中科院高能物理研究所：[http://mirror.ihep.ac.cn/](http://mirror.ihep.ac.cn/)，[http://mir-cern.ihep.ac.cn/](http://mir-cern.ihep.ac.cn/)
-16. 电子科技大学凝聚网络安全工作室：[http://mirrors.cnssuestc.org/](http://mirrors.cnssuestc.org/)
 17. 西北农林科技大学：[https://mirrors.nwafu.edu.cn/](https://mirrors.nwafu.edu.cn/)，[https://mirrors.nwsuaf.edu.cn/](https://mirrors.nwsuaf.edu.cn/)
-18. 郑州大学：[https://mirrors.zzu.edu.cn/](https://mirrors.zzu.edu.cn/)
 19. 南京信息工程大学：[http://mirrors.duohuo.org/](http://mirrors.duohuo.org/)
 20. 华中科技大学：[http://mirror.hust.edu.cn/](http://mirror.hust.edu.cn/)（华中地区教育网出口，当前已用容量估计：4.83T）
 21. 重庆邮电大学：[http://mirrors.cqupt.edu.cn/](http://mirrors.cqupt.edu.cn/)[https://mirror.redrock.team/](https://mirror.redrock.team/)（当前已用容量估计：1.68T）
@@ -105,6 +103,8 @@
 11. 厦门大学：[http://mirrors.xmu.edu.cn/](http://mirrors.xmu.edu.cn/)（无实质内容）
 12. 中山大学：[http://mirror.sysu.edu.cn/](http://mirror.sysu.edu.cn/)（无法访问）
 13. 东北大学：[http://mirror.neu.edu.cn/](http://mirror.neu.edu.cn/)（2017年后接近无人维护状态）
+14. 郑州大学：[https://mirrors.zzu.edu.cn/](https://mirrors.zzu.edu.cn/)（无法访问）
+15. 电子科技大学凝聚网络安全工作室：[http://mirrors.cnssuestc.org/](http://mirrors.cnssuestc.org/)（无法访问）
 
 ## 二、软件版
 ### （一）、操作系统类
