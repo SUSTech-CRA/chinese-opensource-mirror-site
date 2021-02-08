@@ -132,6 +132,11 @@
  * 浙江大学：[http://mirrors.zju.edu.cn/raspbian/](http://mirrors.zju.edu.cn/raspbian/)
  * 重庆大学：[http://mirrors.cqu.edu.cn/raspbian/](http://mirrors.cqu.edu.cn/raspbian/)
 
+5. FreeBSD
+ * ChinaFreeBSD：[http://chinafreebsd.cn/article/chinafreebsd-resouce](http://chinafreebsd.cn/article/chinafreebsd-resouce)
+ * 中国科技大学：[http://mirrors.ustc.edu.cn/help/freebsd.html](http://mirrors.ustc.edu.cn/help/freebsd.html)
+
+
 
 ### （二）、服务器类
 1. Tomcat、Apache
