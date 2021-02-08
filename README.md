@@ -173,10 +173,8 @@
 
 
 
-3. 安卓SDK
- * 大连东软信息学院：[http://mirrors.neusoft.edu.cn/android/repository/](http://mirrors.neusoft.edu.cn/android/repository/)
- * 郑州大学：[http://mirrors.zzu.edu.cn/android/repository/](http://mirrors.zzu.edu.cn/android/repository/)（2016年4月停止同步，2016年10月重新同步）
- * 南阳理工学院：[http://mirror.nyist.edu.cn/android/repository/](http://mirror.nyist.edu.cn/android/repository/)（停止同步）
+3. Oracle JDK
+ * 华为云：[https://repo.huaweicloud.com/java/jdk/](https://repo.huaweicloud.com/java/jdk/)
 
 4. 安卓源码AOSP
  * 清华大学：[https://mirrors.tuna.tsinghua.edu.cn/help/AOSP/](https://mirrors.tuna.tsinghua.edu.cn/help/AOSP/)
