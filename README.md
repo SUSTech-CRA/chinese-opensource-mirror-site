@@ -224,7 +224,7 @@
 * 树莓派Raspbian：[http://www.raspbian.org/RaspbianMirrors](http://www.raspbian.org/RaspbianMirrors)
 * 深度操作系统deepin：[https://www.deepin.org/mirrors/releases/](https://www.deepin.org/mirrors/releases/)
 * Scientific Linux：[https://www.scientificlinux.org/downloads/sl-mirrors/](https://www.scientificlinux.org/downloads/sl-mirrors/)
-* Sabayon Linux：[http://www.sabayon.org/download/](http://www.sabayon.org/download/)
+* Sabayon Linux：[https://www.sabayon.org/mirrors/](https://www.sabayon.org/mirrors/)
 * MySQL：[http://dev.mysql.com/downloads/mirrors/](http://dev.mysql.com/downloads/mirrors/)
 * KNOPPIX：[http://www.knopper.net/knoppix-mirrors/](http://www.knopper.net/knoppix-mirrors/)
 * QT：[http://download.qt.io/static/mirrorlist/](http://download.qt.io/static/mirrorlist/)
