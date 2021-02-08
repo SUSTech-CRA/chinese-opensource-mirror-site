@@ -63,7 +63,7 @@
 13. 龙芯开源社区：[http://mirrors.loongnix.org/](http://mirrors.loongnix.org/)（只收录龙芯镜像）
 14. 英荔教育：[https://mirrors.e-ducation.cn/](https://mirrors.e-ducation.cn/)
 
-### （四）、确认关闭的镜像站
+### （五）、确认关闭的镜像站
 1. 北京航空航天大学：[http://mirror.buaa.edu.cn/](http://mirror.buaa.edu.cn/)，[http://mirror.buaabt.cn/](http://mirror.buaabt.cn/)（2012年建立，2014年关闭。镜像站关闭后不久，未来花园BT关闭。）
 2. 青岛大学：[http://mirror.qdu.edu.cn/](http://mirror.qdu.edu.cn/)，[https://mirror.osqdu.org/](https://mirror.osqdu.org/)（2009年建立，2012年关闭，OSQDU主要管理人员无法继续维护）
 3. 炼数成金Apache镜像：[http://apache.dataguru.cn/](http://apache.dataguru.cn/)（2016年关闭）
@@ -163,6 +163,7 @@
 ### （三）、开发工具类
 1. AdoptOpenJDK
  * 清华大学：[https://mirrors.tuna.tsinghua.edu.cn/AdoptOpenJDK/](https://mirrors.tuna.tsinghua.edu.cn/AdoptOpenJDK/)
+ * 南京大学：[http://mirrors.nju.edu.cn/AdoptOpenJDK/](http://mirrors.nju.edu.cn/AdoptOpenJDK/)
 
 
 2. eclipse
