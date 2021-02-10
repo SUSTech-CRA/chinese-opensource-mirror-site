@@ -62,6 +62,8 @@
 12. cn99(常州贝特康姆旗下)：[http://mirrors.cn99.com/](http://mirrors.cn99.com/)
 13. 龙芯开源社区：[http://mirrors.loongnix.org/](http://mirrors.loongnix.org/)（只收录龙芯镜像）
 14. 英荔教育：[https://mirrors.e-ducation.cn/](https://mirrors.e-ducation.cn/)
+15. injdk.cn的各版本JDK镜像：[https://www.injdk.cn/](https://www.injdk.cn/)
+
 
 ### （五）、确认关闭的镜像站
 1. 北京航空航天大学：[http://mirror.buaa.edu.cn/](http://mirror.buaa.edu.cn/)，[http://mirror.buaabt.cn/](http://mirror.buaabt.cn/)（2012年建立，2014年关闭。镜像站关闭后不久，未来花园BT关闭。）
@@ -107,7 +109,6 @@
 27. Fayea工作室：[http://apache.fayea.com/](http://apache.fayea.com/)（无法访问）
 28. 黔东南开源镜像站：[https://mirrors.gzqdn.org/](https://mirrors.gzqdn.org/)（无法访问）
 29. 联创团队：[https://mirrors.hustunique.com/](https://mirrors.hustunique.com/)（无法访问）
-
 
 ## 二、软件版
 ### （一）、操作系统类
