@@ -194,7 +194,7 @@
 
 6. GitLab-CE
  * 清华大学：[https://mirror.tuna.tsinghua.edu.cn/help/gitlab-ce/](https://mirror.tuna.tsinghua.edu.cn/help/gitlab-ce/)
- * 浙江大学：[http://www.lupaworld.com/article-257568-1.html](http://www.lupaworld.com/article-257568-1.html)
+ * 南京大学：[http://mirrors.nju.edu.cn/gitlab-ce/](http://mirrors.nju.edu.cn/gitlab-ce/)
 
 7. PyPi
  * 豆瓣：[https://pypi.doubanio.com/simple](https://pypi.doubanio.com/simple)
