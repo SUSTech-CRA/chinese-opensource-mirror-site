@@ -32,7 +32,7 @@
 20. 南京大学：[http://mirrors.nju.edu.cn/](http://mirrors.nju.edu.cn/)
 21. 同济大学：[https://mirrors.tongji.edu.cn/](https://mirrors.tongji.edu.cn/)
 22. 华南农业大学：[https://mirrors.scau.edu.cn/](https://mirrors.scau.edu.cn/)
-23. 东莞理工学院：[https://mirrors.dgut.edu.cn/](https://mirrors.dgut.edu.cn/)
+23. 东莞理工学院：[https://mirrors.dgut.edu.cn/](https://mirrors.dgut.edu.cn/)（2021.2已用容量估计：5.55T）
 24. 重庆邮电大学：[http://mirrors.cqupt.edu.cn/](http://mirrors.cqupt.edu.cn/)[https://mirror.redrock.team/](https://mirror.redrock.team/)（当前已用容量估计：1.68T）
 25. 云南大学：[http://mirrors.ynuosa.org/index/](http://mirrors.ynuosa.org/index/)（镜像站列表）,[http://pypi.opensource.ynu.edu.cn/](http://pypi.opensource.ynu.edu.cn/)（收录pypi）
 26. 哈尔滨工业大学：[https://mirrors.hit.edu.cn/](https://mirrors.hit.edu.cn/)
