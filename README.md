@@ -159,9 +159,9 @@
  * 浙江大学：[http://mirrors.zju.edu.cn/postgresql/](http://mirrors.zju.edu.cn/postgresql/)
  * 中国科技大学：[http://mirrors.ustc.edu.cn/postgresql/](http://mirrors.ustc.edu.cn/postgresql/)
 
-
 5. MariaDB
  * 清华大学：[https://mirror.tuna.tsinghua.edu.cn/help/mariadb/](https://mirror.tuna.tsinghua.edu.cn/help/mariadb/)
+ * 中国科技大学：[http://mirrors.ustc.edu.cn/help/mariadb.html](http://mirrors.ustc.edu.cn/help/mariadb.html)
 
 6. mongodb
  * 阿里云：[http://mirrors.aliyun.com/mongodb/](http://mirrors.aliyun.com/mongodb/)
@@ -176,13 +176,10 @@
  * 清华大学：[https://mirrors.tuna.tsinghua.edu.cn/AdoptOpenJDK/](https://mirrors.tuna.tsinghua.edu.cn/AdoptOpenJDK/)
  * 南京大学：[http://mirrors.nju.edu.cn/AdoptOpenJDK/](http://mirrors.nju.edu.cn/AdoptOpenJDK/)
 
-
 2. eclipse
  * 大连东软信息学院：[http://mirrors.neusoft.edu.cn/eclipse/technology/epp/downloads/release/](http://mirrors.neusoft.edu.cn/eclipse/technology/epp/downloads/release/)（推荐，维护及时）
  * 中国科技大学：[http://mirrors.ustc.edu.cn/eclipse/technology/epp/downloads/release/](http://mirrors.ustc.edu.cn/eclipse/technology/epp/downloads/release/)
  * 北京理工大学：[http://mirror.bit.edu.cn/eclipse/technology/epp/downloads/release/](http://mirror.bit.edu.cn/eclipse/technology/epp/downloads/release/)
-
-
 
 3. Oracle JDK
  * 华为云：[https://repo.huaweicloud.com/java/jdk/](https://repo.huaweicloud.com/java/jdk/)
@@ -190,7 +187,6 @@
 4. 安卓源码AOSP
  * 清华大学：[https://mirrors.tuna.tsinghua.edu.cn/help/AOSP/](https://mirrors.tuna.tsinghua.edu.cn/help/AOSP/)
  * 中国科技大学：[https://lug.ustc.edu.cn/wiki/mirrors/help/aosp](https://lug.ustc.edu.cn/wiki/mirrors/help/aosp)
-
 
 5. Docker/k8s容器镜像(docker.io、gcr.io、k8s.gcr.io、quay.io、ghcr.io、nvcr.io等常见公共容器镜像仓库)
  * DaoCloud：[https://hub.daocloud.io/](https://hub.daocloud.io/)
