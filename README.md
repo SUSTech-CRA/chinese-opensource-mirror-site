@@ -205,7 +205,12 @@
  * 阿里云：[https://mirrors.aliyun.com/pypi/simple/](https://mirrors.aliyun.com/pypi/simple/)
  * 清华大学：[https://pypi.tuna.tsinghua.edu.cn/simple/](https://pypi.tuna.tsinghua.edu.cn/simple/),[https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple/](https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple/)
 
-
+8. 前端公共库（jquery/vue/angular/bootstrap等）
+* cdnjs.net：[https://cdnjs.net/](https://cdnjs.net/)
+* BootCDN：[https://www.bootcdn.cn/](https://www.bootcdn.cn/)
+* baomitu/360 前端：[https://cdn.baomitu.com/](https://cdn.baomitu.com/)
+* 七牛/staticfile：[http://www.staticfile.org/](http://www.staticfile.org/)
+* 新浪：[http://lib.sinaapp.com/](http://lib.sinaapp.com/)
 
 
 ## 三、官方镜像列表状态地址
