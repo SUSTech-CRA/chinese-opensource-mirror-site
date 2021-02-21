@@ -11,7 +11,7 @@
 
 ### （二）、教育站
 1. 中国科技大学：[https://mirrors.ustc.edu.cn/](https://mirrors.ustc.edu.cn/)（2021.2已用容量估计：46.1T）
-2. 清华大学：[https://mirrors.tuna.tsinghua.edu.cn/](https://mirrors.tuna.tsinghua.edu.cn/)（当前已用容量估计：9.8T）
+2. 清华大学：[https://mirrors.tuna.tsinghua.edu.cn/](https://mirrors.tuna.tsinghua.edu.cn/)（2021.2已用容量估计：77.7T）
 3. 北京外国语大学：[http://mirrors.bfsu.edu.cn/](http://mirrors.bfsu.edu.cn/)
 4. 北京交通大学：[https://mirror.bjtu.edu.cn/](https://mirror.bjtu.edu.cn/)
 5. 北京理工大学：[http://mirror.bit.edu.cn/web/](http://mirror.bit.edu.cn/web/)
