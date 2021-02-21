@@ -8,6 +8,7 @@
 5. 华为云：[https://mirrors.huaweicloud.com/](https://mirrors.huaweicloud.com/)
 6. 腾讯云：[https://mirrors.cloud.tencent.com/](https://mirrors.cloud.tencent.com/)
 7. 平安云：[https://mirrors.pinganyun.com/](https://mirrors.pinganyun.com/)
+8. 开源社/Azure中国：[http://mirror.azure.cn/](http://mirror.azure.cn/)
 
 ### （二）、教育站
 1. 中国科技大学：[https://mirrors.ustc.edu.cn/](https://mirrors.ustc.edu.cn/)（2021.2已用容量估计：46.1T）
