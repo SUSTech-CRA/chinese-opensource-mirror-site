@@ -17,7 +17,7 @@
 5. 北京理工大学：[http://mirror.bit.edu.cn/web/](http://mirror.bit.edu.cn/web/)
 6. 兰州大学：[http://mirror.lzu.edu.cn/](http://mirror.lzu.edu.cn/)
 7. 上海交通大学：[http://ftp.sjtu.edu.cn/](http://ftp.sjtu.edu.cn/)，[ftp://ftp.sjtu.edu.cn/](ftp://ftp.sjtu.edu.cn/)（华东南地区教育网出口）
-8. 大连东软信息学院：[http://mirrors.neusoft.edu.cn/](http://mirrors.neusoft.edu.cn/)（当前已用容量估计：2.5T）
+8. 大连东软信息学院：[http://mirrors.neusoft.edu.cn/](http://mirrors.neusoft.edu.cn/)（2021.2已用容量估计：10.6T）
 9. 浙江大学：[http://mirrors.zju.edu.cn/](http://mirrors.zju.edu.cn/)
 10. 重庆大学：[http://mirrors.cqu.edu.cn/](http://mirrors.cqu.edu.cn/)（当前已用容量估计：3.93T）
 11. 南阳理工学院：[http://mirror.nyist.edu.cn/](http://mirror.nyist.edu.cn/)
