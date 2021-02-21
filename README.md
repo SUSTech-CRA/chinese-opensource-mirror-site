@@ -190,7 +190,7 @@
  * 中国科技大学：[https://lug.ustc.edu.cn/wiki/mirrors/help/aosp](https://lug.ustc.edu.cn/wiki/mirrors/help/aosp)
 
 
-5. Docker Hub/k8s(docker.io、gcr.io、k8s.gcr.io、quay.io、ghcr.io等常见公共镜像仓库)
+5. Docker/k8s容器镜像(docker.io、gcr.io、k8s.gcr.io、quay.io、ghcr.io、nvcr.io等常见公共容器镜像仓库)
  * DaoCloud：[https://hub.daocloud.io/](https://hub.daocloud.io/)
  * 阿里云：[https://dev.aliyun.com/search.html](https://dev.aliyun.com/search.html)
  * 中国科技大学：[http://mirrors.ustc.edu.cn/help/dockerhub.html?highlight=docker](http://mirrors.ustc.edu.cn/help/dockerhub.html?highlight=docker)
