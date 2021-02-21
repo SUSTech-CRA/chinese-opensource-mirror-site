@@ -65,6 +65,7 @@
 13. 龙芯开源社区：[http://mirrors.loongnix.org/](http://mirrors.loongnix.org/)（只收录龙芯镜像）
 14. 英荔教育：[https://mirrors.e-ducation.cn/](https://mirrors.e-ducation.cn/)
 15. injdk.cn的各版本JDK镜像：[https://www.injdk.cn/](https://www.injdk.cn/)
+16. 百度Go Module仓库代理：[http://goproxy.baidu.com/](http://goproxy.baidu.com/)
 
 
 ### （五）、确认关闭的镜像站
