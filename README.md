@@ -157,6 +157,8 @@
 
 4. PostgreSQL
  * 浙江大学：[http://mirrors.zju.edu.cn/postgresql/](http://mirrors.zju.edu.cn/postgresql/)
+ * 中国科技大学：[http://mirrors.ustc.edu.cn/postgresql/](http://mirrors.ustc.edu.cn/postgresql/)
+
 
 5. MariaDB
  * 清华大学：[https://mirror.tuna.tsinghua.edu.cn/help/mariadb/](https://mirror.tuna.tsinghua.edu.cn/help/mariadb/)
