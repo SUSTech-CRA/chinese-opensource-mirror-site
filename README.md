@@ -38,6 +38,7 @@
 24. 重庆邮电大学：[http://mirrors.cqupt.edu.cn/](http://mirrors.cqupt.edu.cn/)[https://mirror.redrock.team/](https://mirror.redrock.team/)（当前已用容量估计：1.68T）
 25. 云南大学：[http://mirrors.ynuosa.org/index/](http://mirrors.ynuosa.org/index/)（镜像站列表）,[http://pypi.opensource.ynu.edu.cn/](http://pypi.opensource.ynu.edu.cn/)（收录pypi）
 26. 哈尔滨工业大学：[https://mirrors.hit.edu.cn/](https://mirrors.hit.edu.cn/)
+27. 南方科技大学：[https://mirrors.sustech.edu.cn/](https://mirrors.sustech.edu.cn/)
 
 
 ### （三）、教育站校内
