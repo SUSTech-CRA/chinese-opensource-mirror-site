@@ -2,7 +2,7 @@
 ## 一、站点版
 ### （一）、企业站
 1. 网易：[https://mirrors.163.com/](https://mirrors.163.com/)（2021.2已用容量估计：13.9T）
-2. 搜狐：[http://mirrors.sohu.com/](http://mirrors.sohu.com/)（Ubuntu旧发行版同步被冻结，不同步Ubuntu新发行版，Ubuntu源同步正常）
+2. 搜狐：[http://mirrors.sohu.com/](http://mirrors.sohu.com/)
 3. 阿里云：[https://mirrors.aliyun.com](https://mirrors.aliyun.com)（部分镜像同步延迟超过1天）
 4. 首都在线科技股份有限公司（英文名Capital Online Data Service）：[http://mirrors.yun-idc.com/](http://mirrors.yun-idc.com/)
 5. 华为云：[https://mirrors.huaweicloud.com/](https://mirrors.huaweicloud.com/)
