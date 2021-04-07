@@ -55,7 +55,7 @@
 2. 豆瓣pypi：[http://pypi.doubanio.com/](http://pypi.doubanio.com/)，[https://pypi.doubanio.com/](https://pypi.doubanio.com/)
 3. v2ex的pypi：[http://pypi.v2ex.com/](http://pypi.v2ex.com/)（首页有https异常NET::ERR_CERT_COMMON_NAME_INVALID）
 4. 淘宝NPM：[https://npm.taobao.org/](https://npm.taobao.org/)
-5. Ruby China的RubyGems：[https://gems.ruby-china.org/](https://gems.ruby-china.org/)
+5. Ruby China的RubyGems：[https://gems.ruby-china.com/](https://gems.ruby-china.com/)
 6. 淘宝TAEMaven仓库镜像：[http://mvnrepo.tae.taobao.com/content/groups/public/](http://mvnrepo.tae.taobao.com/content/groups/public/)
 7. 阿里云Maven仓库镜像：[http://maven.aliyun.com/nexus/content/groups/public](http://maven.aliyun.com/nexus/content/groups/public)
 8. 阿里云Jcenter仓库镜像：[http://maven.aliyun.com/nexus/content/repositories/jcenter/](http://maven.aliyun.com/nexus/content/repositories/jcenter/)
