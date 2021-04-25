@@ -156,7 +156,8 @@
  * 搜狐：[http://mirrors.sohu.com/mysql/](http://mirrors.sohu.com/mysql/)
  * USTC：[http://mirrors.ustc.edu.cn/mysql-ftp/Downloads/](http://mirrors.ustc.edu.cn/mysql-ftp/Downloads/)
 
-4. MySQL-repo
+4. MySQL-repo（基本下载不全，建议下载慢时离线安装）
+ * 中国科技大学：[https://mirrors.ustc.edu.cn/mysql-repo/](https://mirrors.ustc.edu.cn/mysql-repo/)
  * 清华大学：[https://mirrors.tuna.tsinghua.edu.cn/mysql/](https://mirrors.tuna.tsinghua.edu.cn/mysql/)
  * 腾讯云：[https://mirrors.cloud.tencent.com/mysql/](https://mirrors.cloud.tencent.com/mysql/)
 
