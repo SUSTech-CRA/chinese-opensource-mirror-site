@@ -151,24 +151,28 @@
 2. Nginx
  * 搜狐：[http://mirrors.sohu.com/nginx/](http://mirrors.sohu.com/nginx/)
 
-3. MySQL
+3. MySQL-ftp
  * 网易163：[http://mirrors.163.com/mysql/Downloads/](http://mirrors.163.com/mysql/Downloads/)
  * 搜狐：[http://mirrors.sohu.com/mysql/](http://mirrors.sohu.com/mysql/)
  * USTC：[http://mirrors.ustc.edu.cn/mysql-ftp/Downloads/](http://mirrors.ustc.edu.cn/mysql-ftp/Downloads/)
 
-4. PostgreSQL
+4. MySQL-repo
+ * 清华大学：[https://mirrors.tuna.tsinghua.edu.cn/mysql/](https://mirrors.tuna.tsinghua.edu.cn/mysql/)
+ * 腾讯云：[https://mirrors.cloud.tencent.com/mysql/](https://mirrors.cloud.tencent.com/mysql/)
+
+5. PostgreSQL
  * 浙江大学：[http://mirrors.zju.edu.cn/postgresql/](http://mirrors.zju.edu.cn/postgresql/)
  * 中国科技大学：[http://mirrors.ustc.edu.cn/postgresql/](http://mirrors.ustc.edu.cn/postgresql/)
 
-5. MariaDB
+6. MariaDB
  * 清华大学：[https://mirror.tuna.tsinghua.edu.cn/help/mariadb/](https://mirror.tuna.tsinghua.edu.cn/help/mariadb/)
  * 中国科技大学：[http://mirrors.ustc.edu.cn/help/mariadb.html](http://mirrors.ustc.edu.cn/help/mariadb.html)
 
-6. mongodb
+7. mongodb
  * 阿里云：[http://mirrors.aliyun.com/mongodb/](http://mirrors.aliyun.com/mongodb/)
  * 清华大学：[https://mirrors.tuna.tsinghua.edu.cn/mongodb/](https://mirrors.tuna.tsinghua.edu.cn/mongodb/)
 
-7. VideoLAN
+8. VideoLAN
  * 大连东软信息学院：[http://mirrors.neusoft.edu.cn/videolan/](http://mirrors.neusoft.edu.cn/videolan/)
  * 中国科技大学：[http://mirrors.ustc.edu.cn/videolan-ftp/](http://mirrors.ustc.edu.cn/videolan-ftp/)
 
